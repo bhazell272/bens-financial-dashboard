@@ -58,7 +58,7 @@ All dates are Shanghai dates (`Asia/Shanghai`), `YYYY-MM-DD`.
 
 ## Predictions (set by the Monday daily run, scored by the Friday weekly task)
 
-- Monday: write `public/data/predictions/<monday>.json`:
+- Monday: if `public/data/predictions/<monday>.json` already exists, keep it. Otherwise write it:
   `{week, question, options:[a,b], now, closesAt (Monday 23:00 Shanghai, ISO),
   claude: base64(JSON {call, justification})}` and set
   `index.currentPrediction`. Questions rotate: RBA, AUD/CNY or AUD/USD
@@ -81,6 +81,8 @@ Rewrite `public/data/careers.json` (`Careers` type). Only dates confirmed on
 official pages get `confirmed: true`. Never invent a deadline.
 
 ## Rules for all tasks
+
+- If WebFetch can't reach a site, work from search results, but say so in your report and prefer stories whose snippets give the facts plainly.
 
 - Paraphrase; no long quotes. Paywalled sources (AFR): headline and link
   only, `paywalled: true`, never claim to have read them.

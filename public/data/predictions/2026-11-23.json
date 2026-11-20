@@ -1,0 +1,11 @@
+{
+ "week": "2026-11-23",
+ "question": "Will AUD/USD close above 0.67 on Friday 27 November?",
+ "options": [
+  "Above 0.67",
+  "Below 0.67"
+ ],
+ "now": "Last seen about 0.673 in mid-November (single source, not a live quote)",
+ "closesAt": "2026-11-23T15:00:00Z",
+ "claude": "eyJjYWxsIjogMSwgImp1c3RpZmljYXRpb24iOiAiQmVsb3cgMC42NyBpcyBteSBjYWxsLCBuYXJyb3dseS4gQSB3ZWFrIGpvYnMgcHJpbnQgYW5kIHRhbGsgb2YgYSBsb25nIFJCQSBob2xkIHJlZHVjZSB0aGUgQVVEJ3MgcmF0ZSBzdXBwb3J0LCB3aGlsZSBoYXdraXNoIEZlZCBtaW51dGVzIHN1cHBvcnQgdGhlIFVTIGRvbGxhci4gVGhlIHJpc2s6IHRoZSBBVUQgd2FzIGFyb3VuZCAwLjY3MyBtaWQtTm92ZW1iZXIsIHNvIGl0IGlzIGNsb3NlIHRvIHRoZSBsaW5lLCBhbmQgYSBoYXdraXNoIHN1cnByaXNlIGZyb20gdGhlIFJCQSBvciBzdHJvbmdlciBDaGluYSBkYXRhIGNvdWxkIGxpZnQgaXQuIn0="
+}

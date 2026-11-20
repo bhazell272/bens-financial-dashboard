@@ -1,1 +1,8 @@
-{ "latest": null, "days": [], "weeks": [], "currentPrediction": null }
+{
+ "latest": "2026-11-20",
+ "days": [
+  "2026-11-20"
+ ],
+ "weeks": [],
+ "currentPrediction": "2026-11-23"
+}

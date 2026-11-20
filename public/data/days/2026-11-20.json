@@ -1,0 +1,400 @@
+{
+ "date": "2026-11-20",
+ "generatedAt": "2026-11-19T22:45:00Z",
+ "readMinutes": 12,
+ "top": [
+  {
+   "h": "Unemployment jumps to 4.9%, highest since 2021",
+   "d": "Australia lost about 44,000 jobs in October when economists expected a gain, weeks after the RBA's fifth hike this year took the cash rate to 4.85%. It shifts the debate from more hikes to how long the RBA holds."
+  },
+  {
+   "h": "RBA minutes: the hike was a close call",
+   "d": "Minutes released on 17 November show the board weighed a hike against a hold. The majority saw rising forward-looking inflation pressure; a minority wanted more time for earlier tightening to work."
+  },
+  {
+   "h": "ASIC sues CBA over alleged hidden CommBiz fees",
+   "d": "ASIC alleges about 42,000 business customers were overcharged roughly $8.5 million in undisclosed fees. CBA says it has remediated and disputes parts of the case."
+  }
+ ],
+ "sections": [
+  {
+   "id": "westpac",
+   "name": "Westpac",
+   "minutes": 2,
+   "items": [
+    {
+     "h": "Westpac economists: Australia's labour market is no longer tight",
+     "d": "October employment fell by about 43,500 and unemployment rose to 4.9% from 4.7%, according to Westpac's morning report. A separate Westpac economics update this month argues rates may have peaked, pointing to slower growth, higher unemployment and a housing market cooling faster than expected.",
+     "why": "Your future employer's economists are signalling that the next RBA move is more likely a hold than a hike, which matters for margins and for mortgage credit quality.",
+     "sources": [
+      {
+       "title": "Westpac IQ Morning Report, 19 Nov",
+       "url": "https://www.westpaciq.com.au/economics/2026/11/Morning-report-19-Nov-2026"
+      },
+      {
+       "title": "Westpac: Have interest rates hit their peak?",
+       "url": "https://www.westpac.com.au/news/money-matters/2026/11/have-interest-rates-hit-their-peak-westpac-economics-thinks-so/"
+      },
+      {
+       "title": "ABC News",
+       "url": "https://www.abc.net.au/news/2026-11-19/unemployment-rate-jumps-in-october-in-australia/107399076"
+      }
+     ],
+     "when": "19 Nov",
+     "mention": "Ask which parts of the Westpac economics team's rate view the business bank is already planning around."
+    },
+    {
+     "h": "Westpac's FY26 result: flat underlying profit, 77c final dividend",
+     "d": "Westpac reported statutory net profit of about $6.8bn for the year to September, down 1%, and about $7.0bn excluding notable items, flat on FY25. The final dividend was 77 cents, a CET1 ratio of 12.5% sits above its 11.25% target, and business and institutional lending grew strongly.",
+     "why": "This is the baseline your division is judged against: capital is comfortable, but growth is coming from business lending rather than profit expansion.",
+     "sources": [
+      {
+       "title": "Westpac FY26 result via Mirage News",
+       "url": "https://www.miragenews.com/westpac-announces-fy26-result-1770086/"
+      },
+      {
+       "title": "Westpac media releases, 2 Nov",
+       "url": "https://www.westpac.com.au/about-westpac/media/media-releases/2026/2-november/"
+      }
+     ],
+     "when": "2 Nov"
+    }
+   ]
+  },
+  {
+   "id": "banks",
+   "name": "Big four banks",
+   "minutes": 2,
+   "items": [
+    {
+     "h": "ASIC sues Commonwealth Bank over alleged undisclosed CommBiz fees",
+     "d": "ASIC alleges CBA charged undisclosed 'contra leg' fees on direct debit and direct credit payments, affecting about 42,000 business customers and about $8.5 million between November 2020 and May 2025. CBA stopped charging in June 2025, has waived the fees since February 2026, and says it has paid over $26.4 million in remediation, while disputing some allegations.",
+     "why": "Business banking fee disclosure is now a live enforcement area, which is directly relevant to Westpac's business bank.",
+     "sources": [
+      {
+       "title": "ASIC media release 26-279MR",
+       "url": "https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-279mr-asic-sues-commonwealth-bank-alleging-tens-of-thousands-of-business-customers-overcharged-fees"
+      },
+      {
+       "title": "The New Daily",
+       "url": "https://www.thenewdaily.com.au/themoneyedition/small-business/2026/11/12/thousands-of-cba-customers-caught-in-alleged-hidden-fees-scandal"
+      }
+     ],
+     "when": "12 Nov"
+    }
+   ]
+  },
+  {
+   "id": "regulation",
+   "name": "Regulation",
+   "minutes": 2,
+   "items": [
+    {
+     "h": "RBA minutes show a debate between hiking and holding",
+     "d": "Minutes of the 3-4 November meeting were published on 17 November. Coverage says members debated a 25bp rise against holding; the board delivered the hike on a 6-3 vote and dropped its explicit warning of further increases.",
+     "why": "A split board and a data-dependent stance mean each jobs and CPI release now moves rate expectations.",
+     "sources": [
+      {
+       "title": "FXStreet on the RBA minutes",
+       "url": "https://www.fxstreet.com/news/rba-minutes-members-debate-raising-cash-rate-target-by-25-bps-or-holding-steady-202611170034"
+      },
+      {
+       "title": "Xinhua Finance (Chinese)",
+       "url": "https://www.cnfin.com/yw-lb/detail/20261103/4490221_1.html"
+      }
+     ],
+     "when": "17 Nov"
+    },
+    {
+     "h": "APRA finalises its new bank licensing framework",
+     "d": "APRA finalised outcomes-based licensing criteria for domestic bank applicants on 10 November, after consultations in 2025 and 2026. It is written into a legislative instrument rather than guidance.",
+     "why": "Clearer licensing rules lower the barrier for new entrants, which is a long-run competitive threat to incumbents like Westpac.",
+     "sources": [
+      {
+       "title": "Lexology summary of APRA's release",
+       "url": "https://www.lexology.com/library/detail.aspx?g=327ca208-89fe-45cc-a8fb-d0e9d7c002e6"
+      },
+      {
+       "title": "APRA news and publications",
+       "url": "https://www.apra.gov.au/news-and-publications"
+      }
+     ],
+     "when": "10 Nov"
+    }
+   ]
+  },
+  {
+   "id": "wealth",
+   "name": "Wealth & super",
+   "minutes": 1,
+   "items": [],
+   "background": {
+    "h": "Background: why super matters to a bank's wealth arm",
+    "d": "The super guarantee has been 12% of ordinary earnings since 1 July 2025, so contributions flow into funds every pay cycle. Banks earn from this pool in three ways: platforms that hold investments, advice and adviser networks, and deposits and lending to members. When markets fall or regulation tightens, fee margins on platforms are what move. Nothing market-moving broke on super this morning, so treat this as groundwork."
+   }
+  },
+  {
+   "id": "business",
+   "name": "Business banking",
+   "minutes": 1,
+   "items": [],
+   "background": {
+    "h": "Background: why small business loan margins are under pressure",
+    "d": "An August 2026 Australian Banking Association report found the margin banks charge on small business loans above the cash rate is at a five-year low, which it puts down to strong competition. Non-bank lenders have also been gaining share, particularly on smaller loans, according to RBA research. The tension for a business banker: growth in lending is strong, but each dollar lent earns less."
+   }
+  },
+  {
+   "id": "china",
+   "name": "Australia–China",
+   "minutes": 1,
+   "items": [
+    {
+     "h": "Goldman trims its 2027 iron ore forecast as China's buying power grows",
+     "d": "A 17 November report says Goldman Sachs cut its 2027 iron ore forecast to $92 a tonne from $96, and expects China's centralised buyer CMRG to gain pricing influence. Australia's Resources Minister has warned about the effect of that centralised purchasing.",
+     "why": "Iron ore is Australia's largest export to China, so lower prices feed through to the budget, the AUD and mining-state credit quality.",
+     "sources": [
+      {
+       "title": "SteelOrbis",
+       "url": "https://www.steelorbis.com/steel-news/latest-news/australia-warns-over-chinas-iron-ore-pricing-influence-as-goldman-sachs-cuts-2027-forecast-1491454.htm"
+      }
+     ],
+     "when": "17 Nov"
+    }
+   ]
+  },
+  {
+   "id": "hk",
+   "name": "Hong Kong",
+   "minutes": 1,
+   "items": [
+    {
+     "h": "Hong Kong passes banking legislation amendments",
+     "d": "On 18 November the government welcomed the Legislative Council's passage of the Banking Legislation (Miscellaneous Amendments) Bill 2026. The changes start phasing in from 1 January 2027.",
+     "why": "It updates the rulebook for the banks you may eventually apply to; read the HKMA release for the specifics.",
+     "sources": [
+      {
+       "title": "HKMA press release, 18 Nov",
+       "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/11/20261118-4/"
+      }
+     ],
+     "when": "18 Nov"
+    }
+   ]
+  },
+  {
+   "id": "citi",
+   "name": "Citi",
+   "minutes": 1,
+   "items": [
+    {
+     "h": "Citi's wealth head rules out big acquisitions, backs organic growth",
+     "d": "A 17 November report says Citi's wealth chief Andy Sieg is focused on growing organically rather than buying. In May Citi said it would put a large share of its global wealth hiring into Asia, with roughly 100 private bankers and about 400 specialists planned.",
+     "why": "Citi is a rival employer for wealth and Asia-facing roles, and the hiring plan shows where it is investing.",
+     "sources": [
+      {
+       "title": "WealthManagement.com",
+       "url": "https://www.wealthmanagement.com/wealth-management-industry-trends/citi-rules-out-major-wealth-acquisitions-in-hunt-for-5t"
+      },
+      {
+       "title": "DealStreetAsia",
+       "url": "https://www.dealstreetasia.com/stories/citi-to-boost-asia-wealth-business-with-big-hires-says-global-chief-483249"
+      }
+     ],
+     "when": "17 Nov"
+    }
+   ]
+  },
+  {
+   "id": "global",
+   "name": "Global",
+   "minutes": 1,
+   "items": [
+    {
+     "h": "Fed minutes: October was a close call over a possible hike",
+     "d": "Minutes published on 18 November for the 27-28 October meeting show the committee held rates but weighed raising them. Westpac's economists read the minutes as hawkish.",
+     "why": "Higher-for-longer US rates support the US dollar and keep pressure on the AUD and on Australian funding costs.",
+     "sources": [
+      {
+       "title": "ABA Banking Journal",
+       "url": "https://bankingjournal.aba.com/2026/11/fomc-minutes-show-close-call-over-possible-rate-hike/"
+      },
+      {
+       "title": "Westpac IQ Morning Report, 19 Nov",
+       "url": "https://www.westpaciq.com.au/economics/2026/11/Morning-report-19-Nov-2026"
+      }
+     ],
+     "when": "18 Nov"
+    }
+   ]
+  }
+ ],
+ "primer": [
+  {
+   "term": "Monetary policy minutes",
+   "text": "A written record of a central bank board's discussion, released about two weeks after the decision. It shows how close a vote was and what members were weighing."
+  },
+  {
+   "term": "Hawkish",
+   "text": "Leaning toward higher interest rates to fight inflation. The opposite is dovish."
+  },
+  {
+   "term": "Net interest margin",
+   "text": "The gap between what a bank earns on loans and pays on funding, as a share of its earning assets. Competition on loan pricing squeezes it."
+  },
+  {
+   "term": "Civil penalty proceedings",
+   "text": "Court action in which a regulator such as ASIC asks for a fine rather than a criminal conviction. It is the main enforcement tool against corporate misconduct."
+  }
+ ],
+ "quiz": [
+  {
+   "id": "2026-11-20-q1",
+   "type": "mc",
+   "q": "How did the RBA's board vote when it lifted the cash rate to 4.85% on 3 November?",
+   "options": [
+    "Unanimous for a hike",
+    "6-3 in favour of a hike",
+    "5-4 against a hike",
+    "Unanimous for a hold"
+   ],
+   "answer": 1,
+   "explain": "Six members voted to hike and three to hold, and the statement dropped its earlier warning about further rises.",
+   "from": "Friday · Regulation",
+   "topic": "regulation"
+  },
+  {
+   "id": "2026-11-20-q2",
+   "type": "mc",
+   "q": "Why does a surprise jump in unemployment make further RBA hikes less likely?",
+   "options": [
+    "It raises bank profits",
+    "A weaker labour market eases wage and inflation pressure",
+    "It weakens the US dollar",
+    "It increases the super guarantee"
+   ],
+   "answer": 1,
+   "explain": "Slack in the labour market reduces wage pressure and demand, so the RBA has less reason to tighten further.",
+   "from": "Friday · Westpac",
+   "topic": "westpac"
+  },
+  {
+   "id": "2026-11-20-q3",
+   "type": "mc",
+   "q": "What is ASIC alleging about CBA's CommBiz fees?",
+   "options": [
+    "Fees were too low",
+    "Undisclosed 'contra leg' fees were charged on direct debits and credits",
+    "CBA paid late settlement",
+    "CBA lent to unlicensed borrowers"
+   ],
+   "answer": 1,
+   "explain": "ASIC says terms did not clearly disclose a second fee on the matching leg of transfers, affecting about 42,000 business customers.",
+   "from": "Friday · Big four banks",
+   "topic": "banks"
+  },
+  {
+   "id": "2026-11-20-q4",
+   "type": "mc",
+   "q": "What does it mean that Fed minutes showed a 'close call over a possible hike'?",
+   "options": [
+    "The Fed had already cut",
+    "Some members seriously considered raising rates",
+    "The Fed will buy bonds",
+    "Inflation fell below target"
+   ],
+   "answer": 1,
+   "explain": "The committee held rates but a hike was a serious option, which is a hawkish signal for the US dollar.",
+   "from": "Friday · Global",
+   "topic": "global"
+  },
+  {
+   "id": "2026-11-20-q5",
+   "type": "written",
+   "q": "Unemployment hit 4.9% weeks after the RBA hiked to 4.85%. In about 150 words, explain how this could affect a bank like Westpac through margins and credit quality, and name one indicator you would watch next.",
+   "topic": "westpac"
+  }
+ ],
+ "chinese": {
+  "segments": [
+   {
+    "t": "澳大利亚的"
+   },
+   {
+    "t": "央行",
+    "py": "yāngháng"
+   },
+   {
+    "t": "说,"
+   },
+   {
+    "t": "多数",
+    "py": "duōshù"
+   },
+   {
+    "t": "委员",
+    "py": "wěiyuán"
+   },
+   {
+    "t": "支持"
+   },
+   {
+    "t": "加息",
+    "py": "jiā xī"
+   },
+   {
+    "t": "到4.85%。"
+   },
+   {
+    "t": "利率",
+    "py": "lìlǜ"
+   },
+   {
+    "t": "变高了。"
+   }
+  ],
+  "english": "Australia's central bank says most board members supported raising rates to 4.85%. Interest rates have become higher.",
+  "original": {
+   "title": "RootData (Chinese): 澳联储会议纪要:多数委员支持将现金利率上调至 4.85%",
+   "url": "https://www.rootdata.com/news/832646"
+  },
+  "words": [
+   {
+    "hz": "央行",
+    "py": "yāngháng",
+    "en": "central bank"
+   },
+   {
+    "hz": "委员",
+    "py": "wěiyuán",
+    "en": "committee member"
+   },
+   {
+    "hz": "加息",
+    "py": "jiā xī",
+    "en": "to raise interest rates"
+   },
+   {
+    "hz": "多数",
+    "py": "duōshù",
+    "en": "majority, most"
+   },
+   {
+    "hz": "利率",
+    "py": "lìlǜ",
+    "en": "interest rate"
+   }
+  ]
+ },
+ "markets": {
+  "summary": "Unemployment rose to 4.9% in October, just after the RBA's fifth hike of 2026 took the cash rate to 4.85%, so debate has turned from more hikes to how long the RBA holds.",
+  "forWestpac": "A weaker labour market and falling house prices raise credit-quality questions for a mortgage-heavy bank, while a high-for-longer cash rate supports margins.",
+  "extras": [
+   {
+    "name": "RBA cash rate",
+    "sub": "Hiked 25bp on 3 Nov, 6-3 vote. Hold expected 8 Dec (CommBank economists); futures pricing not verified",
+    "value": "4.85%",
+    "change": "+0.25 pts on 3 Nov"
+   }
+  ]
+ }
+}

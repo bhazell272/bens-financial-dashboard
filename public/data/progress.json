@@ -1,0 +1,15 @@
+{
+ "updated": "2026-11-20",
+ "summary": "Your first morning. Progress fills in as you go.",
+ "streak": 0,
+ "opened30": 0,
+ "quizAccuracy": null,
+ "writtenAvg": null,
+ "predictions": {
+  "you": 0,
+  "claude": 0
+ },
+ "wordsKnown": 0,
+ "reasoning": [],
+ "weakest": []
+}
