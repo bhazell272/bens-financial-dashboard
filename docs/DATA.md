@@ -56,7 +56,7 @@ All dates are Shanghai dates (`Asia/Shanghai`), `YYYY-MM-DD`.
    the `state` branch. This is the one write the task makes to `state`.
 8. `npm run validate`, then commit and push `main`.
 
-## Predictions (Mondays in the daily run, scored Fridays)
+## Predictions (set by the Monday daily run, scored by the Friday weekly task)
 
 - Monday: write `public/data/predictions/<monday>.json`:
   `{week, question, options:[a,b], now, closesAt (Monday 23:00 Shanghai, ISO),
@@ -64,7 +64,7 @@ All dates are Shanghai dates (`Asia/Shanghai`), `YYYY-MM-DD`.
   `index.currentPrediction`. Questions rotate: RBA, AUD/CNY or AUD/USD
   level, ASX 200 or Westpac weekly direction, Hang Seng direction. A clear
   yes/no answer by Friday's close.
-- Friday: add `result: {answer, actual, you?, claude, claudeSaw, youSaw?}`.
+- Friday evening (weekly digest task, after the markets close): add `result: {answer, actual, you?, claude, claudeSaw, youSaw?}`.
   Read the user's call from `state:predictions/<monday>.json`. Score both
   justifications 0–3 on `evidence`, `mechanism`, `risk`, separately from
   who was right. Append to `progress.reasoning`.
@@ -72,7 +72,8 @@ All dates are Shanghai dates (`Asia/Shanghai`), `YYYY-MM-DD`.
 ## Weekly digest (Friday evening)
 
 Write `public/data/weeks/<monday>.json` (`Week` type) from the week's
-`days/*.json`, prepend its id to `index.weeks`, validate, push.
+`days/*.json`, prepend its id to `index.weeks`, score this week's prediction
+(above), validate, push.
 
 ## Careers check (Tuesday morning)
 
