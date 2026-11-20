@@ -15,12 +15,20 @@ export interface Story {
   sources: Source[];
   when?: string; // e.g. "6h ago" or an ISO date
   mention?: string; // optional networking opener
+  more?: DeepDive[]; // the in-depth read, shown on "Read more"
+}
+
+// One part of a story's in-depth read, e.g. {h: "Background", p: "…"}.
+// Paragraphs are separated by blank lines ("\n\n") inside p.
+export interface DeepDive {
+  h: string;
+  p: string;
 }
 
 export interface Section {
   id: string; // westpac | banks | regulation | wealth | business | china | hk | citi | global
   name: string;
-  minutes: number;
+  minutes: number; // full read time for the section, deep dives included
   items: Story[];
   background?: { h: string; d: string }; // used on quiet days instead of items
 }
@@ -74,7 +82,8 @@ export interface WrittenMark {
 export interface Day {
   date: string; // YYYY-MM-DD (Shanghai date)
   generatedAt: string;
-  readMinutes: number;
+  readMinutes: number; // time to skim the summaries
+  fullMinutes?: number; // time to read everything, deep dives included
   top: { h: string; d: string }[];
   sections: Section[];
   primer: { term: string; text: string }[];

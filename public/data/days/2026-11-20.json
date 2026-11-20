@@ -20,7 +20,7 @@
   {
    "id": "westpac",
    "name": "Westpac",
-   "minutes": 2,
+   "minutes": 7,
    "items": [
     {
      "h": "Westpac economists: Australia's labour market is no longer tight",
@@ -41,7 +41,25 @@
       }
      ],
      "when": "19 Nov",
-     "mention": "Ask which parts of the Westpac economics team's rate view the business bank is already planning around."
+     "mention": "Ask which parts of the Westpac economics team's rate view the business bank is already planning around.",
+     "more": [
+      {
+       "h": "Background: what \"tight\" means",
+       "p": "A labour market is called tight when there are few spare workers: unemployment is low, employers struggle to hire, and wages tend to rise faster than productivity justifies. Central banks watch this because wage growth feeds into services prices, which is the stickiest part of inflation. For most of the past few years Australian unemployment sat in the low-to-mid 4s, which economists broadly read as a market near or beyond full employment.\n\nThe RBA's problem is that it cannot see the \"natural\" level of unemployment directly. It infers it from how wages and prices behave. That is why a single jobs print matters so much to the debate: it is a rare piece of hard evidence about whether the economy has slack."
+      },
+      {
+       "h": "The numbers",
+       "p": "Westpac's morning report and ABC coverage put the October change in employment at a fall of roughly 43,500 to 44,000 jobs, against forecasts for a gain, and the unemployment rate rose to 4.9% from 4.7%. A two-tenths move in the rate in one month is large by Australian standards, and the Bureau of Statistics survey is noisy, so economists usually wait for confirmation in the next one or two releases before declaring a turning point.\n\nThe context is a cash rate of 4.85% after five hikes this year. Monetary policy works with a lag of a year or more, so a softer labour market weeks after the latest hike is consistent with earlier tightening starting to bite."
+      },
+      {
+       "h": "What it means for Westpac and the banks",
+       "p": "For a bank, unemployment is the single most important driver of credit losses on home loans. Borrowers rarely default because rates rise alone; they default when they also lose income. Rising unemployment therefore raises arrears and, over time, the provisions banks hold against expected losses, which come straight out of profit.\n\nThe other side is margin. A higher cash rate has generally helped banks earn more on deposits, but if rates are about to plateau, that tailwind fades while competition for mortgages continues. Westpac's own economists argue rates may have peaked, pointing to slower growth, higher unemployment and a housing market cooling faster than expected. That is a useful view to understand if you join the bank: it is the lens through which its economists will talk to business and wealth clients."
+      },
+      {
+       "h": "What to watch next",
+       "p": "The next RBA meeting is on 8 December, and the existing market note in this briefing records CommBank economists expecting a hold, though futures pricing was not verified. Between now and then, the November labour force data and the next CPI release will decide whether October was a blip. For a graduate, a good habit is to track three numbers together: unemployment, wage growth and underlying inflation. If the first rises while the other two fall, the case for holding or cutting strengthens."
+      }
+     ]
     },
     {
      "h": "Westpac's FY26 result: flat underlying profit, 77c final dividend",
@@ -57,14 +75,66 @@
        "url": "https://www.westpac.com.au/about-westpac/media/media-releases/2026/2-november/"
       }
      ],
-     "when": "2 Nov"
+     "when": "2 Nov",
+     "more": [
+      {
+       "h": "Background: how to read a bank result",
+       "p": "Banks report profit twice a year, and the headline number is only the start. Analysts strip out \"notable items\" (one-off charges such as remediation or restructuring) to get a view of underlying earnings, then break the result into net interest income (the spread between what the bank earns on loans and pays on funding), non-interest income (fees), costs, and the charge for bad debts. They also watch capital, because capital determines how much a bank can lend and how much it can return to shareholders."
+      },
+      {
+       "h": "The numbers",
+       "p": "For the year to September 2026, Westpac reported statutory net profit of about $6.8bn, down 1%, and about $7.0bn excluding notable items, flat on FY25. Revenue was about $22.6bn, up 1%, and net interest income rose 1% to about $19.7bn. The final dividend was 77 cents per share.\n\nThe capital figure is CET1 (common equity tier 1), the highest-quality capital a bank holds, expressed as a share of risk-weighted assets. Westpac reported 12.5% against the 11.25% target in the existing summary. The gap above target is surplus capital, which gives management options: lend more, buy back shares, or hold a buffer for a downturn."
+      },
+      {
+       "h": "What it means for you",
+       "p": "A flat profit with slightly higher revenue tells you costs and credit charges absorbed the gains, and that growth is coming from lending volume rather than from fatter margins. The summary notes business and institutional lending grew strongly. That is directly relevant if you join the business bank: the division is where the growth is being asked of, in a market where, as the business section shows, loan margins are at a five-year low.\n\nIt also helps to know the debate analysts have about Westpac: whether it can lift returns by cutting costs and simplifying, or whether a competitive mortgage market caps the upside. Reading the full result presentation, not just the media release, is worth doing before your first day."
+      }
+     ]
+    },
+    {
+     "h": "Westpac passes on the full 0.25% hike to variable mortgages",
+     "d": "After the RBA lifted the cash rate to 4.85% on 3 November, Westpac said it would raise variable home loan rates by 0.25% for new and existing customers from 13 November. Its Westpac Life bonus-interest rate also rose by 0.25% to 5.5%.",
+     "why": "It is the clearest read on how your future employer balances margin against customer pressure at a hard moment for borrowers.",
+     "sources": [
+      {
+       "title": "Westpac media release, 4 Nov",
+       "url": "https://www.westpac.com.au/about-westpac/media/media-releases/2026/4-november"
+      },
+      {
+       "title": "Canstar: Friday the 13th, CBA and ANZ lock in 0.25 hike",
+       "url": "https://www.canstar.com.au/news/friday-13th-nightmare-cba-anz-lock-in-025-mortgage-hike/"
+      },
+      {
+       "title": "Broker News: lenders pass on full hike",
+       "url": "https://www.brokernews.com.au/news/breaking-news/lenders-pass-on-full-reserve-bank-hike-as-refinancing-gap-widens-290260.aspx"
+      }
+     ],
+     "when": "4 Nov",
+     "more": [
+      {
+       "h": "Background: how a bank sets a variable rate",
+       "p": "Westpac decides its own variable mortgage rates. The RBA's cash rate is an input, but the bank also weighs its cost of funds (deposits, wholesale borrowing and equity), the competitive position, and its target margin. When the RBA moves, banks traditionally announce their decisions within days, and a full pass-through is the usual outcome because most banks' funding costs rise too.\n\nA mortgage book is also a huge, slow-moving asset. Variable loans reprice immediately, which is why a hike affects borrowers quickly and why banks care about how many borrowers will switch to a rival after a hike."
+      },
+      {
+       "h": "The numbers",
+       "p": "Westpac's own release says variable home loan rates rise 0.25% a year for new and existing customers from 13 November, following the 0.25% RBA move on 3 November. Westpac Life has a total variable rate with bonus interest rising by 0.25% to 5.5% from the same date. Canstar's report listed Westpac with the lowest advertised variable rate among the majors at 6.49%, ahead of NAB at 6.54%, CBA at 6.59% and ANZ at 6.75%. I did not find confirmed changes for other Westpac savings accounts, so deposit pass-through remains unverified."
+      },
+      {
+       "h": "What it means for margins and customers",
+       "p": "On a $600,000 loan, a 0.25 percentage point rise adds about $1,500 a year in interest, before any other change. That is the arithmetic behind the pressure on households that this briefing's jobs story makes sharper. For the bank, passing on the full amount while moving deposit rates less preserves margin. But the political and reputational cost of that is real, and regulators and the media watch the gap between loan and deposit pass-through.\n\nA lower advertised rate than rivals also matters because most new borrowers compare rates through brokers. Brokers are a large share of new lending in Australia, so being the cheapest headline rate gives a bank a flow of applications, though it is the average rate on the whole book that determines profit."
+      },
+      {
+       "h": "What to watch next",
+       "p": "Watch for Westpac's response on savings rates, any changes to fixed rates as swap rates move, and arrears data in the first-half 2027 result. If unemployment keeps rising, the bank's hardship and collections teams are the early warning system."
+      }
+     ]
     }
    ]
   },
   {
    "id": "banks",
    "name": "Big four banks",
-   "minutes": 2,
+   "minutes": 5,
    "items": [
     {
      "h": "ASIC sues Commonwealth Bank over alleged undisclosed CommBiz fees",
@@ -80,14 +150,70 @@
        "url": "https://www.thenewdaily.com.au/themoneyedition/small-business/2026/11/12/thousands-of-cba-customers-caught-in-alleged-hidden-fees-scandal"
       }
      ],
-     "when": "12 Nov"
+     "when": "12 Nov",
+     "more": [
+      {
+       "h": "Background: what ASIC alleges",
+       "p": "ASIC alleges that CBA charged \"contra leg\" fees on direct debit and direct credit payments made through CommBiz, its business online banking platform. A contra leg is the matching side of a payment: when a business debits many customers' accounts in one batch, there is one entry on the business's account (the contra) against the many individual entries. ASIC says the terms did not clearly disclose a fee on that second leg.\n\nThe case is a civil penalty proceeding, which means ASIC asks a court to impose a penalty rather than seeking a criminal conviction. The usual legal hooks for this kind of conduct are the obligations to provide services efficiently, honestly and fairly and to not engage in misleading or deceptive conduct, though the specific provisions ASIC relies on are in its media release."
+      },
+      {
+       "h": "The numbers",
+       "p": "According to ASIC and the coverage in The New Daily, about 42,000 business customers were affected and roughly $8.5 million in fees were charged between November 2020 and May 2025. CBA stopped charging in June 2025, has waived the fees since February 2026, and says it has paid over $26.4 million in remediation. Remediation is larger than the alleged overcharge because it typically includes interest and other compensation. CBA disputes some allegations.\n\nFor scale: $8.5 million is small against CBA's annual profit. The significance is the principle and the precedent, since a court penalty is set by reference to the seriousness of the conduct and the need to deter others."
+      },
+      {
+       "h": "What it means for Westpac and the banks",
+       "p": "Business banking has historically had lighter consumer-style protections than retail, so fee disclosure for small business customers has been a quieter area of risk. This case signals that regulators will test it. Every major bank has transaction banking products with layered fees, and compliance teams will be asking whether their own fee terms would survive the same scrutiny.\n\nFor someone entering Westpac's business bank, the practical lesson is that product governance (how fees are designed, disclosed and reviewed) is a first-line responsibility, not just a compliance function."
+      },
+      {
+       "h": "Different views",
+       "p": "ASIC's position is that thousands of customers were charged without clear disclosure. CBA's position, as reported, is that it has already fixed the issue and compensated customers, and it disputes parts of the case. Courts often treat prompt self-reporting and remediation as mitigating factors in setting a penalty, so the dispute will likely centre on how serious the conduct was rather than whether anything went wrong at all. Whether that holds here is for the court to decide."
+      }
+     ]
+    },
+    {
+     "h": "All the majors pass on the November hike in full",
+     "d": "Westpac, CBA, ANZ, NAB and ING Australia all announced full 0.25 percentage point increases to variable mortgage rates after the RBA moved to 4.85%, with most effective around 13 November. Reports say deposit rate rises are narrower than loan rises.",
+     "why": "Pass-through decisions are where the RBA, bank margins and household budgets meet, and the gap between loan and deposit pass-through is a core margin driver.",
+     "sources": [
+      {
+       "title": "MPA: major banks lift mortgage rates en masse",
+       "url": "https://www.mpamag.com/au/news/general/major-banks-lift-mortgage-rates-en-masse-following-latest-rba-hike/597410"
+      },
+      {
+       "title": "Canstar: rate tracker and hike coverage",
+       "url": "https://www.canstar.com.au/news/friday-13th-nightmare-cba-anz-lock-in-025-mortgage-hike/"
+      },
+      {
+       "title": "NAB: home loan rate update",
+       "url": "https://www.nab.com.au/news/interest-rates/nab-updates-home-loan-interest-rates"
+      }
+     ],
+     "when": "13 Nov",
+     "more": [
+      {
+       "h": "Background: deposit beta and funding mix",
+       "p": "Banks fund themselves from several sources. The largest is customer deposits, which include cheap transaction accounts and more expensive savings and term deposits. The rest is wholesale debt (domestic and offshore bonds, and short-term markets) and equity. When the cash rate rises, wholesale costs reprice fast, while transaction deposits barely move. Analysts call the share of a policy rate move that a bank passes to depositors the \"deposit beta\". A low beta is good for margins."
+      },
+      {
+       "h": "The numbers",
+       "p": "The RBA's 3 November hike took the cash rate to 4.85%, the fifth of 2026. As of 13 November every major bank and ING had passed it on in full to variable borrowers, according to Canstar's coverage. Canstar's advertised variable rates among the majors ranged from 6.49% (Westpac) to 6.75% (ANZ), a 26 basis point spread. A Broker News headline notes the gap between rates for refinancers and existing customers is widening, though I only saw the headline.\n\nSome trackers still listed three of the banks as pending, so check dates when comparing sources: they are not always updated."
+      },
+      {
+       "h": "What it means",
+       "p": "A uniform response across banks tells you the market is competitive on price but not on policy: nobody wants to be the bank that absorbs part of the hike. The competitive action is instead in discounts for new borrowers and in cashback offers, which is why existing customers often pay more than new ones.\n\nFor earnings, an environment where loan rates rise fully and deposit rates partly can lift net interest margin for a half. The offset is credit quality. Households on variable loans feel the hike immediately. With unemployment at 4.9%, banks will watch arrears in the 30 and 90 days past due buckets, and in early-stage hardship requests."
+      },
+      {
+       "h": "Different views",
+       "p": "Consumer groups argue that slow deposit pass-through is unfair to savers. Banks say deposit rates reflect competition and cost, and that they offer bonus rates for saving behaviour. Economists tend to note that the cash rate transmits through many channels, not just mortgage prices."
+      }
+     ]
     }
    ]
   },
   {
    "id": "regulation",
    "name": "Regulation",
-   "minutes": 2,
+   "minutes": 8,
    "items": [
     {
      "h": "RBA minutes show a debate between hiking and holding",
@@ -103,7 +229,25 @@
        "url": "https://www.cnfin.com/yw-lb/detail/20261103/4490221_1.html"
       }
      ],
-     "when": "17 Nov"
+     "when": "17 Nov",
+     "more": [
+      {
+       "h": "Background: why minutes matter",
+       "p": "The RBA board decides the cash rate eight times a year, and publishes a statement on the day. Two weeks later it publishes minutes, a summary of the discussion. Markets read minutes for tone: how finely balanced was the decision, what risks did members stress, and what would change their mind. Minutes often move the currency and rate expectations on the day because they can reveal more hawkishness or dovishness than the statement.\n\nSince the 2023 reforms, the RBA has had a separate monetary policy board of nine members, which is why a 6-3 vote is possible."
+      },
+      {
+       "h": "The numbers",
+       "p": "The minutes of the 3-4 November meeting were published on 17 November. Coverage says members debated a 25 basis point rise against holding steady. The board delivered the hike on a 6-3 vote, and the post-meeting statement dropped its explicit warning that further increases may be needed. A basis point is one hundredth of a percentage point, so 25bp is 0.25 percentage points; the cash rate is now 4.85%.\n\nThe Chinese-language Xinhua Finance source in the story, and the RootData item in this briefing's Chinese section, show how widely the decision was covered in Chinese financial media, which is useful reading practice for you."
+      },
+      {
+       "h": "Different views",
+       "p": "The majority saw rising forward-looking inflation pressure and judged that acting now was safer than waiting. The minority wanted more time for earlier tightening to work through the economy, given the lags in policy. The October jobs data, which arrived after the meeting, adds weight to the minority's case: unemployment rose to 4.9%.\n\nThat does not prove the board was wrong. Employment figures are volatile, and the board's concern was about inflation expectations and price pressure ahead, not only today's labour market."
+      },
+      {
+       "h": "What it means for banks, and what to watch",
+       "p": "A cash rate that has risen five times in 2026 lifts funding costs and loan rates together. The most important impact on banks is on borrowers, since households with large variable mortgages absorb the hikes first. A board that has signalled \"data dependent\" makes each CPI and jobs release a market event, so expect volatility around them. The next meeting is 8 December; the existing market note records CommBank economists expecting a hold but this has not been verified against market pricing."
+      }
+     ]
     },
     {
      "h": "APRA finalises its new bank licensing framework",
@@ -119,34 +263,334 @@
        "url": "https://www.apra.gov.au/news-and-publications"
       }
      ],
-     "when": "10 Nov"
+     "when": "10 Nov",
+     "more": [
+      {
+       "h": "Background: why licensing rules matter",
+       "p": "In Australia, a company that takes deposits must be an authorised deposit-taking institution (ADI), licensed by APRA under the Banking Act. APRA has long used a staged pathway for new banks, letting entrants start with restrictions while they build capital and systems. Critics argued the process was opaque, which discouraged challengers; supporters argued that prudential safety demands a high bar because depositors are protected by the government's financial claims scheme."
+      },
+      {
+       "h": "What changed",
+       "p": "According to the summary found, on 10 November APRA finalised outcomes-based licensing criteria for domestic bank applicants after consultation in 2025 and 2026, and wrote them into a legislative instrument rather than leaving them as guidance. \"Outcomes-based\" means the rules describe what a safe bank must be able to demonstrate (for example, capital, governance and the ability to be wound up in an orderly way) rather than prescribing a fixed checklist of how to get there. An instrument has legal force, which gives applicants more certainty than guidance, which a regulator can revise more easily."
+      },
+      {
+       "h": "What it means for Westpac",
+       "p": "The big four dominate home lending, and the policy goal behind this change is more competition. New entrants cannot match the majors' scale in deposits and branches, so the realistic threat is narrow: digital banks targeting specific segments such as small business or younger customers, taking share at the edges. Business banking, a growth area for Westpac, is also where specialist lenders find a gap. The major banks' defence is customer relationships, product breadth and brand, plus the scale advantage in funding."
+      },
+      {
+       "h": "Different views",
+       "p": "Pro-competition voices welcome clearer rules as a way to lower barriers. Prudential purists warn that easing entry can lead to weak lending standards if new banks chase growth. APRA's answer is that it is making the criteria clearer, not lower. The test will be whether any new bank actually applies and how APRA treats them."
+      }
+     ]
+    },
+    {
+     "h": "Treasury consults on new Banking Regulations and higher thresholds",
+     "d": "Treasury has been consulting on draft Banking Regulations 2026 to replace the 2016 regulations before they expire on 1 April 2027. Separate proposals would lift a withdrawal limit from $15,000 to $30,000 and raise the Financial Accountability Regime notification threshold for banks from $20bn to $30bn, with those consultations closing on 20 November.",
+     "why": "These are the plumbing rules the banks operate under, and changes to accountability thresholds decide which institutions face the heaviest scrutiny.",
+     "sources": [
+      {
+       "title": "Allens: Financial services update, November",
+       "url": "https://www.allens.com.au/insights-news/insights/2026/11/financial-services-update-november/"
+      },
+      {
+       "title": "Ashurst: Financial services snapshots, 10 Nov",
+       "url": "https://www.ashurstperkinscoie.com/en/insights/financial-services-snapshots-10-november-2026/"
+      }
+     ],
+     "when": "20 Nov",
+     "more": [
+      {
+       "h": "Background: how banking law is layered",
+       "p": "Australian banking regulation sits in layers. The Banking Act is the primary law. Regulations made under it fill in detail and can be updated by the government without a full act of Parliament. APRA then writes prudential standards, and ASIC enforces conduct and disclosure rules. Regulations that expire automatically (\"sunsetting\") are periodically remade, which is why the 2016 regulations need replacing before 1 April 2027."
+      },
+      {
+       "h": "What is proposed",
+       "p": "According to the Allens update, Treasury is consulting on draft Banking Regulations 2026. Sources conflict on the closing date: one says 30 October, Allens lists 6 November, so treat it as closed. Two further proposals close on 20 November: raising the s69B withdrawal limit to $30,000 from $15,000, and raising the Financial Accountability Regime (FAR) enhanced notification threshold for banks from $20bn to $30bn. I did not see the detail of what the s69B limit applies to, so check the consultation paper.\n\nFAR makes senior executives personally accountable for outcomes in their areas, and requires banks to register accountable people with the regulators. An \"enhanced notification\" threshold decides which banks must meet the stricter version of the requirements. Raising the threshold would take some mid-sized institutions out of the stricter tier."
+      },
+      {
+       "h": "What it means for Westpac",
+       "p": "The four majors are far above any of these thresholds, so the direct effect on Westpac is small. The significance is policy direction. The government is trying to calibrate burden to size, which fits APRA's three-tiered proportionality approach, and to make the regime easier for smaller banks. For you, FAR is a daily reality at a major: accountability maps name individuals for each business area, and when something goes wrong, regulators ask who was accountable."
+      },
+      {
+       "h": "Different views",
+       "p": "Industry supports lighter thresholds for smaller banks as a competition measure. Critics of loosening say the accountability regime was created after the Royal Commission precisely because poor conduct occurred in institutions of all sizes. Which view prevails is a policy choice for Treasury after consultation."
+      }
+     ]
+    },
+    {
+     "h": "ASIC and APRA set 2026-27 priorities and streamline the accountability regime",
+     "d": "ASIC released supervisory priorities for 2026-27 that include a review of banks' use of AI and a focus on banks getting the basics right. ASIC and APRA also announced changes to the Financial Accountability Regime to reduce administrative burden, aiming to implement them by the end of 2026.",
+     "why": "Supervisory priorities tell you what a graduate in a bank is likely to be asked about in the next two years: AI, lending standards and accountability.",
+     "sources": [
+      {
+       "title": "ASIC 26-121MR: FAR changes",
+       "url": "https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-121mr-asic-and-apra-announce-far-changes-to-reduce-administrative-burden/"
+      },
+      {
+       "title": "ASIC supervisory letter on banking, 30 Sept 2026",
+       "url": "https://download.asic.gov.au/media/0tobhg1c/26-232mr-asic-supervisory-letter-banking-published-30-september-2026.pdf"
+      },
+      {
+       "title": "APRA Corporate Plan 2026-27",
+       "url": "https://www.apra.gov.au/node/61115"
+      }
+     ],
+     "when": "This autumn",
+     "more": [
+      {
+       "h": "Background: two regulators, two jobs",
+       "p": "APRA is the prudential regulator: it cares whether a bank is safe, with enough capital, liquidity and risk management to survive stress. ASIC is the conduct regulator: it cares whether customers are treated fairly and disclosures are honest. Large banks deal with both, and the Financial Accountability Regime (FAR) is jointly administered, which is why changes are announced together."
+      },
+      {
+       "h": "What was announced",
+       "p": "The search results show ASIC's 2026-27 banking priorities, which include reviewing banks' use of AI and continuing to press banks on getting the basics right, supported by a supervisory letter published on 30 September 2026. ASIC and APRA announced FAR changes designed to reduce administrative burden and aim to implement them by the end of 2026. APRA's Corporate Plan says that during 2026-27 it will review banks' lending practices, starting with lending to small and medium-sized businesses; the business section covers that. I did not see further detail of the AI review's scope or timing."
+      },
+      {
+       "h": "What it means for Westpac and you",
+       "p": "AI in banking is both an opportunity (faster credit decisions, fraud detection, productivity) and a risk (model bias, explainability, customer harm if a model is wrong). A supervisory review of AI use signals that banks need documented governance: who is accountable, how models are tested and monitored. Graduates in risk, data and business roles will meet these questions early.\n\nStreamlining FAR is a reminder that regulatory burden is a cost banks track closely. Less paperwork means less compliance cost, but the accountability principle stays."
+      },
+      {
+       "h": "Different views",
+       "p": "Banks welcome rules that cut duplication. Consumer advocates tend to want regulators to keep pressure on conduct. Whether burden reduction weakens accountability depends on the final design, which will be visible when the changes are implemented."
+      }
+     ]
     }
    ]
   },
   {
    "id": "wealth",
    "name": "Wealth & super",
-   "minutes": 1,
-   "items": [],
-   "background": {
-    "h": "Background: why super matters to a bank's wealth arm",
-    "d": "The super guarantee has been 12% of ordinary earnings since 1 July 2025, so contributions flow into funds every pay cycle. Banks earn from this pool in three ways: platforms that hold investments, advice and adviser networks, and deposits and lending to members. When markets fall or regulation tightens, fee margins on platforms are what move. Nothing market-moving broke on super this morning, so treat this as groundwork."
-   }
+   "minutes": 6,
+   "items": [
+    {
+     "h": "ASIC issues \"final warning\" over super switching lead generation",
+     "d": "In a 9 November report on 15 financial services licensees, ASIC warned that firms using lead generators risk their licences. It found five licensees lacked controls prohibiting high-risk super switching, and another four showed some features of it.",
+     "why": "Super switching is a conduct risk that sits between advice, platforms and marketing, and the wealth arms of banks have to police it.",
+     "sources": [
+      {
+       "title": "The New Daily: watchdog warning over super switching calls",
+       "url": "https://www.thenewdaily.com.au/themoneyedition/superannuation/2026/11/09/slick-sales-tactics-finance-watchdog-warning-over-super-switching-calls"
+      },
+      {
+       "title": "Superguide: super news for November 2026",
+       "url": "https://www.superguide.com.au/super-booster/super-news-for-november-2026"
+      },
+      {
+       "title": "ASIC 26-135MR: platform trustees",
+       "url": "https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-135mr-asic-calls-platform-trustees-to-account-over-persistent-failures-to-safeguard-super-savings"
+      }
+     ],
+     "when": "9 Nov",
+     "more": [
+      {
+       "h": "Background: what super switching is and why it is risky",
+       "p": "Super switching means moving a person's retirement savings from one fund to another, often to a self-managed or high-risk investment platform. It can be legitimate, but it is a known harm pattern: cold calls or ads offer a free \"super health check\", claim the person's current fund is underperforming, and push them to move quickly. The money can end up in high-fee or illiquid products that are hard to unwind. Because super is compulsory and large, a mistaken switch can be financially devastating for retirees."
+      },
+      {
+       "h": "The numbers",
+       "p": "ASIC's 9 November report reviewed 15 Australian financial services licensees. It found some outsourced providers assessed clients' risk profiles or discussed investment recommendations, which should be done by qualified advisers. Five licensees had no controls prohibiting high-risk super switching, and four had some features of it. One report says lead generators referred 7,639 clients to advisers over 18 months, with more than $678 million moved. I saw that figure only in secondary coverage, not in ASIC's own release. A separate ASIC report (REP 833) looked at platform trustees and gaps in monitoring for this behaviour."
+      },
+      {
+       "h": "What it means for bank wealth arms",
+       "p": "Licensees are responsible for the people and firms they use, including outsourced marketing and lead generators. A bank's wealth division must show it has controls over what its advisers and partners do. That is a significant compliance burden: monitoring call scripts, advice files, and flows into higher-risk products. It is also a reputational one, since the Royal Commission and later reforms rested on the idea that advice failures damage trust in the whole sector."
+      },
+      {
+       "h": "Different views",
+       "p": "ASIC frames the warning as final and has said licences are at risk. The industry argues that lead generation is a legitimate way to reach clients who need advice, and that the problem is a minority of bad actors. The tension is between access to advice, which is expensive, and consumer protection. Watch for enforcement action against licensees named or implied in the report."
+      }
+     ]
+    },
+    {
+     "h": "ASIC reviews adviser qualifications as the register shrinks",
+     "d": "Recent coverage says ASIC has begun a further review of the Financial Advisers Register to test which providers meet the education standard. Of 15,469 relevant providers, 7,959 had indicated they hold an approved degree or qualification, and an industry estimate suggests up to 1,600 advisers could leave.",
+     "why": "Adviser numbers and quality shape the supply of advice, which is the main distribution channel for wealth products.",
+     "sources": [
+      {
+       "title": "ASIC: further review of adviser qualifications",
+       "url": "https://www.asic.gov.au/about-asic/news-centre/news-items/asic-begins-further-review-of-financial-adviser-qualifications/"
+      },
+      {
+       "title": "Money Management: final warning shows 15% of advice industry at risk",
+       "url": "https://www.moneymanagement.com.au/news/financial-planning/asics-final-warning-shows-15-advice-industry-risk"
+      },
+      {
+       "title": "ASIC financial advice update, September 2026",
+       "url": "https://www.asic.gov.au/about-asic/news-centre/news-items/financial-advice-update-september-2026/"
+      }
+     ],
+     "when": "Recent",
+     "more": [
+      {
+       "h": "Background: the education standard",
+       "p": "After the Royal Commission, Parliament set a professional standards regime for financial advisers: a code of ethics, an exam, and a minimum education requirement of an approved degree or equivalent qualification, with existing advisers given time to meet it. The aim was to lift trust and competence in an industry that had a history of conflicted advice. ASIC maintains the Financial Advisers Register, which is public and shows who is licensed to give advice."
+      },
+      {
+       "h": "The numbers",
+       "p": "According to the coverage found, of 15,469 relevant providers on the register, 7,959 had indicated they hold an approved degree or qualification, and Padua Wealth Data has estimated as many as 1,600 advisers could exit because of the education requirement. Separately, ASIC's November 2025 exam had 308 candidates, with a pass mark of 67.5% reached by 208 people. I could not date the review announcement precisely from the results. The ASIC enforcement angle: it banned five MWL Financial Services advisers over advice on the Shield product, and a tribunal affirmed two other five-year bans."
+      },
+      {
+       "h": "What it means for wealth careers",
+       "p": "A shrinking adviser pool pushes up the value of each adviser and makes efficiency tools, paraplanning support and digital advice more attractive. For a graduate entering a bank's wealth arm, it also means the profession is moving toward degree-qualified, exam-passing advisers, and that you will be working alongside people held to a code of ethics. If you want to become an adviser, you would need to meet the same qualification, exam and supervised-year requirements; check the current ASIC requirements."
+      },
+      {
+       "h": "Different views",
+       "p": "Supporters say higher standards protect clients. Critics argue they push advice costs up and leave middle-income Australians underserved. The government has also been reviewing how to make advice more accessible, so expect continuing debate about quality versus access."
+      }
+     ]
+    },
+    {
+     "h": "Payday Super is live: what changed for funds and employers",
+     "d": "From 1 July 2026, employers must pay super at the same time as wages, rather than quarterly. The change is intended to speed up contributions and reduce unpaid super.",
+     "why": "Faster, more frequent contributions change cash flows into funds and platforms, and raise operational demands on banks that pay payroll for business clients.",
+     "sources": [
+      {
+       "title": "AustralianSuper: shaping a stronger super system",
+       "url": "https://www.australiansuper.com/about-us/newsroom/2026/11/shaping-a-stronger-super-system"
+      },
+      {
+       "title": "Superguide: super news for November 2026",
+       "url": "https://www.superguide.com.au/super-booster/super-news-for-november-2026"
+      }
+     ],
+     "when": "Since 1 Jul",
+     "more": [
+      {
+       "h": "Background: why super is paid late",
+       "p": "Until this year, employers had to pay the super guarantee quarterly, with the money often sitting with the employer for weeks after wages. Unpaid super was a persistent problem: employees could lose out if their employer became insolvent, and regulators found the quarterly cycle made it harder to detect underpayment. The reform, known as Payday Super, aligns super payments with the pay cycle."
+      },
+      {
+       "h": "What changed",
+       "p": "According to AustralianSuper's update, from 1 July 2026 employers are required to pay superannuation at the same time as salary and wages. The super guarantee rate has been 12% of ordinary earnings since 1 July 2025, so employers now pay 12% on top of pay each pay run. I did not see detail of the penalties or the clearing-house arrangements, so check the ATO for the rules and any transition relief."
+      },
+      {
+       "h": "What it means for banks and wealth",
+       "p": "For funds, more frequent contributions mean smoother cash flow and more administration, since each payment must be matched to the right member quickly. For banks with business customers, payroll and payments become a service opportunity (integration with accounting and payroll software) and an operational risk if a batch fails. Business bankers will increasingly be asked by clients how to handle the cash-flow impact of paying super every pay run rather than quarterly."
+      },
+      {
+       "h": "What to watch next",
+       "p": "The ATO publishes super guarantee compliance results, and more data will show whether Payday Super reduces underpayment. The first Division 296 request-for-information batch is expected from November 2027, according to ATO notes. Division 296 is the additional tax on large super balances, a separate policy that affects high-balance wealth clients."
+      }
+     ]
+    }
+   ]
   },
   {
    "id": "business",
    "name": "Business banking",
-   "minutes": 1,
-   "items": [],
-   "background": {
-    "h": "Background: why small business loan margins are under pressure",
-    "d": "An August 2026 Australian Banking Association report found the margin banks charge on small business loans above the cash rate is at a five-year low, which it puts down to strong competition. Non-bank lenders have also been gaining share, particularly on smaller loans, according to RBA research. The tension for a business banker: growth in lending is strong, but each dollar lent earns less."
-   }
+   "minutes": 6,
+   "items": [
+    {
+     "h": "Small business loan margins hit a five-year low as credit tops $750bn",
+     "d": "An August 2026 ABA industry report found margins on small business loans above the cash rate are at a five-year low, and credit outstanding reached $750bn, up from $567bn in 2023. CBA's business lending book grew 13% in the year to June 2026, with ANZ and NAB growing more slowly.",
+     "why": "This is the economics of the business you may join: strong growth in volume, thinner profit on each dollar lent.",
+     "sources": [
+      {
+       "title": "Broker Daily: banks battle for SME lending as margins hit five-year low",
+       "url": "https://www.brokerdaily.au/lender/21910-banks-battle-for-sme-lending-as-margins-hit-five-year-low"
+      },
+      {
+       "title": "ABA: Banking Australia's small and medium businesses (PDF)",
+       "url": "https://www.ausbanking.org.au/wp-content/uploads/2026/08/Banking-Australias-small-medium-businesses.pdf"
+      },
+      {
+       "title": "Broker News: banks slash small business loan margins",
+       "url": "https://www.brokernews.com.au/news/breaking-news/banks-slash-small-business-loan-margins-to-fiveyear-low-289820.aspx"
+      }
+     ],
+     "when": "Aug 2026",
+     "more": [
+      {
+       "h": "Background: how business loans are priced",
+       "p": "A business loan is priced as a margin over a benchmark, typically the bank bill swap rate or the cash rate. The margin has to cover the bank's funding cost above the benchmark, operating cost, expected credit losses and the return on the capital it must hold. Small business loans are costlier to serve than large corporate loans, and often more risky, because small firms have thinner buffers. Many are secured against property, which is why banks care about the housing market even in business lending."
+      },
+      {
+       "h": "The numbers",
+       "p": "According to the ABA's August 2026 report as covered by trade press, the margin on small business loans above the cash rate is at a five-year low, which the ABA attributes to strong competition. Credit outstanding to small business reached $750bn, compared with $567bn in 2023. CBA's business lending book increased 13% over the 12 months to June 2026, while ANZ and NAB reported smaller increases. A \"margin\" here is the loan rate minus the cash rate, so a lower margin means a borrower pays less above the benchmark."
+      },
+      {
+       "h": "What it means for Westpac",
+       "p": "Lower margins with strong growth mean the bank must get more volume or lower costs to keep returns. A lender can accept lower margins if the credit quality is strong, but with unemployment rising and interest rates high, loss risk is up. The ABA presents the margin fall as a benefit to customers, which is how the industry will frame it; analysts will see it as pressure on returns. For your career, business banking increasingly rewards relationship depth, speed, and the ability to offer deposits, payments and trade services, not just the cheapest rate."
+      },
+      {
+       "h": "Different views",
+       "p": "The ABA says competition is healthy and credit flow is strong. Critics, including some small business groups, say access to finance remains hard for many firms, particularly those without property as security. Both can be true: lending is large in aggregate while some borrowers still struggle to get approved."
+      }
+     ]
+    },
+    {
+     "h": "APRA to review bank lending to small and medium businesses",
+     "d": "APRA's 2026-27 Corporate Plan says it will review banks' lending practices, starting with lending to small and medium-sized businesses, in the first half of the year. ASIC plans a parallel review of non-banks.",
+     "why": "A prudential review of SME lending standards is the sort of work that lands on a business banker's desk as questions about credit policy and documentation.",
+     "sources": [
+      {
+       "title": "APRA Corporate Plan 2026-27: strategic objectives",
+       "url": "https://www.apra.gov.au/apra-corporate-plan-2026-27/our-strategic-objectives"
+      },
+      {
+       "title": "RBA Financial Stability Review, March 2026",
+       "url": "https://www.rba.gov.au/publications/fsr/2026/mar/resilience-of-the-australian-financial-system.html"
+      }
+     ],
+     "when": "2026-27",
+     "more": [
+      {
+       "h": "Background: thematic reviews",
+       "p": "APRA does not only audit banks one at a time. It runs thematic reviews, where it examines the same issue across many banks and publishes lessons. Past examples in housing led to specific guidance, such as limits on lending at high debt-to-income ratios. A review of SME lending means APRA wants to understand whether credit standards are slipping after strong growth."
+      },
+      {
+       "h": "What was said",
+       "p": "The Corporate Plan says APRA will focus on banks' lending to small and medium-sized businesses in the first half of 2026-27, coordinating with ASIC's planned review of non-banks to limit duplication. It also says slower credit growth could intensify competition and raise the risk of weaker lending standards, and that housing lending standards get more attention in the second half. ASIC's banking priorities say it will gain insight into bank lending to the sector through APRA's review. The RBA's March 2026 Financial Stability Review found overall lending standards appear prudent despite strong business lending growth. I did not find the review's scope or findings published."
+      },
+      {
+       "h": "What it means for Westpac",
+       "p": "Combined with the margin story, a review of lending practices will test whether banks are chasing volume at the cost of credit discipline. Bankers should expect questions about how they assess serviceability, how they value collateral, and how they monitor deteriorating borrowers. The most useful graduate skill is basic credit analysis: cash flow, leverage, security and character, and what could go wrong."
+      },
+      {
+       "h": "What to watch next",
+       "p": "APRA often publishes a summary of findings after a review. Watch for any letter to banks, and for how the big four describe SME credit quality in their next reporting."
+      }
+     ]
+    },
+    {
+     "h": "Non-banks have nearly doubled their share of smaller business loans",
+     "d": "A UTS analysis says non-bank lenders have nearly doubled their share of smaller business lending since 2019, reaching around 27% in 2025. It cites RBA findings that strict criteria, collateral demands and borrowing costs are the main obstacles to getting finance.",
+     "why": "Non-banks are the competitive threat in the segment Westpac wants to grow, and they win by speed and flexibility.",
+     "sources": [
+      {
+       "title": "UTS: small businesses in Australia have a hard time getting finance",
+       "url": "https://www.uts.edu.au/news/2026/07/small-businesses-in-australia-have-a-hard-time-getting-finance"
+      },
+      {
+       "title": "Public Accountant: why banks are chasing your SME clients",
+       "url": "https://publicaccountant.com.au/features/small-business-lending-conditions-australia-2026/"
+      }
+     ],
+     "when": "Jul 2026",
+     "more": [
+      {
+       "h": "Background: who the non-banks are",
+       "p": "Non-bank lenders are financiers that do not take deposits, such as fintech lenders, invoice financiers, equipment financiers and private credit funds. They fund themselves from wholesale markets or investors, so they carry no deposit insurance and, usually, lower capital rules than banks. That lets them move faster and take on borrowers a bank would decline, but at higher prices."
+      },
+      {
+       "h": "The numbers",
+       "p": "The UTS analysis says non-bank lenders' share of smaller business lending nearly doubled between 2019 and 2025, reaching around 27%. It cites RBA research that the main obstacles for small businesses seeking finance are strict lending criteria, collateral requirements and borrowing costs. The earlier background in this briefing noted the RBA's view that non-banks have gained share particularly on smaller loans."
+      },
+      {
+       "h": "What it means for banks",
+       "p": "If a bank turns down a borrower and a non-bank funds them, the bank loses the relationship and the deposits and payments that come with it. That is why banks are investing in faster approval and data-driven lending (using accounting and bank data to assess cash flow), and why partnerships with fintechs are common. The trade-off is credit risk: non-banks accepting higher risk are more exposed in a downturn, and a wave of non-bank failures could hit the banks that lend to them or buy their loan books."
+      },
+      {
+       "h": "Different views",
+       "p": "Supporters say non-banks widen access for borrowers who are underserved. Regulators worry about lighter oversight, which is why ASIC is planning its own review of non-bank lenders' practices, including unfair contract terms. Whichever view you take, the practical point for a graduate is that your competitor in business banking is increasingly not another bank."
+      }
+     ]
+    }
+   ]
   },
   {
    "id": "china",
    "name": "Australia–China",
-   "minutes": 1,
+   "minutes": 6,
    "items": [
     {
      "h": "Goldman trims its 2027 iron ore forecast as China's buying power grows",
@@ -158,14 +602,108 @@
        "url": "https://www.steelorbis.com/steel-news/latest-news/australia-warns-over-chinas-iron-ore-pricing-influence-as-goldman-sachs-cuts-2027-forecast-1491454.htm"
       }
      ],
-     "when": "17 Nov"
+     "when": "17 Nov",
+     "more": [
+      {
+       "h": "Background: why iron ore dominates the relationship",
+       "p": "Iron ore is the biggest line in Australia's exports and China is the dominant buyer, using it to make steel for construction and manufacturing. Prices swing with Chinese property and infrastructure activity, which is why Australia's budget, dollar and mining-state finances are all sensitive to Chinese demand.\n\nChina's centralised buyer, China Mineral Resources Group (CMRG), was set up to combine the purchasing power of Chinese steelmakers. The theory is simple: one big buyer facing a handful of big sellers has more bargaining power than many small buyers."
+      },
+      {
+       "h": "The numbers",
+       "p": "A 17 November report says Goldman Sachs cut its 2027 iron ore forecast to $92 a tonne from $96. The same report says China accounts for about 75% of global seaborne iron ore purchases while Australia supplies around 55% of global supply, and cites Goldman estimating CMRG's influence could cut the combined EBITDA of listed Australian miners by up to $9bn over the next decade. EBITDA is earnings before interest, tax, depreciation and amortisation, a common proxy for operating cash flow. Resources Minister Madeleine King has warned that centralised purchasing aimed at securing lower prices could hurt the Australian economy."
+      },
+      {
+       "h": "What it means for banks and the economy",
+       "p": "Lower iron ore prices reduce company tax and royalty revenue, which weakens the budget and Western Australia's finances in particular, and they tend to weigh on the Australian dollar. A weaker AUD can help exporters but raises import costs and can feed inflation, which complicates the RBA's job. For Westpac, direct exposure is through lending to resource-linked businesses and through the AUD, which affects the value of foreign currency funding and its hedging costs.\n\nFor your Hong Kong ambitions, this is a good example of a trade story that is also a markets story: bank research teams in Hong Kong will watch CMRG closely."
+      },
+      {
+       "h": "Different views",
+       "p": "Australia frames this as a market distortion risk. China's view, broadly, is that consolidating buyers is a normal commercial response to supply concentration among a few large miners. Goldman's forecast cut is a market view, not a certainty; forecasts for commodity prices have a poor track record, so treat any single number as a scenario rather than a prediction."
+      }
+     ]
+    },
+    {
+     "h": "China's October activity data miss across the board",
+     "d": "Data released on 16 November showed industrial output up 4.8% year on year, retail sales up just 0.4% and fixed-asset investment down 8.1% for January to October. Coverage points to a weak consumer and a long property downturn, though some reports see signs of stabilising house prices.",
+     "why": "China's demand for Australian commodities and the AUD both follow its growth, so weak data is a risk for the Australian outlook.",
+     "sources": [
+      {
+       "title": "China NBS release, 16 Nov",
+       "url": "https://www.stats.gov.cn/english/PressRelease//202611/t20261116_1965843.html"
+      },
+      {
+       "title": "FXStreet: China's October data disappoint",
+       "url": "https://www.fxstreet.com/analysis/chinas-october-domestic-activity-data-disappoints-across-the-board-202611160903"
+      },
+      {
+       "title": "ING: Chinese data show fading momentum",
+       "url": "https://think.ing.com/articles/china-october-data-shows-fading-momentum"
+      }
+     ],
+     "when": "16 Nov",
+     "more": [
+      {
+       "h": "Background: what the three numbers measure",
+       "p": "Industrial output tracks factory production, retail sales tracks consumer spending, and fixed-asset investment tracks spending on things like property, infrastructure and machinery. Together they are the monthly pulse of China's economy. They are year-on-year figures, so they compare with the same month last year. Beijing's official growth target is the anchor against which analysts judge them."
+      },
+      {
+       "h": "The numbers",
+       "p": "Coverage reports industrial output grew 4.8% in October, below expectations of 5.3% and slower than September's 5.5%. Retail sales rose 0.4%, after 1.1% in September, against a forecast of about 0.8%; Mysteel attributes some of the drop to the Mid-Autumn Festival falling in September this year. January to October retail sales rose 2.5%. Fixed-asset investment fell 8.1% in January to October, compared with a 7.2% fall to September and an expected 7.0% fall. Property views differ: FXStreet sees signs of price stabilisation while other analysts link weak consumption to five years of falling home prices."
+      },
+      {
+       "h": "What it means for Australia and banks",
+       "p": "China's property sector is the biggest source of demand for steel, so weak investment is a reason for caution on iron ore, which feeds the commodity story above. Weak Chinese growth also tends to weigh on the AUD, as investors treat it as a proxy for China. For Westpac, the channel is indirect: lower commodity revenue means weaker income in resource regions and slower growth, which affects credit quality. It also affects your career plans: Chinese policy support, including consumption measures, determines how Hong Kong's finance sector performs."
+      },
+      {
+       "h": "Different views",
+       "p": "The official line is that the economy is broadly stable. Private analysts emphasise that momentum is fading into year-end and that more stimulus may be needed. I did not find October PBOC decisions, so I cannot say whether policy easing is imminent."
+      }
+     ]
+    },
+    {
+     "h": "AUD near 4.58 yuan as China's trade surplus eases; economic dialogue held",
+     "d": "XE showed the Australian dollar at about 4.58 yuan on 7 November, down about 1.9% on the week, and coverage of China's October trade data said the AUD stayed subdued. On 5 November Treasury reported the sixth Australia-China Strategic Economic Dialogue, where energy and commodity markets were discussed.",
+     "why": "The yuan cross matters for importers, exporters and anyone moving money between Australia and China, including a student in Shanghai.",
+     "sources": [
+      {
+       "title": "FXStreet: AUD subdued as China's trade surplus eases",
+       "url": "https://fxstreet.com/news/australian-dollar-remains-subdued-as-chinas-trade-surplus-eases-in-october-202611100300"
+      },
+      {
+       "title": "XE AUD/CNY chart",
+       "url": "https://www.xe.com/en-ca/currencycharts/?from=AUD&to=CNY"
+      },
+      {
+       "title": "Treasury: sixth Strategic Economic Dialogue",
+       "url": "https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/sixth-strategic-economic-dialogue-between-peoples"
+      }
+     ],
+     "when": "10 Nov",
+     "more": [
+      {
+       "h": "Background: what moves AUD/CNY",
+       "p": "AUD/CNY is how many yuan one Australian dollar buys. It is influenced by commodity prices, Chinese growth, interest rate differences, and the yuan's own management: China runs a managed exchange rate, not a free float, so the central bank sets a daily reference rate and allows a trading band. That makes AUD/CNY partly a story about the AUD and partly about Chinese policy. Offshore yuan (CNH) trades in Hong Kong, which is one reason the city matters to currency traders."
+      },
+      {
+       "h": "The numbers",
+       "p": "XE's chart showed 1 AUD at about 4.584 CNY on 7 November, down about 1.9% on the week. China's October trade data, released on 10 November, showed the surplus easing, but sources disagree on the figure: FXStreet cited $105.28bn against a prior $133.53bn, while another report quoted different USD numbers. Treat the exact surplus as unverified and check China's customs release. Dukascopy says two-way Australia-China trade is over US$215bn a year, which I only saw in that single technical note."
+      },
+      {
+       "h": "The dialogue",
+       "p": "Treasury's 5 November release on the sixth Strategic Economic Dialogue said both sides discussed the importance of energy and commodity markets to both economies, including iron ore and refined fuels. Separately, the first Australia-China steel decarbonisation policy dialogue was held on 2 November. I did not find the outcome of Albanese's reported attendance at APEC in China on 18-19 November, so any new agreements are unverified."
+      },
+      {
+       "h": "What it means for you",
+       "p": "If you are studying in Shanghai, the AUD/CNY rate directly affects living costs. A weaker AUD makes your yuan spending costlier. For a banker, it is a reminder that currency is a risk to price: importers and exporters ask their bank for hedges such as forwards to lock in a rate, which is a standard business banking and markets product."
+      }
+     ]
     }
    ]
   },
   {
    "id": "hk",
    "name": "Hong Kong",
-   "minutes": 1,
+   "minutes": 4,
    "items": [
     {
      "h": "Hong Kong passes banking legislation amendments",
@@ -177,14 +715,70 @@
        "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/11/20261118-4/"
       }
      ],
-     "when": "18 Nov"
+     "when": "18 Nov",
+     "more": [
+      {
+       "h": "Background: how Hong Kong regulates banks",
+       "p": "Hong Kong's banks are supervised by the Hong Kong Monetary Authority (HKMA), which is both the de facto central bank and banking regulator. Its framework is built around the Banking Ordinance, and the city follows international Basel standards on capital and liquidity. Hong Kong also has a distinctive currency board system under which the Hong Kong dollar is pegged to the US dollar, so the HKMA does not set its own interest-rate path in the way the RBA does."
+      },
+      {
+       "h": "What passed",
+       "p": "On 18 November the government welcomed the Legislative Council's passage of the Banking Legislation (Miscellaneous Amendments) Bill 2026. According to the government release, the bill was drafted with reference to international standards and also amends the Hong Kong Association of Banks Ordinance and the Financial Institutions (Resolution) Ordinance. The amendments will come into operation in phases starting from 1 January 2027. The sources found did not give the detailed content, so the HKMA release is the place to read the specifics.\n\nThe Resolution Ordinance matters because it sets out how a failing bank can be wound down without taxpayer bailouts, using tools such as bail-in, where creditors absorb losses."
+      },
+      {
+       "h": "What it means for you",
+       "p": "If you ever apply to Hong Kong banks, you will meet this rulebook in compliance, risk and treasury roles. Knowing that Hong Kong and Australia both follow Basel and both have resolution regimes gives you a useful comparison. Australia's equivalent is APRA's work on loss-absorbing capital and the Banking Act, and the Treasury banking regulations consultation in the regulation section."
+      },
+      {
+       "h": "What to watch next",
+       "p": "The start date of 1 January 2027 is the first fixed point. After that, watch HKMA circulars and guidance explaining how banks should implement the phased changes. Not verified: which specific provisions start first."
+      }
+     ]
+    },
+    {
+     "h": "Hong Kong IPO market: record nine months, then a cooler autumn",
+     "d": "KPMG says Hong Kong's first nine months of 2026 were the strongest on record, with 116 listings raising more than HK$388bn. SCMP reports the market slowed sharply from October, although a 10 November report says proceeds have climbed to a six-year high after a new wave of offerings.",
+     "why": "Hong Kong's IPO market drives hiring at investment banks and brokers, which is the Hong Kong career path you are considering.",
+     "sources": [
+      {
+       "title": "KPMG: China and HK IPO markets, Q3 2026 review",
+       "url": "https://kpmg.com/cn/en/insights/2026/10/china-hk-ipo-2026-q3-review.html"
+      },
+      {
+       "title": "SCMP: has the IPO boom hit a wall or is a year-end rush coming?",
+       "url": "https://www.scmp.com/business/markets/article/3372736/has-hong-kongs-ipo-boom-hit-wall-or-year-end-rush-still-come"
+      },
+      {
+       "title": "SCMP: Citigroup on more diverse HK IPOs",
+       "url": "https://scmp.com/business/china-business/article/3374102/hong-kong-set-more-diverse-ipos-global-funds-seek-chinese-world-beaters-citigroup"
+      }
+     ],
+     "when": "Nov",
+     "more": [
+      {
+       "h": "Background: why IPOs matter to banks",
+       "p": "When a company lists, investment banks earn underwriting fees, and brokers, lawyers and wealth managers earn more around it. Hong Kong has been one of the world's biggest IPO venues because mainland Chinese firms use it to raise capital in a market with international investors and clear rules. A busy IPO market means hiring in equity capital markets, research and sales; a quiet one means the opposite."
+      },
+      {
+       "h": "The numbers",
+       "p": "KPMG's Q3 review says 116 listings raised more than HK$388bn in the first three quarters of 2026, the strongest nine months on record, with full-year proceeds possibly approaching HK$500bn if conditions hold. SCMP reports the market slowed significantly from October, with only three new listings that all closed below their offer price on debut, and another report says six listings in one week priced at or near the bottom of their ranges amid tepid demand. A 10 November report says proceeds climbed to a six-year high after fresh offerings. Those statements are not directly in conflict: the year-to-date total is high even if recent deals are weaker."
+      },
+      {
+       "h": "What it means for you",
+       "p": "For a graduate, the IPO cycle is a good lesson in how cyclical investment banking is. Citigroup expects Hong Kong's pipeline to diversify in 2027, with biotechnology and advanced manufacturing among the sectors. If you apply to Hong Kong roles after your studies, the state of the market at that point will strongly affect hiring. Good preparation is learning how IPO pricing works: bookbuilding, price ranges, and why deals priced at the bottom of the range signal weak demand."
+      },
+      {
+       "h": "Different views",
+       "p": "Optimists argue the pipeline of around 300 companies, per an earlier HKEX comment, supports a year-end rush. Sceptics point to the weak debuts as a sign investor appetite is fading. HKEX has also consulted on a second phase of its listing framework review in September, which may change rules for future listings."
+      }
+     ]
     }
    ]
   },
   {
    "id": "citi",
    "name": "Citi",
-   "minutes": 1,
+   "minutes": 5,
    "items": [
     {
      "h": "Citi's wealth head rules out big acquisitions, backs organic growth",
@@ -200,14 +794,104 @@
        "url": "https://www.dealstreetasia.com/stories/citi-to-boost-asia-wealth-business-with-big-hires-says-global-chief-483249"
       }
      ],
-     "when": "17 Nov"
+     "when": "17 Nov",
+     "more": [
+      {
+       "h": "Background: why wealth is the battleground",
+       "p": "Wealth management is attractive to banks because it earns fees rather than consuming much capital. A private bank advising a rich client earns a percentage of assets under management plus transaction and lending income, and the revenue is relatively stable through the cycle. Asia is the growth story because new wealth is being created there faster than anywhere else, and Hong Kong and Singapore are the regional booking centres."
+      },
+      {
+       "h": "What was reported",
+       "p": "A 17 November WealthManagement.com report says Citi's wealth head Andy Sieg has ruled out big acquisitions and wants to grow organically, with the headline referring to a hunt for $5 trillion in client assets. In May, Citi said a large share of its global wealth hiring would go to Asia, with roughly 100 private bankers and about 400 other specialists planned. Sieg did not give a regional breakdown. Citi has also kept its wealth, cards and retail operations in Hong Kong and Singapore while exiting consumer banking in other Asian markets."
+      },
+      {
+       "h": "What it means for you",
+       "p": "Organic growth means hiring and training rather than buying a firm. That matters if you want a wealth career with a global bank: Citi is a rival employer for Asia-facing graduates, and Westpac's wealth arm competes for the same skills in a different segment. Westpac's wealth business is mostly domestic and mass-affluent, whereas Citi's pitch is cross-border private banking, so the careers are different even if the title is similar."
+      },
+      {
+       "h": "Different views",
+       "p": "Organic growth is cheaper and avoids integration risk, but it is slow, and it depends on winning talent from competitors, which tends to be expensive. Acquisitions buy scale quickly but come with culture and integration risk. Neither is obviously right; the market will judge it by whether Citi's wealth revenue grows."
+      }
+     ]
+    },
+    {
+     "h": "Citi posts best third-quarter revenue in a decade",
+     "d": "Citigroup reported Q3 2026 net income of about $5.2bn and revenue of $23.8bn, up 8%, on 13 October, with wealth among the growth drivers. Return on tangible common equity was 11.5%.",
+     "why": "It shows how the bank competing for Asia and wealth talent is performing, and what return target large banks are chasing.",
+     "sources": [
+      {
+       "title": "Vested: Citigroup Q3 2026 results",
+       "url": "https://vestedfinance.com/blog/us-stocks/citigroup-q3-earnings-2026/"
+      },
+      {
+       "title": "Beinsure: Citigroup Q3 profit jumps",
+       "url": "https://beinsure.com/news/citigroup-q3-profit-jumps-beating-wall-street-estimates/"
+      }
+     ],
+     "when": "13 Oct",
+     "more": [
+      {
+       "h": "Background: Citi's turnaround",
+       "p": "Citi has spent several years simplifying itself: selling or exiting consumer banking in many countries, reorganising management and fixing risk and data controls under regulatory orders. The strategy is to focus on five businesses: Services, Markets, Banking, Wealth and US Personal Banking. The investor question is whether it can lift returns closer to peers."
+      },
+      {
+       "h": "The numbers",
+       "p": "Coverage of the 13 October results says net income was about $5.2bn, or $2.85 per diluted share, on revenue of $23.8bn, up 8% on the year, which Citi described as its best third-quarter revenue in a decade. Wealth, Services, Markets and Banking drove growth. The prior-year quarter included a goodwill impairment tied to the Banamex stake sale, so the net income growth of 40% is flattered; excluding that item, net income rose about 16%. Return on tangible common equity (RoTCE), a measure of profit relative to the shareholders' tangible equity, was 11.5%."
+      },
+      {
+       "h": "What it means for you",
+       "p": "Compare Citi's 11.5% RoTCE with Westpac's return on equity in its FY26 result (I did not verify that figure here). Differences reflect business mix, capital rules and market structure. Learning to compare banks on returns, capital and growth, not only profit, is core analyst skill."
+      },
+      {
+       "h": "Different views",
+       "p": "Bulls see a simpler, more profitable Citi. Bears note the return still trails some rivals and that regulatory remediation remains. Because the prior-year comparison is distorted, rely on the underlying figure."
+      }
+     ]
+    },
+    {
+     "h": "Citi marks 100 years in Australia and builds its local banking team",
+     "d": "Citi held a centenary week from 19 to 23 October 2026 including the Citi A50 Australian Economic Forum. Trade press reports it promoted Stella Choe to lead Australia and New Zealand corporate banking and hired Mark Bellofiore as ECM chief from 2027, though I could not confirm exact dates.",
+     "why": "A rival employer with a local franchise, relevant if you want an institutional or markets path in Sydney before Asia.",
+     "sources": [
+      {
+       "title": "Citi: centenary week, 100 years in Australia",
+       "url": "https://www.citigroup.com/global/news/press-release/2026/citi-celebrates-centenary-week-100-years-in-australia"
+      },
+      {
+       "title": "GlobalCapital: Citi promotes Choe",
+       "url": "https://www.globalcapital.com/article/28msrwf3i64sdcbpo33pk/asia/citi-promotes-choe-to-head-of-oz-nz-corporate-banking"
+      },
+      {
+       "title": "Finimize: Citi lines up a new ECM chief",
+       "url": "https://finimize.com/content/citi-lines-up-a-new-ecm-chief-for-australia-and-new-zealand"
+      }
+     ],
+     "when": "Oct",
+     "more": [
+      {
+       "h": "Background: what Citi does in Australia",
+       "p": "Citi is not a retail bank in Australia; it serves institutions, corporates and governments. Its Australian business centres on transaction services (payments and cash management for large clients), markets (trading and financing), and investment banking, where it arranges equity and debt deals. Its custody and fund services business works with super funds, with a partnership extension with Hostplus reported in April 2026."
+      },
+      {
+       "h": "What was reported",
+       "p": "Citi's release says the centenary week ran 19 to 23 October and marked 100 years of operations in Australia. GlobalCapital reports Stella Choe was promoted to head corporate banking for Australia and New Zealand, succeeding Shane Taylor who is retiring, and that Barrenjoey co-founder Mark Bellofiore is joining as ECM chief from 2027. The results also mention a A$750m five-year dual-tranche Kangaroo bond (an Australian-dollar bond issued by a foreign borrower) that counts toward Citi's loss-absorbing (TLAC) requirement. I could not confirm publication dates for these trade press items."
+      },
+      {
+       "h": "What it means for you",
+       "p": "The Barrenjoey hire shows how competitive the Australian investment banking talent market is: Citi is paying to bring in a local leader. For a graduate, the structure of Citi's Australian business, institutional rather than retail, is a contrast with Westpac, which is a large retail and business bank. The skills overlap in credit, markets and transaction banking, so experience at one is transferable to the other."
+      },
+      {
+       "h": "Different views",
+       "p": "Local hiring signals ambition in Australian capital markets, but it is a competitive field dominated by Macquarie, the majors' institutional arms and boutiques. Whether Citi gains share depends on winning mandates, not just leaders."
+      }
+     ]
     }
    ]
   },
   {
    "id": "global",
    "name": "Global",
-   "minutes": 1,
+   "minutes": 5,
    "items": [
     {
      "h": "Fed minutes: October was a close call over a possible hike",
@@ -223,7 +907,97 @@
        "url": "https://www.westpaciq.com.au/economics/2026/11/Morning-report-19-Nov-2026"
       }
      ],
-     "when": "18 Nov"
+     "when": "18 Nov",
+     "more": [
+      {
+       "h": "Background: what Fed minutes are",
+       "p": "The Federal Open Market Committee (FOMC) sets US interest rates. Three weeks after each meeting it publishes minutes, which summarise the debate. Markets look for how many members favoured a different outcome and what they said about the outlook. Because the US dollar is the world's reserve currency and US Treasury yields anchor global borrowing costs, the Fed's tone matters to every economy, including Australia."
+      },
+      {
+       "h": "What the minutes said",
+       "p": "The minutes of the 27-28 October meeting, published on 18 November, show the committee held rates but seriously weighed raising them. A TheStreet headline summarised it as almost all participants seeing more hikes, with a couple floating a bigger move. A hike in this cycle is notable: the coverage found describes the policy rate at 3.75% to 4% today. Westpac's economists read the minutes as hawkish, meaning leaning toward tighter policy."
+      },
+      {
+       "h": "What it means for Australia and Westpac",
+       "p": "Higher US rates support the US dollar and make it harder for the AUD to rally. They also raise the cost of offshore funding, which Australian banks use for a significant minority of their funding, and which they hedge into Australian dollars. When US yields rise, so do the spreads banks pay on offshore wholesale debt in many conditions, though the relationship is not mechanical.\n\nFor the RBA, a hawkish Fed complicates a hold: if the AUD falls, imported inflation rises, which is an argument against cutting."
+      },
+      {
+       "h": "What to watch next",
+       "p": "The next FOMC meeting is 8-9 December. October core PCE (the Fed's preferred inflation gauge) is due 25 November and the November US jobs report on 4 December, according to the coverage found. Those two numbers will shape whether December brings a hike."
+      }
+     ]
+    },
+    {
+     "h": "Fed in play: December hike odds and a hawkish Waller",
+     "d": "Coverage shows markets pricing further Fed hikes. Governor Christopher Waller has argued for a half-point rise at the 8-9 December meeting, futures put about a 10% chance on that, and Goldman and Bank of America have turned hawkish.",
+     "why": "If the Fed hikes while the RBA holds, the AUD tends to weaken and Australian imports get dearer.",
+     "sources": [
+      {
+       "title": "TheStreet: Goldman now calls for two more hikes",
+       "url": "https://pro.thestreet.com/stock-market-today/goldman-now-calls-for-two-more-hikes-pushes-first-cut-to-december-2027"
+      },
+      {
+       "title": "TheStreet: Fed's Waller, you might need to shock people",
+       "url": "https://pro.thestreet.com/stock-market-today/feds-waller-you-might-need-to-like-shock-people"
+      },
+      {
+       "title": "TheStreet: BofA sees Fed hikes at next three meetings",
+       "url": "https://pro.thestreet.com/stock-market-today/bofa-now-sees-fed-hikes-at-next-three-meetings"
+      }
+     ],
+     "when": "10-18 Nov",
+     "more": [
+      {
+       "h": "Background: why a hiking Fed matters",
+       "p": "The Fed's policy rate anchors global borrowing costs. When it rises, US assets pay more, the dollar tends to strengthen, and other central banks face a choice: follow with their own hikes or let their currencies weaken. For Australia, this works through the AUD (imported inflation), through bond yields (which set fixed mortgage rates) and through offshore funding costs for banks."
+      },
+      {
+       "h": "The numbers",
+       "p": "According to coverage, Goldman now expects another quarter-point hike in March 2027, taking the policy rate to a peak of 4.25% to 4.5% from 3.75% to 4% today, and has pushed its first cut to December 2027. BlackRock's Rick Rieder was reported as seeing a December hike as quite likely, with size the open question. Waller has argued for a half-point move on 8-9 December after a 10 November speech, and CME FedWatch put about 10% odds on that, from zero before the speech. BofA sees hikes at the next three meetings. These are institutional forecasts, which can and do change."
+      },
+      {
+       "h": "What it means for Westpac",
+       "p": "A higher-for-longer US rate path raises the cost of hedged offshore funding and keeps pressure on the AUD. It also complicates the RBA: if the AUD slides, imported inflation rises, which offsets the case for holding. For bank treasury teams, such moves are a daily focus; they watch the spread between Australian and US rates and the cost of swapping offshore borrowing into AUD."
+      },
+      {
+       "h": "What to watch next",
+       "p": "Key dated events from the coverage: October core PCE on 25 November, the November US jobs report on 4 December, and the FOMC decision on 8-9 December. Together they are the next big test of the hike thesis."
+      }
+     ]
+    },
+    {
+     "h": "Markets wobble on inflation fears as fund managers lean soft landing",
+     "d": "Reports for 11 November describe stocks and bonds falling as Fed officials warned on inflation. A Bank of America fund manager survey found 50% now expect a soft landing over the next 12 months, ahead of 42% expecting no landing.",
+     "why": "Equity and bond moves feed straight into super fund returns, wealth platform fees and the funding costs of banks.",
+     "sources": [
+      {
+       "title": "The Edge Malaysia: Wednesday 11 Nov 2026",
+       "url": "https://theedgemalaysia.com/node/825230"
+      },
+      {
+       "title": "TheStreet: consumers continue to consume",
+       "url": "https://pro.thestreet.com/stock-market-today/consumers-continue-to-consume"
+      }
+     ],
+     "when": "11 Nov",
+     "more": [
+      {
+       "h": "Background: soft landing versus no landing",
+       "p": "A soft landing means the central bank brings inflation down without causing a recession. \"No landing\" means the economy keeps growing so strongly that inflation does not fall and rates stay high. A hard landing is a recession. Fund managers' views on these outcomes help explain why stocks rise or fall as data arrives."
+      },
+      {
+       "h": "The numbers",
+       "p": "A report dated 11 November said stocks and bonds fell as inflation worries prompted fresh warnings from Fed officials, and Wall Street was betting the Fed would need to raise rates more aggressively. The November Bank of America fund manager survey found 50% expecting a soft landing, ahead of 42% for no landing. A fund manager survey measures opinion, not outcomes; such surveys are useful for gauging positioning but have mixed forecasting records."
+      },
+      {
+       "h": "What it means for wealth and super",
+       "p": "For super funds and bank wealth platforms, falling bond and equity prices reduce account balances, and because fees are often charged as a percentage of assets, they also reduce fee revenue. Wealth arms therefore have a built-in sensitivity to markets. For Australian investors, a hawkish US also tends to pressure local bond yields and the AUD. Long-term investors usually hold diversified portfolios because both stocks and bonds can fall together when inflation is the problem, as it did in 2022."
+      },
+      {
+       "h": "Different views",
+       "p": "The soft-landing camp argues consumer spending remains resilient. The no-landing camp says that resilience is exactly why inflation will not fade without more hikes. A recession camp argues that policy lags mean higher rates have not yet fully worked. Which is right will show in the jobs and inflation data in the coming weeks."
+      }
+     ]
     }
    ]
   }
@@ -396,5 +1170,6 @@
     "change": "+0.25 pts on 3 Nov"
    }
   ]
- }
+ },
+ "fullMinutes": 55
 }

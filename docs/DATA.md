@@ -19,11 +19,21 @@ All dates are Shanghai dates (`Asia/Shanghai`), `YYYY-MM-DD`.
      `westpac` Westpac · `banks` Big four banks · `regulation` Regulation ·
      `wealth` Wealth & super · `business` Business banking ·
      `china` Australia–China · `hk` Hong Kong · `citi` Citi · `global` Global.
-     Each has `minutes` (reading estimate) and 1–2 `items`
-     `{h, d, why, sources:[{title,url,paywalled?}], when?, mention?}`.
+     Each has `minutes` (full read time, deep dives included) and 2–4
+     `items` `{h, d, why, more, sources:[{title,url,paywalled?}], when?, mention?}`.
+     `d` is the 2–3 sentence summary for skimming. `more` is the in-depth
+     read the user opens on topics that interest him: 3–5 parts `{h, p}`
+     (paragraphs inside `p` separated by a blank line), about 250–450 words
+     per story. Useful parts: Background (how we got here, how the mechanism
+     works), The numbers (verified, dated, explained), What it means for
+     Westpac and the banks, Different views, What to watch next (verified
+     dates only). Explain jargon in passing. General teaching context is
+     fine; every specific number, date, name or quote must come from a
+     source you saw.
      On a quiet topic, `items: []` and a `background: {h, d}` explainer that
      hasn't been used in the last 10 days.
-   - `readMinutes`: total, aim 10–15.
+   - `readMinutes`: time to skim the summaries, aim 10–15.
+   - `fullMinutes`: time to read everything including deep dives (~200 words a minute).
    - `primer`: 2–4 `{term, text}` concepts used in today's stories, not
      repeated from the last 10 days.
    - `quiz`: exactly 5. Four `mc` `{id, type:'mc', q, options[4], answer,

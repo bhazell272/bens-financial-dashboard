@@ -1,7 +1,8 @@
-import { useEffect, useState } from 'react';
+import { useEffect, useRef, useState } from 'react';
 import { AskClaude, Back, Empty, Icon, Sources } from '../ui';
 import { greeting, longDate, todayShanghai, useDay, useIndex } from '../lib/data';
 import { useDayState } from '../lib/state';
+import type { Story } from '../lib/types';
 
 const NAME = 'Ben';
 const PREF = 'dfnw.headlinesOnly';
@@ -11,6 +12,21 @@ export default function Brief({ date }: { date?: string }) {
   const day = date ?? index?.latest ?? null;
   const { data, loading } = useDay(day);
   const [state, update] = useDayState(day);
+  const [open, setOpen] = useState<Set<string>>(new Set());
+  const toggle = (keys: string[], force?: boolean) =>
+    setOpen((cur) => {
+      const next = new Set(cur);
+      for (const k of keys) {
+        const on = force ?? !cur.has(k);
+        if (on) next.add(k);
+        else next.delete(k);
+      }
+      return next;
+    });
+  const toggleSection = (id: string, n: number) => {
+    const keys = Array.from({ length: n }, (_, i) => `${id}-${i}`);
+    toggle(keys, !keys.every((k) => open.has(k)));
+  };
   const [headlinesOnly, setHeadlinesOnly] = useState(() => {
     try {
       return localStorage.getItem(PREF) === '1';
@@ -94,7 +110,8 @@ export default function Brief({ date }: { date?: string }) {
             <div>
               <h1 className="large-title">{date ? longDate(data.date) : `${greeting()}, ${NAME}`}</h1>
               <p className="subtitle">
-                {date ? 'From the archive' : longDate(data.date)} · about {data.readMinutes} min
+                {date ? 'From the archive' : longDate(data.date)} · {data.readMinutes} min to skim
+                {data.fullMinutes ? ` · ${data.fullMinutes} min in full` : ''}
               </p>
             </div>
             <AskClaude context={context} />
@@ -150,7 +167,14 @@ export default function Brief({ date }: { date?: string }) {
                 <h2 className="h2" id={`h-${s.id}`}>
                   {s.name}
                 </h2>
-                <span className="caption">{s.minutes} min</span>
+                <span style={{ display: 'flex', gap: 12, alignItems: 'baseline' }}>
+                  <span className="caption">{s.minutes} min</span>
+                  {s.items.some((it) => it.more?.length) ? (
+                    <button type="button" className="link" style={{ fontSize: 14, minHeight: 44 }} onClick={() => toggleSection(s.id, s.items.length)}>
+                      {s.items.every((_, i) => open.has(`${s.id}-${i}`)) ? 'Collapse' : 'Expand all'}
+                    </button>
+                  ) : null}
+                </span>
               </div>
               {s.items.length === 0 && s.background ? (
                 <article className="story">
@@ -159,18 +183,10 @@ export default function Brief({ date }: { date?: string }) {
                   <span className="src">Nothing new today · background</span>
                 </article>
               ) : null}
-              {s.items.map((it, i) => (
-                <article className="story" key={i}>
-                  <h3>{it.h}</h3>
-                  <p>{it.d}</p>
-                  <p className="why">
-                    <b>Why it matters · </b>
-                    {it.why}
-                  </p>
-                  {it.mention ? <span className="mention">Worth mentioning: {it.mention}</span> : null}
-                  <Sources sources={it.sources} />
-                </article>
-              ))}
+              {s.items.map((it, i) => {
+                const key = `${s.id}-${i}`;
+                return <StoryView key={key} story={it} open={open.has(key)} onToggle={() => toggle([key])} />;
+              })}
               {!date ? (
                 <button type="button" className="btn outline pill" style={{ marginTop: 14 }} onClick={() => markRead(s.id)} disabled={read.has(s.id)}>
                   {read.has(s.id) ? (
@@ -213,5 +229,50 @@ export default function Brief({ date }: { date?: string }) {
         </main>
       </div>
     </div>
+  );
+}
+
+function readTime(story: Story): number {
+  const words = (story.more ?? []).reduce((n, part) => n + part.p.split(/\s+/).length, 0);
+  return Math.max(1, Math.round(words / 200));
+}
+
+function StoryView({ story, open, onToggle }: { story: Story; open: boolean; onToggle: () => void }) {
+  const ref = useRef<HTMLElement>(null);
+  const hasMore = !!story.more?.length;
+  const close = () => {
+    onToggle();
+    // Collapsing a long read: bring the story's top back into view so you don't lose your place.
+    const top = ref.current?.getBoundingClientRect().top ?? 0;
+    if (top < 0) ref.current?.scrollIntoView({ block: 'start' });
+  };
+  return (
+    <article className="story" ref={ref}>
+      <h3>{story.h}</h3>
+      <p>{story.d}</p>
+      <p className="why">
+        <b>Why it matters · </b>
+        {story.why}
+      </p>
+      {story.mention ? <span className="mention">Worth mentioning: {story.mention}</span> : null}
+      {hasMore && open ? (
+        <div className="deep">
+          {story.more!.map((part, i) => (
+            <section key={i}>
+              <h4>{part.h}</h4>
+              {part.p.split(/\n\s*\n/).map((para, j) => (
+                <p key={j}>{para}</p>
+              ))}
+            </section>
+          ))}
+        </div>
+      ) : null}
+      <Sources sources={story.sources} />
+      {hasMore ? (
+        <button type="button" className="read-more" aria-expanded={open} onClick={open ? close : onToggle}>
+          {open ? 'Show less' : `Read more · ${readTime(story)} min`}
+        </button>
+      ) : null}
+    </article>
   );
 }

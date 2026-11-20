@@ -44,12 +44,18 @@ for (const f of await list('days/')) {
   need(d.date + '.json' === f, at, 'date must match the file name');
   need(Array.isArray(d.top) && d.top.length >= 1 && d.top.length <= 3 && d.top.every((t) => str(t.h)), at, 'top needs 1–3 items with h');
   need(Array.isArray(d.sections) && d.sections.length > 0, at, 'sections missing');
+  need(typeof d.fullMinutes === 'number' && d.fullMinutes >= d.readMinutes, at, 'fullMinutes (full read time) missing or less than readMinutes');
   for (const s of d.sections ?? []) {
     need(str(s.id) && str(s.name) && typeof s.minutes === 'number', `${at} ${s.id}`, 'section needs id, name, minutes');
     need(Array.isArray(s.items), `${at} ${s.id}`, 'items must be an array');
     need((s.items?.length ?? 0) > 0 || (s.background && str(s.background.h)), `${at} ${s.id}`, 'needs items or a background explainer');
     for (const it of s.items ?? []) {
       need(str(it.h) && str(it.d) && str(it.why), `${at} ${s.id}`, `story "${it.h}" needs h, d and why`);
+      need(
+        Array.isArray(it.more) && it.more.length >= 3 && it.more.length <= 6 && it.more.every((m) => str(m.h) && str(m.p)),
+        `${at} ${s.id}`,
+        `story "${it.h}" needs an in-depth read: more = 3–6 parts {h, p}`,
+      );
       need(Array.isArray(it.sources) && it.sources.length > 0 && it.sources.every((x) => str(x.title) && /^https?:\/\//.test(x.url)), `${at} ${s.id}`, `story "${it.h}" needs sources with real URLs`);
     }
   }

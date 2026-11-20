@@ -292,3 +292,17 @@ textarea.answer { width: 100%; min-height: 160px; font: inherit; font-size: 16px
 }
 
 @media (min-width: 900px) { .phone-only-progress { display: none !important; } }
+
+/* ---------- In-depth reads ---------- */
+.deep { margin-top: 6px; padding: 4px 0 4px 0; display: flex; flex-direction: column; gap: 18px; animation: deep-in 240ms var(--ease-out); }
+.deep h4 { margin: 0 0 6px; font-size: 15px; font-weight: 700; letter-spacing: -0.005em; color: var(--ink); }
+.deep p { margin: 0 0 10px; font-size: 17px; line-height: 1.6; color: var(--ink-2); max-width: 65ch; }
+.deep p:last-child { margin-bottom: 0; }
+@keyframes deep-in { from { opacity: 0; transform: translateY(-4px); } to { opacity: 1; transform: none; } }
+.read-more {
+  align-self: flex-start; margin-top: 2px; min-height: 40px; padding: 8px 14px; border-radius: 999px;
+  border: 0; background: var(--accent-soft); color: var(--accent-soft-ink); font-size: 14px; font-weight: 600;
+  transition: transform 140ms var(--ease-out);
+}
+.read-more:active { transform: scale(0.97); }
+.headlines-only .read-more, .headlines-only .deep { display: none; }

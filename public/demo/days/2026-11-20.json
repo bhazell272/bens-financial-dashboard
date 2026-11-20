@@ -33,7 +33,25 @@
       }
      ],
      "when": "6h ago",
-     "mention": "Ask how the business bank is thinking about this."
+     "mention": "Ask how the business bank is thinking about this.",
+     "more": [
+      {
+       "h": "Background",
+       "p": "Sample in-depth read. In a real briefing this part explains how the story came about and how the mechanism works, in plain language for a new graduate.\n\nA second paragraph adds history or context, so a topic you care about becomes a proper read rather than a headline."
+      },
+      {
+       "h": "The numbers",
+       "p": "Sample: the key figures, each dated and explained, with what they mean in practice."
+      },
+      {
+       "h": "What it means for Westpac and the banks",
+       "p": "Sample: the link to margins, funding costs, credit quality or capital, and to your division."
+      },
+      {
+       "h": "What to watch next",
+       "p": "Sample: the next dated event that will move this story."
+      }
+     ]
     }
    ]
   },
@@ -52,7 +70,25 @@
        "url": "https://example.com"
       }
      ],
-     "when": "6h ago"
+     "when": "6h ago",
+     "more": [
+      {
+       "h": "Background",
+       "p": "Sample in-depth read. In a real briefing this part explains how the story came about and how the mechanism works, in plain language for a new graduate.\n\nA second paragraph adds history or context, so a topic you care about becomes a proper read rather than a headline."
+      },
+      {
+       "h": "The numbers",
+       "p": "Sample: the key figures, each dated and explained, with what they mean in practice."
+      },
+      {
+       "h": "What it means for Westpac and the banks",
+       "p": "Sample: the link to margins, funding costs, credit quality or capital, and to your division."
+      },
+      {
+       "h": "What to watch next",
+       "p": "Sample: the next dated event that will move this story."
+      }
+     ]
     },
     {
      "h": "A second item when there is one",
@@ -64,7 +100,25 @@
        "url": "https://example.com"
       }
      ],
-     "when": "6h ago"
+     "when": "6h ago",
+     "more": [
+      {
+       "h": "Background",
+       "p": "Sample in-depth read. In a real briefing this part explains how the story came about and how the mechanism works, in plain language for a new graduate.\n\nA second paragraph adds history or context, so a topic you care about becomes a proper read rather than a headline."
+      },
+      {
+       "h": "The numbers",
+       "p": "Sample: the key figures, each dated and explained, with what they mean in practice."
+      },
+      {
+       "h": "What it means for Westpac and the banks",
+       "p": "Sample: the link to margins, funding costs, credit quality or capital, and to your division."
+      },
+      {
+       "h": "What to watch next",
+       "p": "Sample: the next dated event that will move this story."
+      }
+     ]
     }
    ]
   },
@@ -83,7 +137,25 @@
        "url": "https://example.com"
       }
      ],
-     "when": "6h ago"
+     "when": "6h ago",
+     "more": [
+      {
+       "h": "Background",
+       "p": "Sample in-depth read. In a real briefing this part explains how the story came about and how the mechanism works, in plain language for a new graduate.\n\nA second paragraph adds history or context, so a topic you care about becomes a proper read rather than a headline."
+      },
+      {
+       "h": "The numbers",
+       "p": "Sample: the key figures, each dated and explained, with what they mean in practice."
+      },
+      {
+       "h": "What it means for Westpac and the banks",
+       "p": "Sample: the link to margins, funding costs, credit quality or capital, and to your division."
+      },
+      {
+       "h": "What to watch next",
+       "p": "Sample: the next dated event that will move this story."
+      }
+     ]
     }
    ]
   },
@@ -112,7 +184,25 @@
        "url": "https://example.com"
       }
      ],
-     "when": "6h ago"
+     "when": "6h ago",
+     "more": [
+      {
+       "h": "Background",
+       "p": "Sample in-depth read. In a real briefing this part explains how the story came about and how the mechanism works, in plain language for a new graduate.\n\nA second paragraph adds history or context, so a topic you care about becomes a proper read rather than a headline."
+      },
+      {
+       "h": "The numbers",
+       "p": "Sample: the key figures, each dated and explained, with what they mean in practice."
+      },
+      {
+       "h": "What it means for Westpac and the banks",
+       "p": "Sample: the link to margins, funding costs, credit quality or capital, and to your division."
+      },
+      {
+       "h": "What to watch next",
+       "p": "Sample: the next dated event that will move this story."
+      }
+     ]
     }
    ]
   },
@@ -131,7 +221,25 @@
        "url": "https://example.com"
       }
      ],
-     "when": "6h ago"
+     "when": "6h ago",
+     "more": [
+      {
+       "h": "Background",
+       "p": "Sample in-depth read. In a real briefing this part explains how the story came about and how the mechanism works, in plain language for a new graduate.\n\nA second paragraph adds history or context, so a topic you care about becomes a proper read rather than a headline."
+      },
+      {
+       "h": "The numbers",
+       "p": "Sample: the key figures, each dated and explained, with what they mean in practice."
+      },
+      {
+       "h": "What it means for Westpac and the banks",
+       "p": "Sample: the link to margins, funding costs, credit quality or capital, and to your division."
+      },
+      {
+       "h": "What to watch next",
+       "p": "Sample: the next dated event that will move this story."
+      }
+     ]
     }
    ]
   },
@@ -150,7 +258,25 @@
        "url": "https://example.com"
       }
      ],
-     "when": "6h ago"
+     "when": "6h ago",
+     "more": [
+      {
+       "h": "Background",
+       "p": "Sample in-depth read. In a real briefing this part explains how the story came about and how the mechanism works, in plain language for a new graduate.\n\nA second paragraph adds history or context, so a topic you care about becomes a proper read rather than a headline."
+      },
+      {
+       "h": "The numbers",
+       "p": "Sample: the key figures, each dated and explained, with what they mean in practice."
+      },
+      {
+       "h": "What it means for Westpac and the banks",
+       "p": "Sample: the link to margins, funding costs, credit quality or capital, and to your division."
+      },
+      {
+       "h": "What to watch next",
+       "p": "Sample: the next dated event that will move this story."
+      }
+     ]
     }
    ]
   },
@@ -169,7 +295,25 @@
        "url": "https://example.com"
       }
      ],
-     "when": "6h ago"
+     "when": "6h ago",
+     "more": [
+      {
+       "h": "Background",
+       "p": "Sample in-depth read. In a real briefing this part explains how the story came about and how the mechanism works, in plain language for a new graduate.\n\nA second paragraph adds history or context, so a topic you care about becomes a proper read rather than a headline."
+      },
+      {
+       "h": "The numbers",
+       "p": "Sample: the key figures, each dated and explained, with what they mean in practice."
+      },
+      {
+       "h": "What it means for Westpac and the banks",
+       "p": "Sample: the link to margins, funding costs, credit quality or capital, and to your division."
+      },
+      {
+       "h": "What to watch next",
+       "p": "Sample: the next dated event that will move this story."
+      }
+     ]
     }
    ]
   },
@@ -188,7 +332,25 @@
        "url": "https://example.com"
       }
      ],
-     "when": "6h ago"
+     "when": "6h ago",
+     "more": [
+      {
+       "h": "Background",
+       "p": "Sample in-depth read. In a real briefing this part explains how the story came about and how the mechanism works, in plain language for a new graduate.\n\nA second paragraph adds history or context, so a topic you care about becomes a proper read rather than a headline."
+      },
+      {
+       "h": "The numbers",
+       "p": "Sample: the key figures, each dated and explained, with what they mean in practice."
+      },
+      {
+       "h": "What it means for Westpac and the banks",
+       "p": "Sample: the link to margins, funding costs, credit quality or capital, and to your division."
+      },
+      {
+       "h": "What to watch next",
+       "p": "Sample: the next dated event that will move this story."
+      }
+     ]
     }
    ]
   }
@@ -340,5 +502,6 @@
     "value": "4.40%"
    }
   ]
- }
+ },
+ "fullMinutes": 38
 }
