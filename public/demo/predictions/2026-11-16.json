@@ -1,0 +1,11 @@
+{
+ "week": "2026-11-16",
+ "question": "Sample: will AUD/CNY close above 4.70 on Friday?",
+ "options": [
+  "Above 4.70",
+  "Below 4.70"
+ ],
+ "now": "Now 4.71 · Monday open 4.73",
+ "closesAt": "2026-11-30T15:00:00Z",
+ "claude": "eyJjYWxsIjoxLCJqdXN0aWZpY2F0aW9uIjoiU2FtcGxlOiB0aGUgeXVhbiBoYXMgYmVlbiBmaXJtaW5nIG9uIHN0aW11bHVzIGhvcGVzIHdoaWxlIEF1c3RyYWxpYW4gcmF0ZSBleHBlY3RhdGlvbnMgZWFzZWQuIn0="
+}

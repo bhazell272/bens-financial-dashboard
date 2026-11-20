@@ -1,0 +1,37 @@
+{
+ "id": "2026-11-16",
+ "range": "16–20 November",
+ "readMinutes": 6,
+ "paragraph": "Sample paragraph: the week in four sentences. Rates expectations moved, the banks reacted, the yuan softened, and one Westpac story is worth knowing before Monday.",
+ "changes": [
+  {
+   "topic": "Rates & RBA",
+   "text": "Sample: one sentence on what moved and why."
+  },
+  {
+   "topic": "Westpac",
+   "text": "Sample: the one Westpac development of the week."
+  },
+  {
+   "topic": "Australia–China",
+   "text": "Sample: trade or currency shift in a line."
+  }
+ ],
+ "dots": "Sample: two or three sentences linking the week into one theme.",
+ "next": [
+  {
+   "day": "Tue",
+   "text": "Sample: RBA meeting minutes"
+  },
+  {
+   "day": "Wed",
+   "text": "Sample: Australian monthly CPI"
+  }
+ ],
+ "sources": [
+  {
+   "title": "Sample source",
+   "url": "https://example.com"
+  }
+ ]
+}

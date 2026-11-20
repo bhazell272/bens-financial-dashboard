@@ -1,0 +1,50 @@
+name: Build and publish
+
+# Runs when the morning task pushes new content, on a schedule so market
+# prices refresh even on days without new content, and on demand.
+on:
+  push:
+    branches: [main]
+  schedule:
+    # 06:20 Shanghai, Monday–Friday (22:20 UTC, Sunday–Thursday)
+    - cron: '20 22 * * 0-4'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm test
+      - run: npm run validate
+      - name: Fetch market prices
+        run: npm run markets
+        continue-on-error: true # the site still publishes; prices show "Unavailable"
+      - run: npm run build
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

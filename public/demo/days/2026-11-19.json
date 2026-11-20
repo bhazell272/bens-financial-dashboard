@@ -1,0 +1,344 @@
+{
+ "date": "2026-11-19",
+ "generatedAt": "2026-11-19T22:50:00Z",
+ "readMinutes": 12,
+ "top": [
+  {
+   "h": "Sample: RBA minutes point to a longer hold",
+   "d": "Sample content for preview. Real headlines arrive each weekday morning."
+  },
+  {
+   "h": "Sample: Westpac update on business lending",
+   "d": "One line of context on why it made the top three."
+  },
+  {
+   "h": "Sample: Hang Seng swings on China stimulus talk",
+   "d": "One line of context."
+  }
+ ],
+ "sections": [
+  {
+   "id": "westpac",
+   "name": "Westpac",
+   "minutes": 2,
+   "items": [
+    {
+     "h": "Sample headline about Westpac",
+     "d": "Two or three plain sentences on what happened, so you understand it without opening the source.",
+     "why": "One sentence on what it means for the bank, your division, or a conversation.",
+     "sources": [
+      {
+       "title": "Company announcement",
+       "url": "https://example.com"
+      }
+     ],
+     "when": "6h ago",
+     "mention": "Ask how the business bank is thinking about this."
+    }
+   ]
+  },
+  {
+   "id": "banks",
+   "name": "Big four banks",
+   "minutes": 2,
+   "items": [
+    {
+     "h": "Sample headline about CBA, NAB or ANZ",
+     "d": "Same shape every time, so your eye learns where to look.",
+     "why": "Compared back to Westpac where it helps.",
+     "sources": [
+      {
+       "title": "Reuters",
+       "url": "https://example.com"
+      }
+     ],
+     "when": "6h ago"
+    },
+    {
+     "h": "A second item when there is one",
+     "d": "Quiet days get a short background explainer instead.",
+     "why": "Kept to one line.",
+     "sources": [
+      {
+       "title": "AFR",
+       "url": "https://example.com"
+      }
+     ],
+     "when": "6h ago"
+    }
+   ]
+  },
+  {
+   "id": "regulation",
+   "name": "Regulation",
+   "minutes": 1,
+   "items": [
+    {
+     "h": "Sample: APRA consults on capital settings",
+     "d": "What changed and who it affects.",
+     "why": "Capital rules shape how much banks can lend.",
+     "sources": [
+      {
+       "title": "APRA",
+       "url": "https://example.com"
+      }
+     ],
+     "when": "6h ago"
+    }
+   ]
+  },
+  {
+   "id": "wealth",
+   "name": "Wealth & super",
+   "minutes": 1,
+   "items": [],
+   "background": {
+    "h": "Background: how super flows into banks",
+    "d": "On a quiet day, a short explainer builds understanding of the topic instead."
+   }
+  },
+  {
+   "id": "business",
+   "name": "Business banking",
+   "minutes": 1,
+   "items": [
+    {
+     "h": "Sample: SME lending demand",
+     "d": "What happened.",
+     "why": "Why it matters for business banking.",
+     "sources": [
+      {
+       "title": "RBA",
+       "url": "https://example.com"
+      }
+     ],
+     "when": "6h ago"
+    }
+   ]
+  },
+  {
+   "id": "china",
+   "name": "Australia–China",
+   "minutes": 1,
+   "items": [
+    {
+     "h": "Sample: iron ore and the yuan",
+     "d": "What happened.",
+     "why": "Why it matters for Australian banks.",
+     "sources": [
+      {
+       "title": "Reuters",
+       "url": "https://example.com"
+      }
+     ],
+     "when": "6h ago"
+    }
+   ]
+  },
+  {
+   "id": "hk",
+   "name": "Hong Kong",
+   "minutes": 1,
+   "items": [
+    {
+     "h": "Sample: the day’s key Hong Kong story",
+     "d": "What happened.",
+     "why": "Why it matters.",
+     "sources": [
+      {
+       "title": "SCMP",
+       "url": "https://example.com"
+      }
+     ],
+     "when": "6h ago"
+    }
+   ]
+  },
+  {
+   "id": "citi",
+   "name": "Citi",
+   "minutes": 1,
+   "items": [
+    {
+     "h": "Sample: Citi Asia markets news",
+     "d": "What happened.",
+     "why": "Why it matters for networking.",
+     "sources": [
+      {
+       "title": "Bloomberg",
+       "url": "https://example.com"
+      }
+     ],
+     "when": "6h ago"
+    }
+   ]
+  },
+  {
+   "id": "global",
+   "name": "Global",
+   "minutes": 1,
+   "items": [
+    {
+     "h": "Sample: the Fed and the US economy",
+     "d": "What happened.",
+     "why": "Why it reaches Australia.",
+     "sources": [
+      {
+       "title": "Reuters",
+       "url": "https://example.com"
+      }
+     ],
+     "when": "6h ago"
+    }
+   ]
+  }
+ ],
+ "primer": [
+  {
+   "term": "Net interest margin",
+   "text": "Sample: the gap between what a bank earns on loans and pays on deposits, as a share of its lending assets."
+  }
+ ],
+ "quiz": [
+  {
+   "id": "q1",
+   "type": "mc",
+   "q": "Sample question: which of these would most directly lift a bank’s net interest margin?",
+   "options": [
+    "A rate cut by the RBA",
+    "Deposit rates falling faster than loan rates",
+    "Higher bad-debt provisions",
+    "A rise in the share price"
+   ],
+   "answer": 1,
+   "explain": "Margins widen when funding gets cheaper faster than loans reprice.",
+   "from": "Wednesday · Big four banks",
+   "topic": "banks"
+  },
+  {
+   "id": "q2",
+   "type": "mc",
+   "q": "Sample: what does APRA mainly regulate?",
+   "options": [
+    "Interest rates",
+    "Bank safety and capital",
+    "Share trading",
+    "Consumer complaints"
+   ],
+   "answer": 1,
+   "explain": "APRA is the prudential regulator: capital, liquidity and risk.",
+   "from": "Thursday · Regulation",
+   "topic": "regulation"
+  },
+  {
+   "id": "q3",
+   "type": "mc",
+   "q": "Sample: a weaker AUD against the yuan usually helps…",
+   "options": [
+    "Australian importers",
+    "Australian exporters to China",
+    "Chinese exporters to Australia",
+    "No one"
+   ],
+   "answer": 1,
+   "explain": "Australian goods become cheaper in yuan terms.",
+   "from": "Today · Australia–China",
+   "topic": "china"
+  },
+  {
+   "id": "q4",
+   "type": "mc",
+   "q": "Sample: the Hang Seng is…",
+   "options": [
+    "A Hong Kong share index",
+    "A Chinese bank",
+    "A currency",
+    "A bond"
+   ],
+   "answer": 0,
+   "explain": "It tracks the largest companies listed in Hong Kong.",
+   "from": "Concept",
+   "topic": "hk"
+  },
+  {
+   "id": "q5",
+   "type": "written",
+   "q": "Sample: why would a rise in the AUD hurt miners but not the banks?",
+   "topic": "china"
+  }
+ ],
+ "chinese": {
+  "segments": [
+   {
+    "t": "澳大利亚的"
+   },
+   {
+    "t": "银行",
+    "py": "yínháng"
+   },
+   {
+    "t": "说，"
+   },
+   {
+    "t": "利率",
+    "py": "lìlǜ"
+   },
+   {
+    "t": "可能还会保持"
+   },
+   {
+    "t": "不变",
+    "py": "búbiàn"
+   },
+   {
+    "t": "。"
+   }
+  ],
+  "english": "Australian banks say interest rates may stay unchanged. (Sample)",
+  "original": {
+   "title": "Caixin",
+   "url": "https://example.com"
+  },
+  "words": [
+   {
+    "hz": "银行",
+    "py": "yínháng",
+    "en": "bank"
+   },
+   {
+    "hz": "利率",
+    "py": "lìlǜ",
+    "en": "interest rate"
+   },
+   {
+    "hz": "不变",
+    "py": "búbiàn",
+    "en": "unchanged"
+   }
+  ]
+ },
+ "marked": {
+  "date": "2026-11-19",
+  "q": "Sample: why do bank shares often rise when bond yields rise?",
+  "score": 7,
+  "feedback": "Sample feedback: you named the margin effect; you missed the credit-risk offset.",
+  "model": "Sample model answer in three sentences."
+ },
+ "markets": {
+  "summary": "Sample summary: a quiet session for Australian banks while the Aussie dollar slipped against the yuan.",
+  "forWestpac": "One sentence on what today’s moves mean for the bank.",
+  "extras": [
+   {
+    "name": "RBA cash rate",
+    "sub": "Next move: hold likely (sample)",
+    "value": "3.60%",
+    "change": "No change"
+   },
+   {
+    "name": "Australia 10-year",
+    "sub": "Government bond yield",
+    "value": "4.40%"
+   }
+  ]
+ }
+}

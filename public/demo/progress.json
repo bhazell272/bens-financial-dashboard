@@ -1,0 +1,60 @@
+{
+ "updated": "2026-11-20",
+ "summary": "Sample: 6 mornings in a row. Quiz accuracy rose from 68% to 82% this month, and your reasoning is closing on Claude’s.",
+ "streak": 6,
+ "opened30": 24,
+ "quizAccuracy": 82,
+ "quizTrend": 14,
+ "writtenAvg": 6.9,
+ "predictions": {
+  "you": 3,
+  "claude": 4
+ },
+ "wordsKnown": 312,
+ "reasoning": [
+  {
+   "week": "w1",
+   "you": 3,
+   "claude": 7
+  },
+  {
+   "week": "w2",
+   "you": 4,
+   "claude": 7
+  },
+  {
+   "week": "w3",
+   "you": 4,
+   "claude": 6
+  },
+  {
+   "week": "w4",
+   "you": 5,
+   "claude": 7
+  },
+  {
+   "week": "w5",
+   "you": 6,
+   "claude": 7
+  },
+  {
+   "week": "w6",
+   "you": 6,
+   "claude": 8
+  }
+ ],
+ "weakest": [
+  {
+   "topic": "Regulation",
+   "accuracy": 54
+  },
+  {
+   "topic": "Australia–China",
+   "accuracy": 61
+  },
+  {
+   "topic": "Global macro",
+   "accuracy": 66
+  }
+ ]
+}

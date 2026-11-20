@@ -1,0 +1,41 @@
+{
+ "checked": "2026-11-18T00:20:00Z",
+ "soon": [
+  {
+   "name": "Sample: Citi Hong Kong markets analyst",
+   "sub": "Hong Kong",
+   "closes": "2026-11-30",
+   "confirmed": true,
+   "url": "https://example.com"
+  },
+  {
+   "name": "Sample: Bank X summer internship",
+   "sub": "Sydney",
+   "closes": "2026-12-05",
+   "confirmed": false
+  }
+ ],
+ "watch": [
+  {
+   "name": "Westpac graduate program",
+   "sub": "You start early 2027",
+   "status": "Joined"
+  },
+  {
+   "name": "CBA graduate program",
+   "sub": "For comparison",
+   "status": "Opens Feb"
+  },
+  {
+   "name": "Citi Asia analyst programs",
+   "sub": "Markets · Hong Kong",
+   "status": "Open"
+  }
+ ],
+ "events": [
+  {
+   "date": "3 Dec",
+   "text": "Sample: online info session for finance graduates in Asia"
+  }
+ ]
+}
