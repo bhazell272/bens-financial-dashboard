@@ -1,0 +1,998 @@
+{
+ "date": "2026-11-24",
+ "generatedAt": "2026-11-23T22:45:00Z",
+ "readMinutes": 10,
+ "fullMinutes": 40,
+ "top": [
+  {
+   "h": "Wall Street's best day since April 2025 as Nvidia reinstates Huang, S&P 500 up 4.7%",
+   "d": "The S&P 500 rose 4.73% and the Nasdaq 6.51% on Monday after Nvidia's board brought Jensen Huang back as CEO and the stock jumped about 31%. It undoes much of last week's rout, but the AI-spending question is unchanged. ASX futures pointed to a rise of about 1.5% for Tuesday."
+  },
+  {
+   "h": "ASX 200 posts an eighth straight fall with Westpac down 1.89%, as Wednesday's CPI looms",
+   "d": "The ASX 200 fell 0.26% to 8,570.6 before Wall Street's rally, with financials the weakest sector and all four big banks lower. Westpac's economists reportedly forecast trimmed mean CPI near 0.4% for October, and bank economists still lean to an RBA hold on 8 December."
+  },
+  {
+   "h": "Mulino reportedly moves to legislate a new class of advice delivered through super funds",
+   "d": "A trade report says the Assistant Treasurer is releasing legislation for limited advice via super funds and insurers, excluding holistic planning, tax and estate advice. It matters for where wealth-management revenue sits, and I could not see the legislation itself."
+  }
+ ],
+ "sections": [
+  {
+   "id": "westpac",
+   "name": "Westpac",
+   "minutes": 5,
+   "items": [
+    {
+     "h": "Westpac slips 1.89% to $35.26 as the ASX 200 posts an eighth straight fall",
+     "d": "The ASX 200 closed down 0.26% at 8,570.6 on Monday, its eighth straight decline, with financials the weakest sector (down 1.20%). Westpac fell 1.89% to $35.26 and all four major banks finished lower. Futures pointed to a sharp bounce on Tuesday after Wall Street's rally, but that came after the Australian session had closed.",
+     "why": "It shows Westpac's shares trading with the whole banking sector and with the global AI swings, not on any news of its own.",
+     "sources": [
+      {
+       "title": "Sharetrader: Mining rebound falls short as ASX 200 extends last week's losses",
+       "url": "https://sharetrader.com.au/news/2026-11-23-mining-rebound-falls-short-as-asx-200-extends-last-weeks-losses"
+      },
+      {
+       "title": "JournalArta: ASX 200 Today, Australian shares slip 0.26% to 8,570.6",
+       "url": "https://journalarta.com/en/2026/11/23/asx-200-today-australian-shares-slip-0-26-as-financials-drag-ahead-of-cpi/"
+      },
+      {
+       "title": "ABC News: Wall St crashes to correction territory and ASX falls, as it happened",
+       "url": "https://www.abc.net.au/news/2026-11-23/asx-markets-business-live-news-november-23/107414602"
+      },
+      {
+       "title": "Proactive Investors: The Morning Catch-Up, ASX expected to surge 1.5% as Wall Street rallies on Nvidia comeback",
+       "url": "https://www.proactiveinvestors.com/companies/news/1102293/the-morning-catch-up-asx-expected-to-surge-1-5-as-wall-street-rallies-on-nvidia-comeback-1102293.html"
+      }
+     ],
+     "when": "23 Nov close",
+     "mention": "Ask which parts of the bank feel the share-price swings most: the wealth teams whose clients hold the stock, or the business bank.",
+     "more": [
+      {
+       "h": "What happened",
+       "p": "According to Sharetrader's closing report, the S&P/ASX 200 fell 22.0 points, or 0.26%, to 8,570.6. Nine of the 11 sectors fell and two rose: materials led, up 1.82%, helped by a bounce in miners, while financials were the biggest drag. Commonwealth Bank lost $3.77 to $166.15 and Westpac fell 1.89% to $35.26. Capital Brief and ABC's live coverage likewise described the banks as the weight on the market, and a Market Index headline spoke of the banks falling for a fifth session.\n\nThe timing matters. The Australian market closes at 4pm Sydney time, which is before the US session opens. So Monday's local losses were priced off Friday's Wall Street rout. The big US rally on Monday night, driven by Nvidia, arrived afterwards; a Proactive Investors headline says ASX futures pointed to a rise of about 1.5% for Tuesday. That is a futures indication, not a result, and the actual open will tell you more."
+      },
+      {
+       "h": "Why banks fall in a risk-off week",
+       "p": "Banks are a big share of the ASX 200, so when investors sell broadly (to raise cash, or because they fear a slowdown) the banks fall with everything else. There are also bank-specific reasons in play this month: arrears (loans behind on repayments) are drifting up, the RBA has lifted the cash rate five times this year, and every bank's net interest margin, the gap between what it earns on loans and pays on funding, is being squeezed by competition.\n\nRemember too that Westpac is heavily tied to home lending, so rate expectations matter to it. Monday's brief noted Westpac fell about 2.2% on Friday, the most of the big four; on Monday CBA's $3.77 fall was roughly 2.2%, so the two fell by similar amounts."
+      },
+      {
+       "h": "What it means for a graduate",
+       "p": "Share price moves like this are noise for a bank's operations, but they are not irrelevant. A lower share price raises the dividend yield for new buyers and makes it a little more expensive for the bank to raise equity. They also colour how customers and staff feel in the weeks around a graduate intake. The better habit is to separate what the market is repricing (growth, rate expectations, AI sentiment) from what the bank itself has changed, which this week is nothing."
+      },
+      {
+       "h": "What to watch next",
+       "p": "Wednesday's October monthly CPI is the next scheduled test, followed by the RBA's 8 December meeting. If inflation surprises on the upside the hike debate reopens and bank shares could react either way: higher rates help margins at first but raise the risk of arrears. Treat Tuesday's expected bounce as a sentiment move until it survives a few sessions."
+      }
+     ]
+    },
+    {
+     "h": "Westpac economists' forecast for Wednesday's CPI: headline near 4.8%, trimmed mean 3.7%",
+     "d": "One report, citing Westpac's economists, says they expect October's monthly CPI to show a 0.41% monthly rise in the headline (4.8% over the year, which they see as the peak) and a 0.42% rise in the trimmed mean (3.7% over the year). The same report says they expect underlying monthly inflation to cool to about 0.2% in November and December. I could not reach Westpac's own preview, so treat the numbers as second-hand.",
+     "why": "Westpac's own economists set the tone for how the bank talks to customers and the market about rates.",
+     "sources": [
+      {
+       "title": "ActionForex: AUD faces asymmetric CPI downside risk as RBA expectations shift",
+       "url": "https://www.actionforex.com/action-insight/market-overview/661749-aud-faces-asymmetric-cpi-downside-risk-as-rba-rate-cut-expectations-shift-aud-jpy-eyes-further-fall/"
+      },
+      {
+       "title": "Westpac: FY26 result media release (2 November)",
+       "url": "https://www.westpac.com.au/about-westpac/media/media-releases/2026/2-november/"
+      },
+      {
+       "title": "Sharetrader: Westpac reports $6.8 billion profit, flags elevated rates into 2027",
+       "url": "https://sharetrader.com.au/news/2026-11-02-westpac-reports-6-8-billion-profit-flags-elevated-rates-into-2027"
+      }
+     ],
+     "when": "23 Nov",
+     "more": [
+      {
+       "h": "What is being forecast",
+       "p": "ActionForex, summarising Westpac's view ahead of the release, reports a headline monthly rise of 0.41% (4.8% over twelve months) and a trimmed mean rise of 0.42% (3.7% over twelve months). It adds that Westpac sees the headline figure as the peak, and that November and December should see underlying monthly inflation ease to around 0.2%. It also says the risks to the October forecasts have a slight upside bias.\n\nThis is a single, secondary source, and I could not find Westpac's own October note, so check Westpac IQ before quoting the numbers. Monday's brief mentioned that previews had put headline inflation near 4.7% to 4.8%, so this is consistent with that, not a new range."
+      },
+      {
+       "h": "Background: headline, trimmed mean and the monthly gauge",
+       "p": "Headline CPI measures the change in a basket of goods and services including volatile items such as fuel, fruit and vegetables and holiday travel. The trimmed mean removes the most extreme price changes at both ends and is the number the RBA watches most closely as a guide to underlying inflation. The RBA's target is 2 to 3%, so even 3.7% trimmed mean is well above it.\n\nThe monthly CPI is an indicator, not the full quarterly index: it does not measure every item every month, which is why economists treat one month with caution. October is also the first month of a quarter, when prices for some services are not re-collected."
+      },
+      {
+       "h": "Why it matters to the RBA and the bank",
+       "p": "The RBA lifted the cash rate to 4.85% on 3 November in a 6-3 vote and meets again on 8 December. Bank economists have mostly expected a hold. An upside surprise on trimmed mean would reopen the question, while a result near forecast would support the view that the peak is behind us.\n\nFor Westpac the link runs through two channels: the cash rate sets funding costs and mortgage pricing, and persistent inflation squeezes household budgets, which shows up later in arrears. Westpac's CEO said at the FY26 result that rates would likely stay elevated into 2027."
+      },
+      {
+       "h": "What to watch next",
+       "p": "The ABS release on Wednesday 25 November is the first test. Look at the trimmed mean rather than the headline, then at how markets reprice the 8 December meeting. Remember that the forecast above is one bank's view, and economists at other banks can differ."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "banks",
+   "name": "Big four banks",
+   "minutes": 4,
+   "items": [
+    {
+     "h": "CBA's first-quarter cash profit rises 8% to $2.8bn even as home loan arrears climb",
+     "d": "Commonwealth Bank reported on 11 November that unaudited cash profit for the three months to 30 September rose 8% to $2.8bn, while arrears on home loans increased. It is the only big four update this month that is not a full-year result, which makes it a useful read on where credit quality is heading.",
+     "why": "A strong profit alongside rising arrears is the pattern to understand: banks earn well while the stress builds underneath.",
+     "sources": [
+      {
+       "title": "Capital Brief: Commonwealth Bank Q1 cash profit rises 8% to $2.8b",
+       "url": "https://www.capitalbrief.com/briefing/commonwealth-bank-q1-cash-profit-rises-8-to-28b-d8b13555-585b-4d12-9686-32e1081435d6/"
+      },
+      {
+       "title": "Kalkine: Commonwealth Bank, what its November trading update reveals",
+       "url": "https://kalkine.com.au/news/financial/commonwealth-bank-of-australia-asxcba-what-its-november-trading-update-reveals"
+      }
+     ],
+     "when": "11 Nov",
+     "more": [
+      {
+       "h": "What was reported",
+       "p": "Capital Brief and Kalkine report that Commonwealth Bank's quarterly update showed cash net profit after tax of about $2.8bn for the three months to 30 September, up 8% on the same period a year earlier, even as home loan arrears rose. The figures are unaudited, which is normal for a quarterly trading update.\n\nI could not reach the full update, so I am not quoting arrears percentages for this quarter. The 90-day arrears rate of 0.8%, described as a 14-year high, was reported in the brief on Monday from the House committee hearing."
+      },
+      {
+       "h": "Background: why profit and arrears can rise together",
+       "p": "Bank profit is mostly net interest income: the gap between the rate charged on loans and the cost of deposits and wholesale funding. When the RBA lifts rates, the bank can reprice variable loans quickly. If most borrowers keep paying, profit rises. Arrears rise with a lag, because households first cut spending and use savings before they miss payments. That is why quarterly profit can look healthy while arrears are climbing.\n\nProvisions, the money banks set aside for expected losses, are the bridge between the two. If arrears continue to grow, provisions rise and eat into profit later. NAB's credit charge nearly doubling in FY26 is the example from earlier this month."
+      },
+      {
+       "h": "Why CBA is the benchmark",
+       "p": "CBA is the largest of the four and trades at a premium to the others, so its updates move the whole sector. Westpac investors compare their bank's margin, growth and arrears against CBA's every time. A bank that grows faster than CBA usually does so by accepting a lower margin or more risk, which is a trade-off to keep in mind when you read Westpac's business lending growth of 12%."
+      },
+      {
+       "h": "What to watch next",
+       "p": "Watch whether other banks' trading updates in the next few weeks show the same combination of profit growth and rising arrears, and what the RBA says about household finances after Wednesday's CPI. Check the investor centres for any scheduled update dates; I did not verify them."
+      }
+     ]
+    },
+    {
+     "h": "NAB's Irvine says stress is building in business lending, with smaller firms hit hardest",
+     "d": "On 16 November NAB chief executive Andrew Irvine warned that stress across the bank's business lending book is increasing, with smaller companies facing the toughest conditions, according to Broker Daily. This is a new comment from the CEO rather than the bad-debt numbers reported earlier this month.",
+     "why": "It links NAB's credit charge jump to the businesses actually struggling, which is the area Westpac is also growing fastest in.",
+     "sources": [
+      {
+       "title": "Broker Daily: NAB CEO says stress is building in business lending book",
+       "url": "https://www.brokerdaily.au/lender/22251-nab-ceo-says-stress-building-in-business-lending-book"
+      },
+      {
+       "title": "MarketScreener: NAB Monthly Business Survey, order books thin as sentiment slips",
+       "url": "https://www.marketscreener.com/news/nab-monthly-business-survey-order-books-thin-as-business-sentiment-slips-again-ce785fd3d08ff421"
+      },
+      {
+       "title": "Westpac: FY26 result media release",
+       "url": "https://www.westpac.com.au/about-westpac/media/media-releases/2026/2-november/"
+      }
+     ],
+     "when": "16 Nov",
+     "more": [
+      {
+       "h": "What was said",
+       "p": "Broker Daily reports that Irvine said stress is increasing in NAB's business lending book and that the smallest companies are facing the hardest conditions. It sits alongside NAB's October business survey, which showed business confidence at -15 index points and conditions at -2. The brief on Monday covered NAB's FY26 bad debts, with a credit charge of about $1.5bn.\n\nWhat is new is the CEO's own attribution of the pressure to the business book, particularly smaller borrowers, rather than leaving it to the numbers."
+      },
+      {
+       "h": "Background: why small business credit is the early warning",
+       "p": "Small businesses borrow on floating rates, hold little cash, and feel changes in consumer spending first. A cafe or builder facing slower sales and higher interest costs will draw down its overdraft, then miss a payment. Business loans are also often secured on property, which cushions the bank but takes time to realise. Because business lending is a smaller share of the book than mortgages, a rise in business losses can be material to profit without moving the headline arrears figure much.\n\nNAB is the largest business lender in Australia, so its comments tell you about the sector. A trade-press tally of August data put NAB's business portfolio at about $278.2bn."
+      },
+      {
+       "h": "What it means for Westpac",
+       "p": "Westpac's business lending grew 12% in FY26 and its institutional lending grew 18%, and the CEO said at the result that confidence was near historic lows. Fast growth into a weakening part of the market is exactly where a bank's risk team earns its pay. For a graduate heading into the business bank, the real skill is judging cash flow, not collateral: whether the firm can service the loan if sales fall 10%."
+      },
+      {
+       "h": "What to watch next",
+       "p": "The next datapoints are the RBA's monthly business credit figures and NAB's November business survey; I did not verify release dates. If conditions fall again, expect more cautious commentary from all four banks."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "regulation",
+   "name": "Regulation",
+   "minutes": 5,
+   "items": [
+    {
+     "h": "ASIC's 2027 enforcement priorities target cost-of-living harm and failures in AI and technology",
+     "d": "ASIC chair Sarah Court announced nine enforcement priorities for 2027 at the regulator's annual forum on 18 November. They focus on misconduct by banks, insurers and super trustees that adds to cost-of-living pressure, predatory practices aimed at people in financial difficulty, and harm from poorly implemented technology including AI. Brokers and banks should expect more scrutiny.",
+     "why": "The priority list tells you where the regulator will spend its litigation budget, which is where the banks' compliance teams will spend theirs.",
+     "sources": [
+      {
+       "title": "ASIC 26-286MR: ASIC to target cost of living and tech-related consumer harm in 2027",
+       "url": "https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-286mr-asic-to-target-cost-of-living-and-tech-related-consumer-harm-in-2027/"
+      },
+      {
+       "title": "ASIC Annual Forum 2026: Enforcement priorities (speech)",
+       "url": "https://www.asic.gov.au/about-asic/news-centre/speeches/asic-annual-forum-2026-enforcement-priorities/"
+      },
+      {
+       "title": "Mallesons: AI and cost of living pressures in ASIC's sights, 2027 enforcement priorities revealed",
+       "url": "https://www.mallesons.com/au/en/insights/latest-thinking/ai-and-cost-of-living-pressures-in-asics-sights-2027-enforcement-priorities-revealed.html"
+      },
+      {
+       "title": "Finance Magnates: ASIC adds AI failures to 2027 enforcement list",
+       "url": "https://www.financemagnates.com/forex/bots-dont-get-a-pass-asic-adds-ai-failures-to-2027-enforcement-list/"
+      }
+     ],
+     "when": "18 Nov",
+     "more": [
+      {
+       "h": "What was announced",
+       "p": "ASIC's media release 26-286MR and law firm commentary describe nine priorities for 2027. Reported items include misconduct by banks, insurers and superannuation trustees that compounds cost-of-living pressures; predatory practices that target consumers and small businesses in financial difficulty; and consumer harm from poorly implemented technology, including AI and automated systems. These sit alongside what ASIC calls enduring priorities: misconduct that threatens market integrity or carries a high risk of significant consumer harm, serious governance failures and systemic compliance failures.\n\nCourt said courts have imposed more than $570 million in civil penalties this year, and mentioned proceedings against BDO Audit and its director as well as continuing investigation of certain KPMG auditors. I did not see the full text of all nine priorities, so read the release for the complete list."
+      },
+      {
+       "h": "Background: what enforcement priorities do",
+       "p": "ASIC cannot investigate everything, so each year it publishes where it will concentrate. The list does not create new law. What it does is signal to industry that conduct in those areas, such as hidden fees, poor hardship handling or weak oversight of automated decisions, is more likely to attract court action. Companies then adjust their audits and board reporting. Civil penalty proceedings, where ASIC asks a court to impose a fine, are the main tool.\n\nThe AI element follows a joint warning with APRA earlier this autumn that awareness of frontier AI must turn into action. In banking this could mean automated credit decisions, chatbots giving incorrect information or models that treat customers unfairly."
+      },
+      {
+       "h": "What it means for Westpac and the banks",
+       "p": "Hardship handling, fee disclosure and complaint processes are all potential targets. ASIC's civil case against Commonwealth Bank over alleged undisclosed CommBiz fees, covered in Friday's brief, shows the kind of matter that fits the cost-of-living theme. Westpac has been investing in AI across business banking and now has AI responsibility reporting directly to its CEO, so it will have to show that controls keep pace with deployment.\n\nFor a graduate, the lesson is that compliance is not a back-office afterthought: it determines what products are built and how they are sold."
+      },
+      {
+       "h": "What to watch next",
+       "p": "Watch for the first 2027 proceedings that cite these priorities, and for ASIC's consultation on digital asset platforms, which a law firm update says closes on 27 November. I did not verify further dates."
+      }
+     ]
+    },
+    {
+     "h": "Why Wednesday's CPI is a test for a split RBA board, and why economists still lean to a December hold",
+     "d": "The RBA lifted the cash rate to 4.85% on 3 November by a 6-3 vote and dropped its reference to further hikes. CommBank economists wrote that December 'will not be a live meeting', and ANZ also expects a hold. Wednesday's October CPI is the first hard data that could change that. New since Friday: the data date is now close and the bank previews are out.",
+     "why": "The RBA's next decision sets mortgage rates and funding costs for every bank, and the vote split shows how fine the call was.",
+     "sources": [
+      {
+       "title": "CommBank: RBA now likely on hold after split-call November rate rise",
+       "url": "https://www.commbank.com.au/articles/newsroom/2026/11/commbank-november-rba-cash-rate-increase-analysis.html"
+      },
+      {
+       "title": "CommBank: RBA pause increasingly likely after November's split vote",
+       "url": "https://www.commbank.com.au/articles/newsroom/2026/11/rba-rate-pause-split-vote-december-2026.html"
+      },
+      {
+       "title": "Aussie: What experts predict for the RBA's December 2026 interest rate decision",
+       "url": "https://www.aussie.com.au/insights/news/expert-predictions-rba-rates/"
+      },
+      {
+       "title": "Westpac: Inflation runs hotter than expected a week out from RBA rate decision",
+       "url": "https://www.westpac.com.au/news/making-news/2026/10/inflation-runs-hotter-than-expected-a-week-out-from-rba-rate-decision/amp/"
+      }
+     ],
+     "when": "25 Nov data, 8 Dec meeting",
+     "more": [
+      {
+       "h": "Where things stand",
+       "p": "CommBank's economists wrote after the November decision that the split vote and the Board's decision to drop its reference to further hikes pointed to a pause, and that December would not be a live meeting after two back-to-back increases. ANZ's chief economist also expects a hold but flagged a possible hike later if inflation expectations rise. The RBA minutes, covered Friday, showed the minority argued there was no need to decide immediately whether more increases were needed. CommBank says inflation risks remain tilted to the upside, leaving another rise in 2027 possible.\n\nSo the central bank has hiked five times this year and has openly told the market it is no longer committed to the next move."
+      },
+      {
+       "h": "Background: what a split vote means",
+       "p": "The nine-member board sets the rate by majority. A 6-3 vote means three members preferred to hold. Markets read splits as a sign the board is near the top of its cycle, because the dissenters will be the first to argue for a pause. The dropped phrase matters as well: central banks use short statements to guide the market, and removing a line saying 'further increases may be required' is a quiet but deliberate signal.\n\nInflation data then arrives in two ways. The monthly CPI indicator gives an early read, and the full quarterly CPI is the official statistic. The board looks at both, plus the labour market, wages and business surveys."
+      },
+      {
+       "h": "What to watch on Wednesday",
+       "p": "Focus on the trimmed mean, which strips out volatile items. If it matches Westpac's forecast of about 0.4% for the month, as reported by ActionForex, the pause story holds. A much hotter number would force traders to price some chance of a hike on 8 December, and the Australian dollar would likely rise on that. A soft number would reinforce the hold and might lift the sharemarket.\n\nNote the Australian dollar has been weak, near its lowest since December 2025 in Monday's brief, which itself adds a little to inflation through import prices."
+      },
+      {
+       "h": "What it means for the banks",
+       "p": "A hold with a hawkish tone means rates stay high for longer. That supports margins but raises arrears risk, the theme running through every big four update this month. For Westpac, the economists have said February is the risk date, as per Monday's brief. I have not verified any later dates."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "wealth",
+   "name": "Wealth & super",
+   "minutes": 4,
+   "items": [
+    {
+     "h": "Mulino reportedly moves to legislate a new class of advice delivered through super funds and insurers",
+     "d": "Financial Newswire reports that Assistant Treasurer Daniel Mulino is releasing legislation for a new class of advice delivered through super funds and insurers. The advice would not cover buying or selling assets outside super, holistic planning or estate and tax planning. ASFA's chief executive said it would increase the number of Australians receiving advice. I could not see the legislation itself.",
+     "why": "It would change who gives advice to ordinary members, and so where wealth-management revenue for banks and advisers could sit.",
+     "sources": [
+      {
+       "title": "Financial Newswire: Will the boundaries around super advice be sufficient?",
+       "url": "https://financialnewswire.com.au/financial-planning/will-the-boundaries-around-super-advice-be-sufficient/"
+      },
+      {
+       "title": "Financial Standard: Super fund-backed AFSL adviser numbers drop, Rainmaker",
+       "url": "https://www.financialstandard.com.au/news/super-fund-backed-afsl-adviser-numbers-drop-rainmaker-179812644"
+      },
+      {
+       "title": "Money Management: Mulino prioritises second DBFO additions",
+       "url": "https://www.moneymanagement.com.au/news/financial-planning/mulino-prioritises-second-dbfo-additions"
+      },
+      {
+       "title": "Financial Newswire: Adviser numbers back over 15,200",
+       "url": "https://financialnewswire.com.au/financial-planning/adviser-numbers-back-over-15200/"
+      }
+     ],
+     "when": "23 Nov",
+     "more": [
+      {
+       "h": "What is reported",
+       "p": "The Financial Newswire piece says that, under the reported rules, advice given in super would be limited: it would not cover buying or selling assets or products held outside super, holistic financial planning, or estate and tax planning. ASFA, the super funds' peak body, said the change would increase the number of Australians receiving advice, and that members whose needs become more complex would still need a financial adviser.\n\nThis is a single trade-press report with one stated reaction, and I could not find the exposure draft on Treasury's site, so details such as dates are unconfirmed."
+      },
+      {
+       "h": "Background: the advice gap and the Shield and First Guardian collapses",
+       "p": "Most Australians do not see a financial adviser because it costs too much. The adviser register has shrunk: Padua's WealthData counts 15,209 advisers at 30 October, down from 20,667 five years ago, a fall of about 27%. Super funds already provide some limited advice to members, and Rainmaker found advisers on super-fund licences fell from 546 in March 2025 to 505 in March 2026, while funds like AustralianSuper are turning to digital tools.\n\nEarlier this year, according to trade press, Mulino said legislating advice reform remained a high priority and attributed delays to limited drafting resources and the complexity of the legislation. I did not see anything confirming how the new class will be paid for, so I cannot say whether commissions are excluded."
+      },
+      {
+       "h": "Different views",
+       "p": "Supporters say simple advice for super members is where the unmet need is, and that funds, with scale and no commissions, can deliver it cheaply. Critics worry about conflicts if a fund recommends its own products, and about the boundary between 'limited' advice and the wider plan, where gaps can hurt members. Advisers may also fear the change could take away the simple clients that help sustain their practices."
+      },
+      {
+       "h": "What it means for Westpac",
+       "p": "Westpac's wealth business, including advice through its platforms and the BT brand, competes for the same customers. If funds can advise members cheaply inside super, banks will lean more on the complex end: tax, property, business owners and retirement income. The topic matters to graduate roles in wealth and advice support. Watch Treasury's consultation page for the exposure draft and any commencement dates; none are verified."
+      }
+     ]
+    },
+    {
+     "h": "APRA finalises its Retirement Reporting Framework standards and ASIC consults on extending super forecast relief",
+     "d": "On 19 November APRA released final reporting standards for the government's Retirement Reporting Framework, and ASIC the same day sought feedback on extending its superannuation forecast relief for five more years with the same default long-term assumptions. Both are quiet technical steps that shape what funds must tell members about retirement.",
+     "why": "Retirement income is the next big business in wealth management, and these rules set how funds measure and report it.",
+     "sources": [
+      {
+       "title": "APRA: Final reporting standards for the government's Retirement Reporting Framework",
+       "url": "https://www.apra.gov.au/news-and-publications/apra-releases-final-reporting-standards-governments-retirement-reporting"
+      },
+      {
+       "title": "Lexology: Super Alert, 20 November 2026",
+       "url": "https://www.lexology.com/library/detail.aspx?g=eaa61081-b577-4f06-8e06-93f48bd5eb27"
+      },
+      {
+       "title": "Super Review: Chalmers sets out super test investment reforms",
+       "url": "https://www.superreview.com.au/chalmers-sets-out-super-test-investment-reforms/"
+      }
+     ],
+     "when": "19 Nov",
+     "more": [
+      {
+       "h": "What happened",
+       "p": "APRA's release says it has finalised revised reporting standards for implementing the government's Retirement Reporting Framework, whose design the government set in February 2026. A Lexology super alert dated 20 November also records that ASIC is seeking feedback on extending its superannuation forecast relief, which allows funds to show members projected balances using default assumptions, for another five years, and proposes keeping the current default long-term assumptions.\n\nI saw summaries of both rather than the full documents, so I am not describing the detailed data fields or the assumption values."
+      },
+      {
+       "h": "Background: why retirement reporting matters",
+       "p": "Super was built for saving. As the first big cohorts retire, funds are now expected to help members turn a balance into an income, including the rules around drawdown and longevity risk. Regulators want funds to report how many members are retiring, how they draw money and what products they use, so they can see whether the system works. A forecast relief means funds do not have to produce a custom personal estimate and can use set assumptions about returns, inflation and fees, which keeps the numbers comparable but hides individual circumstances.\n\nThese details seem dry, but they decide how members see their future income, and a projection is only as good as its assumptions."
+      },
+      {
+       "h": "What it means for banks and wealth teams",
+       "p": "Banks sell retirement products and advice, so they need the same data about customers that funds will report. A graduate in wealth should expect a heavy retirement-income theme over the next few years: annuities, account-based pensions, and the advice rules discussed above. The new advice class and these reporting rules are two halves of one regulatory push.\n\nThe Treasury performance test changes announced by the Treasurer on 18 November, covered in Monday's brief, are the third part."
+      },
+      {
+       "h": "What to watch next",
+       "p": "Look for the closing date of ASIC's consultation (not confirmed in what I saw) and for APRA's effective dates for the standards. Neither was verified here."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "business",
+   "name": "Business banking",
+   "minutes": 4,
+   "items": [
+    {
+     "h": "RBA says business debt growth is at a post-GFC high as the big banks fight for SME lending",
+     "d": "The RBA's November Statement on Monetary Policy says business debt growth is at its highest since the global financial crisis. A trade-press tally of August figures shows NAB as the largest business lender at about $278.2bn, Westpac at about $211.9bn, and CBA's book about 90% of NAB's. The ABA has also found small business loan margins at a five-year low.",
+     "why": "Fast credit growth with falling margins is how lending cycles end badly, and business banking is where Westpac is growing quickest.",
+     "sources": [
+      {
+       "title": "RBA: Statement on Monetary Policy, November 2026, Financial Conditions",
+       "url": "https://www.rba.gov.au/publications/smp/2026/nov/financial-conditions.html"
+      },
+      {
+       "title": "Broker Daily: CBA leads business lending boom",
+       "url": "https://www.brokerdaily.au/lender/22083-cba-leads-business-lending-boom"
+      },
+      {
+       "title": "Kalkine: NAB business lending grows 8.8% as margin reaches 1.80%",
+       "url": "https://kalkine.com.au/news/financial/nab-share-price-and-lending-nab-asxnab-business-lending-grows-88-as-margin-reaches-180"
+      },
+      {
+       "title": "Kalkine: What Westpac's FY26 result shows about cost control, business lending and capital",
+       "url": "https://kalkine.com.au/news/financial/what-westpacs-asxwbc-fy26-result-shows-about-cost-control-business-lending-and-capital"
+      }
+     ],
+     "when": "Nov",
+     "more": [
+      {
+       "h": "What the figures say",
+       "p": "The RBA's November Statement on Monetary Policy, in its financial conditions chapter, says business debt growth is at a post-GFC high. A Broker Daily tally of August business lending data reports NAB's portfolio at $278.2bn (up $1.7bn in the month), Westpac's at $211.9bn (up $1.5bn, or 0.7%), with CBA's book about 90% of NAB's. Separately, the ABA found strong competition from banks and non-banks has pushed the margin on small business loans above the cash rate to a five-year low.\n\nIn the FY26 results, Westpac reported business lending up 12% and NAB 8.8%."
+      },
+      {
+       "h": "Background: credit cycles and margin",
+       "p": "When lenders chase growth, they accept thinner margins, looser terms and weaker borrowers. Margin is the compensation for risk: if it is shrinking while arrears rise, the bank is being paid less for more risk. In business lending, competition has come from non-bank lenders and private credit funds, which are lightly regulated compared with banks. The RBA has noted such lenders hold at least 40 to 50% of lending for residential construction, which is a different segment from small business loans but shows how large their role has become.\n\nA 'post-GFC high' for growth is not itself a warning: borrowing can grow because businesses are investing. It becomes a worry when it accompanies falling confidence, which is the case now with NAB's survey showing confidence at -15."
+      },
+      {
+       "h": "What it means for Westpac",
+       "p": "Westpac gained share in business lending, as the FY26 result showed, but its book is smaller than NAB's and CBA's, so it has more to prove on credit quality. APRA's planned review of bank lending to small and medium businesses, mentioned in Friday's brief, means the regulator is watching the same trend. A graduate in business banking will spend a lot of time on cash-flow analysis and watch-lists."
+      },
+      {
+       "h": "What to watch next",
+       "p": "Watch the next RBA monthly credit release, the November NAB survey and any APRA comment on the SME lending review. None of their dates were verified here."
+      }
+     ]
+    },
+    {
+     "h": "NAB courts Square's retail and hospitality merchants as the card surcharge ban reshapes payments",
+     "d": "A 19 November report says NAB is courting Square's retail and hospitality merchants with flexible payouts as it tries to win business banking customers. The push comes after the ban on card surcharges took effect on 1 October. A consultancy survey found 55% of surcharging firms expect no real impact, but 37% expect a negative one.",
+     "why": "Payments are the doorway to a business customer's whole banking relationship, so banks fight over merchants.",
+     "sources": [
+      {
+       "title": "ACCC: Card surcharges",
+       "url": "https://www.accc.gov.au/business/pricing/card-surcharges"
+      },
+      {
+       "title": "Fifth Quadrant: Australian card surcharge ban 2026, what it means for SMEs",
+       "url": "https://www.fifthquadrant.com.au/australian-card-surcharge-ban-2026"
+      },
+      {
+       "title": "NAB: RBA surcharging changes (merchant support centre)",
+       "url": "https://www.nab.com.au/business/payments-and-merchants/merchant-support-centre/rba-surcharging-changes"
+      }
+     ],
+     "when": "19 Nov",
+     "more": [
+      {
+       "h": "What was reported",
+       "p": "The 19 November report says NAB is offering flexible payouts to merchants who use Square, aimed at retail and hospitality businesses. I only saw a summary, so I cannot give terms or pricing. Separately, the ACCC says businesses have been barred since 1 October 2026 from adding surcharges to payments made with Visa, Mastercard, American Express or eftpos credit, debit or prepaid cards. NAB's merchant page says the ACCC continues to enforce the rules against excessive surcharging; this conflicts with the ACCC's statement that the excessive-surcharge rules ended, so check the ACCC site before relying on either.\n\nFifth Quadrant, a consultancy, surveyed surcharging businesses and found 55% expect no real impact from the ban while 37% expect a negative effect. I could not verify its methodology."
+      },
+      {
+       "h": "Background: how merchant payments make money",
+       "p": "When a customer pays by card, the merchant pays a fee. The fee includes interchange (paid to the customer's bank), scheme fees (to Visa or Mastercard) and the acquirer's margin (to the business that processes the payment). Surcharging passed some of that cost to the customer. With surcharges banned, merchants absorb it or raise prices, which makes the acquirer's price and speed of payout more important competitive points.\n\n'Flexible payouts' refers to how fast a merchant receives its sales money. Cash-flow-sensitive businesses value same-day settlement, and a bank that offers it can also pitch an account, overdraft or loan."
+      },
+      {
+       "h": "What it means for Westpac",
+       "p": "Westpac competes in merchant services with CBA, NAB and fintechs such as Square. Win the payments relationship and you see a business's daily revenue, which is a powerful input for lending decisions. For a business-banking graduate this is why 'transaction banking' is considered the front door to the client. Westpac has said it is rolling out AI more widely in business banking, so expect data from payments to feed that."
+      },
+      {
+       "h": "What to watch next",
+       "p": "Watch whether NAB's offer spreads to rivals and whether the ACCC publishes anything on surcharging compliance. Neither date is verified."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "china",
+   "name": "Australia–China",
+   "minutes": 4,
+   "items": [
+    {
+     "h": "Iron ore holds below US$90 as Fortescue is still negotiating with China's central buyer",
+     "d": "Singapore's December iron ore contract was about US$88.25 a tonne on Monday, a fifth session below US$90, and the main Dalian contract fell 0.7% to 651.5 yuan. BHP and Rio Tinto have supply agreements with China's state buyer CMRG, but Fortescue is still negotiating and has warned its operations could be affected if talks do not conclude by year-end. What is new since Friday: Fortescue's year-end deadline and executives' Beijing trip.",
+     "why": "Iron ore is Australia's biggest export to China, and the price feeds into the Australian dollar, company tax revenue and bank shares.",
+     "sources": [
+      {
+       "title": "Mining Weekly: BHP, Rio Tinto executives to meet China leaders as iron-ore pressure builds",
+       "url": "https://www.miningweekly.com/article/bhp-rio-tinto-executives-to-meet-china-leaders-as-iron-ore-pressure-builds-2026-11-18"
+      },
+      {
+       "title": "Australian Mining: China's iron ore strategy tests Australia's mining giants",
+       "url": "https://www.australianmining.com.au/chinas-iron-ore-strategy-tests-australias-mining-giants"
+      },
+      {
+       "title": "Mining Weekly: Australia wary of iron-ore trade manipulation as China seeks more bargaining power",
+       "url": "https://www.miningweekly.com/article/australia-wary-of-iron-ore-trade-manipulation-as-china-seeks-more-bargaining-power-2026-11-16"
+      },
+      {
+       "title": "Business Recorder: Iron ore slides on weakening China demand, falling steel margins",
+       "url": "https://www.brecorder.com/news/40450329/iron-ore-slides-on-weakening-china-demand-falling-steel-margins"
+      }
+     ],
+     "when": "16-23 Nov",
+     "more": [
+      {
+       "h": "The numbers",
+       "p": "A 23 November iron ore market report gives the most-traded Dalian contract down 0.7% at 651.5 yuan (about US$97.57) a tonne, with futures last week near their lowest since October 2022. The Singapore December contract was 0.25% lower at US$88.25 and has stayed below US$90 for five straight sessions. China's hot metal output, a gauge of iron ore demand, has slipped for six straight weeks to an eight-month low, and China's steel output in October fell 1.6% to 70.83 million tonnes, the lowest since March. Goldman Sachs cut its 2027 forecast to US$92 from US$96, citing Guinea's Simandou mine and slower Chinese steel demand.\n\nFriday's brief covered the Goldman cut and Monday's the slide toward US$90, so the new elements are below."
+      },
+      {
+       "h": "The new development: who is negotiating",
+       "p": "China Mineral Resources Group (CMRG) is the state buyer that centralises purchasing. Reports say it barred steelmakers from buying selected products from BHP, Fortescue and Rio Tinto while annual supply negotiations were under way. BHP reached an agreement in April, and Rio Tinto secured one in October extending until May 2028. Fortescue remains in negotiations and has warned its operations could be affected if talks do not conclude by year-end.\n\nMining Weekly also reported on 18 November that BHP and Rio Tinto executives were due to join Prime Minister Albanese at a Beijing roundtable with Premier Li Qiang."
+      },
+      {
+       "h": "Background: why one buyer matters",
+       "p": "When a handful of miners sell to hundreds of steel mills, price is set by supply and demand. If one state buyer negotiates for all mills, it gains bargaining power, a situation economists call monopsony. The aim for China is a lower price and more influence on price discovery, including yuan-denominated indices, as analysts note. The miners' response has been to negotiate individually while governments talk about trade rules."
+      },
+      {
+       "h": "What it means for Australia and Westpac",
+       "p": "Lower iron ore reduces export earnings and corporate tax revenue, and pressure on the Australian dollar follows, as Monday's brief noted. For banks the effect is indirect: WA and Queensland business lending, mining service companies and household confidence. Watch Fortescue's negotiation outcome by year-end and the next steel data."
+      }
+     ]
+    },
+    {
+     "h": "Canberra warns that manipulating iron ore trade would breach international rules",
+     "d": "Resources Minister Madeleine King said this month that any attempt to manipulate iron ore trade would breach international rules and threaten government revenue, as China's CMRG centralises purchasing. A Proactive Investors headline put export earnings at risk of a US$16 billion hit, though I could not see the basis for that figure.",
+     "why": "It shows how Canberra frames the iron ore talks as a trade-rules issue while still keeping the diplomatic reset with Beijing alive.",
+     "sources": [
+      {
+       "title": "Mining Weekly: Australia wary of iron-ore trade manipulation as China seeks more bargaining power",
+       "url": "https://www.miningweekly.com/article/australia-wary-of-iron-ore-trade-manipulation-as-china-seeks-more-bargaining-power-2026-11-16"
+      },
+      {
+       "title": "IndexBox: Australia warns China's iron ore buying push may breach trade rules",
+       "url": "https://www.indexbox.io/blog/australia-warns-chinas-iron-ore-buying-push-may-breach-trade-rules/"
+      },
+      {
+       "title": "Proactive Investors: Australia warns China over iron ore price manipulation as export earnings face $16 billion hit",
+       "url": "https://www.proactiveinvestors.com/companies/news/1101884/australia-warns-china-over-iron-ore-price-manipulation-as-export-earnings-face-16-billion-hit-1101884.html"
+      },
+      {
+       "title": "Forbes: China v Australia trade tensions start to boil over",
+       "url": "https://www.forbes.com/sites/timtreadgold/2026/10/22/china-v-australia-trade-tensions-start-to-boil-over/"
+      }
+     ],
+     "when": "16-18 Nov",
+     "more": [
+      {
+       "h": "What was said",
+       "p": "Mining Weekly (16 November) and IndexBox report that Australia has said any manipulation of iron ore trade would be against international trade rules and a threat to government revenue. King said it publicly. A Proactive Investors headline on the same theme says Australian export earnings face a $16 billion hit; I only saw the headline, so I am not endorsing the number or its time frame. Forbes columnist Tim Treadgold wrote on 22 October that trade tensions were starting to boil over.\n\nAn aggregator headline also describes Xi hailing an Australia reset at APEC in Shenzhen, but I could not confirm it with a major outlet, so I have left the quotes out."
+      },
+      {
+       "h": "Background: trade rules and state buying",
+       "p": "The World Trade Organization's rules are designed for governments, but the principle is that state buying should be commercial, not used to harm trade partners. Australia's concern is that a state buyer could coordinate a boycott of selected sellers to force a price cut. A formal dispute would be slow, so the practical tools are diplomacy and the miners' own negotiations.\n\nIron ore royalties and company tax are a big part of federal and state budgets, so this is as much a fiscal issue as a trade one."
+      },
+      {
+       "h": "Different views",
+       "p": "Some analysts argue China has legitimate reasons to organise purchasing, because it buys the majority of seaborne ore and wants more price stability. Others point out that new supply from Guinea's Simandou will weaken the miners' leverage over time, so the dispute is partly about who gets the benefit of that shift."
+      },
+      {
+       "h": "What it means and what to watch",
+       "p": "For a graduate watching the Australia-China relationship, the bigger picture is a relationship that is warmer in tone yet commercially tougher. Watch for how Fortescue's talks conclude, for Chinese comment on the roundtable, and for the AUD/CNY rate. Monday's brief had it at about 4.42 on XE, a figure I have not updated today."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "hk",
+   "name": "Hong Kong",
+   "minutes": 4,
+   "items": [
+    {
+     "h": "Hang Seng ends Monday slightly lower at 22,383 as Nvidia's rebound does not reach Hong Kong",
+     "d": "The Hang Seng fell 27 points, or 0.21%, to 22,383 on Monday after dropping nearly 2% earlier in the day. Chip-related weakness weighed on tech stocks even as Nvidia jumped about 30% in the US on news that Jensen Huang was reinstated. On Friday Bloomberg reported Hong Kong stocks were about 20% below their January peak at one point.",
+     "why": "It shows Hong Kong trading on its own sentiment, tied to China tech and local flows, rather than simply following Wall Street.",
+     "sources": [
+      {
+       "title": "The Standard (HK): Hong Kong stocks inch down at close, Lenovo up 7pc",
+       "url": "https://www.thestandard.com.hk/finance/article/349341/Hong-Kong-stocks-inch-down-at-close-Lenovo-up-7pc"
+      },
+      {
+       "title": "Al Jazeera: Asian stock markets tumble as AI bubble fears mount",
+       "url": "https://aljazeera.com/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount"
+      },
+      {
+       "title": "Bloomberg: Hong Kong stocks fall 20% from 2026 high as AI selloff spreads",
+       "url": "https://www.bloomberg.com/news/articles/2026-11-20/hong-kong-stocks-hang-seng-hsi-hkex-2026-ai-selloff-bear-market",
+       "paywalled": true
+      }
+     ],
+     "when": "23 Nov close",
+     "more": [
+      {
+       "h": "What happened",
+       "p": "The Standard's close report and a Trading Economics snippet put the Hang Seng at about 22,383, down 0.21%, with turnover of HK$253 billion; Al Jazeera described a dip of 0.1% after an earlier decline of nearly 2%. The index opened about 1.35% lower. The Hang Seng Tech Index was lower through the day, and Tencent finished flat after trading lower earlier. Nvidia's surge came during Monday's US session, which is after the Hong Kong close, so the real reaction to it may come on Tuesday.\n\nBloomberg's Friday headline said Hong Kong stocks had fallen 20% from their 2026 high as the AI sell-off spread. A 20% fall is the usual definition of a bear market; at one point the index was close to it, and Monday's close is still well down on the peak."
+      },
+      {
+       "h": "Background: why Hong Kong is exposed",
+       "p": "The Hang Seng has a heavy weight in mainland tech and financials such as Tencent, Alibaba and HSBC. It trades in Hong Kong dollars, which are pegged to the US dollar, so US interest rates flow straight into Hong Kong borrowing costs. That is why a Fed hike, now widely expected for December, matters here as well as the AI story. International funds also use Hong Kong as their way to hold Chinese equities, and they sell quickly when risk appetite falls."
+      },
+      {
+       "h": "Different views",
+       "p": "Bulls say the fall puts valuations back to attractive levels and that policy support from Beijing is likely if growth slows. Bears point out that the AI trade drove much of the earlier gains, and that China's October activity data missed across the board, as covered Friday."
+      },
+      {
+       "h": "What it means and what to watch",
+       "p": "For a graduate eyeing Hong Kong roles, a weaker market usually slows capital-markets hiring but increases demand for wealth and risk teams. Watch Tuesday's open for the Nvidia reaction, and the Fed's December meeting. I did not verify local index levels beyond the sources above."
+      }
+     ]
+    },
+    {
+     "h": "Hong Kong's IPO record is within reach but needs a strong December in a weak market",
+     "d": "Intellinews reports Hong Kong's January to October IPO total is 84% above the same months of 2025, but the tech sell-off has thinned demand just as the year-end window opens. Proceeds would need to reach about HK$45.6bn in the last two months to beat the 2010 record of HK$449.5bn, which the report said the boom stalls short of by about US$6bn.",
+     "why": "IPOs are Hong Kong's biggest fee pool for banks, so a record year, or a near miss, shapes hiring and bonuses.",
+     "sources": [
+      {
+       "title": "bne IntelliNews: Hong Kong IPO boom stalls $6bn short of its 2010 record",
+       "url": "https://www.intellinews.com/hong-kong-ipo-boom-stalls-6bn-short-of-its-2010-record-487314/"
+      },
+      {
+       "title": "Bloomberg: Hong Kong stocks fall 20% from 2026 high as AI selloff spreads",
+       "url": "https://www.bloomberg.com/news/articles/2026-11-20/hong-kong-stocks-hang-seng-hsi-hkex-2026-ai-selloff-bear-market",
+       "paywalled": true
+      }
+     ],
+     "when": "Nov",
+     "more": [
+      {
+       "h": "The numbers",
+       "p": "Intellinews (bne) says proceeds from January to October were 84% higher than in the same period of 2025. To beat the 2010 record of HK$449.5bn, the market needs about HK$45.6bn in November and December. The headline says the boom has stalled about US$6bn short of that record. Friday's brief covered a record nine months followed by a cooler autumn; the new angle here is the specific gap to the record and the effect of the sell-off.\n\nI have only the one source for these figures, so treat them as reported rather than confirmed."
+      },
+      {
+       "h": "Background: how an IPO works for the banks",
+       "p": "In an IPO a company sells shares to investors for the first time. Investment banks act as sponsors and underwriters: they prepare the prospectus, set the price range with the company, find buyers and guarantee some of the sale. They earn a percentage fee of the money raised. Hong Kong has been a hub for large mainland and tech listings, and the exchange gets listing fees and trading.\n\nA weak market makes IPOs harder, because investors want a discount to buy new shares, and companies delay if they dislike the price."
+      },
+      {
+       "h": "What it means for banks and for you",
+       "p": "Global banks in Hong Kong, including Citi, earn from IPOs and from the wealth flows that follow them. A near-record year still means plenty of work, and the shape of recovery in 2027 will matter for anyone considering Hong Kong roles. For a Westpac graduate, the link is indirect but real: Australian companies and funds use Hong Kong for Asian capital raising."
+      },
+      {
+       "h": "What to watch next",
+       "p": "Count the large listings in the next five weeks and see whether they price at the top or bottom of their ranges. I have not verified a specific deal calendar."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "citi",
+   "name": "Citi",
+   "minutes": 4,
+   "items": [
+    {
+     "h": "Citi lines up Barrenjoey co-founder Mark Bellofiore to run ANZ equity capital markets from 2027",
+     "d": "Finimize and MarketScreener report that Citi has lined up Mark Bellofiore, a Barrenjoey founding partner with earlier roles at Goldman Sachs and JPMorgan, to lead equity capital markets (ECM) for Australia and New Zealand from 2027. The current head is John McLean, named in June 2025. This is a single-source report.",
+     "why": "It shows Citi investing in Australian dealmaking talent, and where graduates in markets and advisory might see the bank growing.",
+     "sources": [
+      {
+       "title": "Finimize: Citi lines up a new ECM chief for Australia and New Zealand",
+       "url": "https://finimize.com/content/citi-lines-up-a-new-ecm-chief-for-australia-and-new-zealand"
+      },
+      {
+       "title": "MarketScreener: Citi names Barrenjoey founding partner as new head of ANZ equity capital markets",
+       "url": "https://www.marketscreener.com/news/citi-names-barrenjoey-founding-partner-as-new-head-of-australia-and-new-zealand-equity-capital-marke-ce785edfde89f42c"
+      },
+      {
+       "title": "Citigroup: Citi ANZ appoints John McLean as head of ECM and global asset managers",
+       "url": "https://www.citigroup.com/global/news/press-release/2025/citi-australia-and-new-zealand-appoints-john-mclean-as-head-of-equity-capital-markets-and-global-asset-managers"
+      }
+     ],
+     "when": "17 Nov",
+     "more": [
+      {
+       "h": "What was reported",
+       "p": "Finimize says Citi has lined up Bellofiore, who is Sydney-based, to lead ANZ ECM from 2027, as part of a push to deepen its dealmaking team. It reports he would sit within a multi-layer reporting line across local and Asia-Pacific leaders. Citigroup's 2025 press release names John McLean as head of ECM and global asset managers for ANZ, and Capital Brief reported he moved from Singapore to Sydney. I found only one article on the Bellofiore hire and did not see his exact title or how McLean's role changes.\n\nFriday's brief covered Citi's 100 years in Australia and its local banking build-out, so this is a further data point on the same theme."
+      },
+      {
+       "h": "Background: ECM and why a hire matters",
+       "p": "Equity capital markets teams help companies raise money by selling shares: floats (IPOs), placements to institutions and rights issues. The head of ECM is a senior relationship builder with company boards and fund managers, and a good one wins mandates. Barrenjoey is a Sydney-based investment bank, so hiring one of its founding partners is a notable signal.\n\nFor Citi, which has long been a leading global institutional bank but a smaller retail player in Australia, winning ECM and advisory mandates is the main route to local profit."
+      },
+      {
+       "h": "What it means for Westpac and the sector",
+       "p": "Westpac's institutional bank competes with Citi for corporate clients, though Westpac's focus is on lending, transaction banking and markets rather than equity deals. Competition for corporate relationships in Australia is intensifying: lending growth of 18% in Westpac's institutional business shows it is a priority."
+      },
+      {
+       "h": "What to watch next",
+       "p": "Watch for confirmation from Citi and any further hires; the date he starts is not verified beyond '2027'."
+      }
+     ]
+    },
+    {
+     "h": "Citi plans more wealth advisers in Asia as the region's wealth revenue grows 13%",
+     "d": "Reports on Citi wealth head Andy Sieg's comments say Asia Pacific wealth revenue was US$2.58bn in the first nine months of the year, up 13%, and that the bank will keep adding bankers and wealth advisers in Asia. Friday's brief covered Sieg ruling out big acquisitions; the new detail is the Asia hiring push and the regional revenue figure.",
+     "why": "Wealth is where Citi and Westpac both compete for affluent clients, and Asia is where Citi is placing its bet.",
+     "sources": [
+      {
+       "title": "Yahoo Finance: Citigroup to accelerate Asia wealth expansion with major hiring push",
+       "url": "https://finance.yahoo.com/markets/stocks/articles/citigroup-accelerate-asia-wealth-expansion-163800698.html"
+      },
+      {
+       "title": "Private Banker International: Asia set to take big share of Citi's global wealth recruitment",
+       "url": "https://www.privatebankerinternational.com/news/citi-asia-wealth-recruitment/"
+      },
+      {
+       "title": "Citigroup: 21st Annual Citi China Conference",
+       "url": "https://www.citigroup.com/global/news/press-release/2026/citi-announces-21st-annual-citi-china-conference-to-explore-the-emerging-forces-shaping-the-future-economy-and-their-related-opportunities"
+      }
+     ],
+     "when": "17-20 Nov",
+     "more": [
+      {
+       "h": "What was said",
+       "p": "Yahoo Finance and Private Banker International reported that Citi expects Asia to take a large share of its global wealth recruitment, and that banker headcount would keep growing in the region. Sieg said Citi is going after about US$5 trillion in wealth balances that its clients hold with rival firms. The Asia Pacific wealth business generated US$2.58bn of revenue over nine months, up 13%, per the report. Citi also hosted its 21st China Conference in Shanghai and Shenzhen from 10 to 13 November.\n\nI saw summaries rather than full articles, so I cannot give the numbers of advisers to be hired."
+      },
+      {
+       "h": "Background: wealth management economics",
+       "p": "Wealth banks earn fees on assets under management, lending to wealthy clients and trading commissions. Revenue grows when markets rise and when clients bring more assets, so recruitment of advisers who bring client books is the usual route to growth. Because the bulk of a client's wealth often sits at other firms, a 'share of wallet' strategy of winning more of the same clients' assets is cheaper than winning new ones.\n\nAsia has fast-growing numbers of high-net-worth individuals and a large Chinese cross-border flow, which is why Hong Kong and Singapore are the main booking centres."
+      },
+      {
+       "h": "What it means for a graduate",
+       "p": "If you later look at Hong Kong, private banking and wealth teams are a core area for foreign banks. Westpac's wealth proposition is mostly domestic, so the two worlds differ, but the skills are similar: understanding clients' balance sheets, risk profiles and market cycles. A sharp fall in markets, like this month's, also hits fee revenue directly, so hiring plans depend on a recovery."
+      },
+      {
+       "h": "What to watch next",
+       "p": "Citi's next quarterly results, and any updates on the hiring numbers. I did not verify a date."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "global",
+   "name": "Global",
+   "minutes": 4,
+   "items": [
+    {
+     "h": "Wall Street has its best day since April 2025 as Nvidia reinstates Jensen Huang and the stock jumps about 31%",
+     "d": "The S&P 500 rose 4.73% to 7,237.17, the Nasdaq 6.51% to 24,089.56 and the Dow 3.01% to 49,595.31 on Monday, after Nvidia's board reinstated Jensen Huang as CEO. Nvidia shares rose roughly 31%. It reverses much of last week's AI-led rout, but nothing about AI spending itself has changed.",
+     "why": "A one-day move of this size says more about nerves and positioning than about the economy, and it sets the tone for Asia and the ASX on Tuesday.",
+     "sources": [
+      {
+       "title": "CNBC: Dow soars 1,400 points; Nasdaq surges 6% in its best day since April 2025 as Jensen Huang returns to Nvidia",
+       "url": "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html"
+      },
+      {
+       "title": "SEC: Nvidia Form 8-K, 23 November 2026",
+       "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000090/nov23pressrelease.htm"
+      },
+      {
+       "title": "Al Jazeera: Nvidia board reinstates Jensen Huang as CEO",
+       "url": "https://www.aljazeera.com/economy/2026/11/23/nvidia-board-reinstates-jensen-huang-as-ceo"
+      },
+      {
+       "title": "24/7 Wall St: Dow, S&P 500 and Nasdaq surge as Nvidia leads a major AI rebound",
+       "url": "https://247wallst.com/investing/2026/11/23/stock-market-today-dow-sp-500-and-nasdaq-surge-as-nvidia-leads-a-major-ai-rebound/"
+      }
+     ],
+     "when": "23 Nov close",
+     "more": [
+      {
+       "h": "What happened",
+       "p": "Nvidia filed an 8-K with the US SEC saying Huang was reinstated as president, CEO and board member, effective immediately, after a unanimous board vote and input from senior levels of the US government. Huang had resigned on 12 November and CFO Colette Kress had been interim CEO. The filing said a committee of independent directors is investigating a foreign intelligence effort targeting Huang. President Trump said Huang did 'nothing wrong'. Analyst Dan Ives said the board had no choice but to bring him back.\n\nCNBC reported the Nasdaq's best day since April 2025. Close prices vary slightly by outlet; the figures above are from the CNBC-based summary, while 24/7 Wall St had the S&P at 7,243.94."
+      },
+      {
+       "h": "Background: key-person risk",
+       "p": "Key-person risk arises when a company's value depends heavily on one individual. Huang co-founded Nvidia and is closely identified with its strategy, so the market reacted to his resignation as a question over leadership as well as AI demand. Last week's rout saw the S&P 500 enter a correction (a fall of at least 10% from its peak) after Friday's 3.7% drop, so Monday's rebound is a big bounce within a wider fall rather than a recovery to the high.\n\nThe market also cares because Nvidia is one of the largest companies in the major indices, so its share price moves the S&P 500 and Nasdaq on its own."
+      },
+      {
+       "h": "Different views",
+       "p": "Optimists say the board's reversal removes an uncertainty and that AI investment spending continues. Sceptics note analyst caution about unresolved export-control scrutiny, national-security questions and possible data-centre limits, as well as the accounting examination reported by US media. They also point out that the question investors raised, whether AI spending earns a return, remains unanswered."
+      },
+      {
+       "h": "What it means and what to watch",
+       "p": "For Australian banks the link is sentiment: a stable Wall Street helps super fund balances and wealth fee revenue. Watch Tuesday's ASX open, Nvidia's own earnings (I did not verify the date, as sources conflicted) and the Fed. Be careful not to draw trends from one day."
+      }
+     ]
+    },
+    {
+     "h": "Fed December hike looks near-certain, but Treasury Secretary Bessent warns against over-tightening",
+     "d": "October's Fed minutes showed almost all participants thought a further rise would likely be appropriate, with two open to more than a quarter point in December. Futures put a quarter-point hike at about 92% to 95% depending on the report. New since Friday: Treasury Secretary Scott Bessent warned that too much tightening would be a policy mistake, and the decision is due on 9 December.",
+     "why": "US rates drive the US dollar, Hong Kong's borrowing costs and the RBA's room to move.",
+     "sources": [
+      {
+       "title": "CNBC: Warsh wants Fed officials to talk less. Instead, they're talking more",
+       "url": "https://www.cnbc.com/2026/11/20/warsh-fed-forward-guidance-rate-hikes.html"
+      },
+      {
+       "title": "Yahoo Finance: Fed minutes, higher interest rates needed in December as inflation worries mount",
+       "url": "https://ca.finance.yahoo.com/news/fed-minutes-higher-interest-rates-191215222.html"
+      },
+      {
+       "title": "Seoul Economic Daily: Bessent warns Fed overtightening would be a policy mistake",
+       "url": "https://en.sedaily.com/world/2026/11/23/bessent-warns-fed-overtightening-would-be-a-policy-mistake"
+      },
+      {
+       "title": "Stocktitan: The Fed gets one last big inflation report before its December rate vote",
+       "url": "https://stocktitan.net/articles/october-2026-pce-inflation-preview"
+      }
+     ],
+     "when": "18-23 Nov",
+     "more": [
+      {
+       "h": "The state of play",
+       "p": "The Fed's October minutes, released on 18 November, said almost all participants judged a further rise would likely be appropriate, and two were open to more than a quarter point in December if inflation data disappointed. Governor Waller has argued for a half-point move, saying markets will not know whether a December quarter-point is the start of a series without clearer communication. Chair Warsh has largely avoided forward guidance, saying it ties the central bank to a path (CNBC, 20 November).\n\nA Seoul Economic Daily report says Bessent warned on 23 November that excessive Fed tightening would be a policy mistake. Futures odds differ between sources: one has roughly 95% on CME FedWatch and another 92% for a quarter-point and 8% for no change. A Stocktitan preview says the last big inflation report, the October PCE, arrives before the 9 December vote."
+      },
+      {
+       "h": "Background: why guidance and independence matter",
+       "p": "A central bank can steer markets by talking, which is forward guidance. Warsh's view is that it limits flexibility; the cost is that officials speak freely and markets get mixed messages. That is why the unusual picture of a chair who wants less talk and colleagues who talk more is a story in itself. A Treasury Secretary publicly warning about tightening is also notable, because the central bank is meant to act independently of the government's wishes, though officials often comment.\n\nHiking when equities have just had a big fall is uncomfortable. Higher rates lower the value of future profits, which hurts growth stocks such as AI companies most."
+      },
+      {
+       "h": "What it means for Australia",
+       "p": "A US hike with an RBA hold widens the gap between US and Australian rates, which usually supports the US dollar and pressures the Australian dollar. It also makes imported goods dearer in Australia, which feeds inflation. Hong Kong's dollar peg means local rates follow the Fed. For Westpac, global funding costs and margin on offshore borrowing rise a little."
+      },
+      {
+       "h": "What to watch next",
+       "p": "The October PCE inflation report, further comment from Waller and Warsh, and the 9 December decision. The date comes from one source (Stocktitan), so check the Fed's calendar."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "primer": [
+  {
+   "term": "Monopsony",
+   "text": "A market with one dominant buyer instead of one dominant seller. China's state buyer CMRG negotiating for many steel mills gives it extra bargaining power over iron ore miners."
+  },
+  {
+   "term": "Key-person risk",
+   "text": "The risk that a company's value depends too heavily on one individual. Nvidia's share price swung hard on news about Jensen Huang's resignation and return."
+  },
+  {
+   "term": "Benchmark hugging",
+   "text": "When a fund manager stays close to an index to avoid looking bad on a performance test. The super performance test changes aim to encourage more diversification, including a voluntary allowance for emerging assets."
+  },
+  {
+   "term": "Equity capital markets (ECM)",
+   "text": "The team at an investment bank that helps companies raise money by selling shares, in IPOs, placements and rights issues. Citi's incoming local ECM head is a senior hire in this area."
+  }
+ ],
+ "quiz": [
+  {
+   "id": "2026-11-24-q1",
+   "type": "mc",
+   "q": "What drove the 6.5% jump in the Nasdaq on Monday 23 November?",
+   "options": [
+    "The Fed ruled out a December rate hike",
+    "Nvidia's board reinstated Jensen Huang as CEO and Nvidia shares surged",
+    "China cut its loan prime rates",
+    "The Nasdaq was removed from the correction list by regulators"
+   ],
+   "answer": 1,
+   "explain": "Nvidia filed an 8-K saying Huang was reinstated as president and CEO, and the stock rose roughly 31%, lifting the S&P 500 by 4.73% and the Nasdaq by 6.51%.",
+   "from": "Tuesday · Global",
+   "topic": "global"
+  },
+  {
+   "id": "2026-11-24-q2",
+   "type": "mc",
+   "q": "Which pair of themes headline ASIC's 2027 enforcement priorities, announced on 18 November?",
+   "options": [
+    "Crypto exchanges and carbon credits",
+    "Cost-of-living harm and failures in technology including AI",
+    "Only auditor independence",
+    "Foreign bank branches and cash handling"
+   ],
+   "answer": 1,
+   "explain": "ASIC's release says it will target misconduct that adds to cost-of-living pressure and consumer harm from poorly implemented technology, including AI, within nine priorities.",
+   "from": "Tuesday · Regulation",
+   "topic": "regulation"
+  },
+  {
+   "id": "2026-11-24-q3",
+   "type": "mc",
+   "q": "China's state iron ore buyer CMRG has reached supply agreements with BHP and Rio Tinto. Which major Australian miner is still negotiating and warns of an impact if no deal by year-end?",
+   "options": [
+    "Fortescue",
+    "South32",
+    "Woodside",
+    "Newcrest"
+   ],
+   "answer": 0,
+   "explain": "BHP agreed in April and Rio Tinto in October, but Fortescue remains in negotiations and has warned its operations could be affected if talks do not conclude by year-end.",
+   "from": "Tuesday · Australia–China",
+   "topic": "china"
+  },
+  {
+   "id": "2026-11-24-q4",
+   "type": "mc",
+   "q": "The new 'emerging assets' benchmark in the super performance test would let trustees use it for up to what share of a portfolio?",
+   "options": [
+    "1%",
+    "5%",
+    "25%",
+    "50%"
+   ],
+   "answer": 1,
+   "explain": "Chalmers said trustees could use the voluntary benchmark for up to 5% of a portfolio, which he said could unlock up to $90 billion in emerging assets.",
+   "from": "Monday · Wealth & super",
+   "topic": "wealth"
+  },
+  {
+   "id": "2026-11-24-q5",
+   "type": "written",
+   "q": "A reported plan would let super funds and insurers provide a limited new class of advice that excludes holistic planning and tax or estate advice. In about 150 words, explain who benefits, what risks regulators should watch for, and how a bank's wealth business such as Westpac's might respond.",
+   "topic": "wealth"
+  }
+ ],
+ "chinese": {
+  "segments": [
+   {
+    "t": "美国"
+   },
+   {
+    "t": "股市",
+    "py": "gǔshì"
+   },
+   {
+    "t": "下跌",
+    "py": "xiàdiē"
+   },
+   {
+    "t": "了"
+   },
+   {
+    "t": "。"
+   },
+   {
+    "t": "特朗普"
+   },
+   {
+    "t": "支持",
+    "py": "zhīchí"
+   },
+   {
+    "t": "黄仁勋"
+   },
+   {
+    "t": "回来",
+    "py": "huílái"
+   },
+   {
+    "t": "。"
+   }
+  ],
+  "english": "The US stock market fell. Trump supports Jensen Huang coming back.",
+  "original": {
+   "title": "同花顺 (Chinese): 美股全线下挫芯片再遭抛售纳指重挫2.5% 特朗普“支持”黄仁勋回归",
+   "url": "https://stock.10jqka.com.cn/20261117/c681880848.shtml"
+  },
+  "words": [
+   {
+    "hz": "股市",
+    "py": "gǔshì",
+    "en": "stock market"
+   },
+   {
+    "hz": "下跌",
+    "py": "xiàdiē",
+    "en": "to fall (prices)"
+   },
+   {
+    "hz": "支持",
+    "py": "zhīchí",
+    "en": "to support"
+   },
+   {
+    "hz": "回来",
+    "py": "huílái",
+    "en": "to come back"
+   }
+  ]
+ },
+ "markets": {
+  "summary": "Wall Street staged its best day since April 2025 on Monday: the S&P 500 rose 4.73% to 7,237.17 and the Nasdaq 6.51% to 24,089.56 after Nvidia reinstated Jensen Huang. That came after the ASX 200 had closed down 0.26% at 8,570.6, its eighth straight fall, and the Hang Seng finished 0.21% lower at about 22,383. ASX futures pointed to a rise of about 1.5% for Tuesday.",
+  "forWestpac": "Westpac fell 1.89% to $35.26 and CBA lost $3.77 to $166.15 in Monday's session, before the US rally. Tuesday's open and Wednesday's October CPI decide whether the bounce lasts and whether the 8 December RBA meeting stays a hold.",
+  "extras": [
+   {
+    "name": "RBA cash rate",
+    "sub": "Raised to 4.85% on 3 Nov in a 6-3 vote. Next meeting 8 Dec; CommBank and ANZ economists expect a hold. I did not verify a market-implied probability today.",
+    "value": "4.85%"
+   },
+   {
+    "name": "S&P 500",
+    "sub": "23 Nov close (24/7 Wall St shows 7,243.94; CNBC-based figure used)",
+    "value": "7,237.17",
+    "change": "+4.73%"
+   },
+   {
+    "name": "Nasdaq Composite",
+    "sub": "23 Nov close, best day since April 2025",
+    "value": "24,089.56",
+    "change": "+6.51%"
+   },
+   {
+    "name": "ASX 200",
+    "sub": "23 Nov close, eighth straight decline (Sharetrader)",
+    "value": "8,570.6",
+    "change": "-0.26%"
+   },
+   {
+    "name": "Hang Seng",
+    "sub": "23 Nov close per The Standard, after an intraday drop near 2%",
+    "value": "about 22,383",
+    "change": "-0.21%"
+   },
+   {
+    "name": "Westpac (WBC)",
+    "sub": "23 Nov close",
+    "value": "$35.26",
+    "change": "-1.89%"
+   },
+   {
+    "name": "Iron ore (Singapore Dec)",
+    "sub": "23 Nov, fifth session below US$90; Dalian 651.5 yuan",
+    "value": "US$88.25",
+    "change": "-0.25%"
+   }
+  ]
+ }
+}
