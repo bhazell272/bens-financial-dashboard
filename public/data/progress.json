@@ -1,15 +1,15 @@
 {
- "updated": "2026-11-25",
- "summary": "Day three. Progress fills in as you go.",
- "streak": 0,
- "opened30": 0,
- "quizAccuracy": null,
- "writtenAvg": null,
- "predictions": {
-  "you": 0,
-  "claude": 0
- },
- "wordsKnown": 0,
- "reasoning": [],
- "weakest": []
+  "updated": "2026-11-26",
+  "summary": "Day five. Progress fills in as you go.",
+  "streak": 0,
+  "opened30": 0,
+  "quizAccuracy": null,
+  "writtenAvg": null,
+  "predictions": {
+    "you": 0,
+    "claude": 0
+  },
+  "wordsKnown": 0,
+  "reasoning": [],
+  "weakest": []
 }
