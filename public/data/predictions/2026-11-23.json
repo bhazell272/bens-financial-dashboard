@@ -7,5 +7,15 @@
  ],
  "now": "Last seen about 0.673 in mid-November (single source, not a live quote)",
  "closesAt": "2026-11-23T15:00:00Z",
- "claude": "eyJjYWxsIjogMSwgImp1c3RpZmljYXRpb24iOiAiQmVsb3cgMC42NyBpcyBteSBjYWxsLCBuYXJyb3dseS4gQSB3ZWFrIGpvYnMgcHJpbnQgYW5kIHRhbGsgb2YgYSBsb25nIFJCQSBob2xkIHJlZHVjZSB0aGUgQVVEJ3MgcmF0ZSBzdXBwb3J0LCB3aGlsZSBoYXdraXNoIEZlZCBtaW51dGVzIHN1cHBvcnQgdGhlIFVTIGRvbGxhci4gVGhlIHJpc2s6IHRoZSBBVUQgd2FzIGFyb3VuZCAwLjY3MyBtaWQtTm92ZW1iZXIsIHNvIGl0IGlzIGNsb3NlIHRvIHRoZSBsaW5lLCBhbmQgYSBoYXdraXNoIHN1cnByaXNlIGZyb20gdGhlIFJCQSBvciBzdHJvbmdlciBDaGluYSBkYXRhIGNvdWxkIGxpZnQgaXQuIn0="
+ "claude": "eyJjYWxsIjogMSwgImp1c3RpZmljYXRpb24iOiAiQmVsb3cgMC42NyBpcyBteSBjYWxsLCBuYXJyb3dseS4gQSB3ZWFrIGpvYnMgcHJpbnQgYW5kIHRhbGsgb2YgYSBsb25nIFJCQSBob2xkIHJlZHVjZSB0aGUgQVVEJ3MgcmF0ZSBzdXBwb3J0LCB3aGlsZSBoYXdraXNoIEZlZCBtaW51dGVzIHN1cHBvcnQgdGhlIFVTIGRvbGxhci4gVGhlIHJpc2s6IHRoZSBBVUQgd2FzIGFyb3VuZCAwLjY3MyBtaWQtTm92ZW1iZXIsIHNvIGl0IGlzIGNsb3NlIHRvIHRoZSBsaW5lLCBhbmQgYSBoYXdraXNoIHN1cnByaXNlIGZyb20gdGhlIFJCQSBvciBzdHJvbmdlciBDaGluYSBkYXRhIGNvdWxkIGxpZnQgaXQuIn0=",
+ "result": {
+  "answer": 1,
+  "actual": "AUD/USD was about 0.6675 in European trade on Fri 27 Nov (FXStreet, around 09:30 UTC), below 0.67. This is a Friday-morning quote, not the New York close, which had not happened when this was scored. Thursday's close was about 0.6642.",
+  "claude": {
+   "evidence": 1,
+   "mechanism": 2,
+   "risk": 2
+  },
+  "claudeSaw": "The Below call was right on the level, and the mechanism (RBA less hawkish, US rates higher) was sound, but the reasoning leaned on an unverified 'weak jobs print' and missed that a hot CPI and a Friday metals rebound would push the AUD up toward the line. The lesson: when a pair sits within about 1% of the strike, name the nearest catalyst on each side, not just the one you favour."
+ }
 }

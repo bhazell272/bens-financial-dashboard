@@ -1,15 +1,21 @@
 {
   "updated": "2026-11-27",
-  "summary": "Day six. Progress fills in as you go.",
+  "summary": "Week one scored: Claude called AUD/USD below 0.67 and was right (reasoning 5/9). Your call wasn't recorded, so nothing is counted for you yet.",
   "streak": 0,
   "opened30": 0,
   "quizAccuracy": null,
   "writtenAvg": null,
   "predictions": {
     "you": 0,
-    "claude": 0
+    "claude": 1
   },
   "wordsKnown": 0,
-  "reasoning": [],
+  "reasoning": [
+    {
+      "week": "2026-11-23",
+      "you": null,
+      "claude": 5
+    }
+  ],
   "weakest": []
 }

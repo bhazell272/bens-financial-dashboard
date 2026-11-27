@@ -1,0 +1,117 @@
+{
+ "id": "2026-11-23",
+ "range": "23–27 November",
+ "readMinutes": 7,
+ "paragraph": "A week of two halves for markets and one stubborn problem for the RBA. The AI-led sell-off that ended the previous week gave way to a record rebound on Monday after Nvidia reinstated Jensen Huang, but the rally faded within a day and Wall Street whipsawed on Wednesday, with the Dow erasing a 1,100-point drop. In Australia the ASX 200 ran an eighth straight fall, then bounced, and Wednesday's October CPI (headline 4.9%, trimmed mean 3.8%) was hotter than hoped, which made the RBA's 8 December decision harder even though most economists still expect a hold. Thursday's 12.2% jump in capital expenditure, driven by imported data-centre equipment, added to the picture. The banks themselves were mixed: Westpac and its peers fell with the market, bank bosses kept warning that arrears will rise, and NAB showed the stress first in business lending. APRA finalised its governance standard and the super-fund advice bill reached Parliament.",
+ "changes": [
+  {
+   "topic": "Rates & RBA",
+   "text": "October CPI came in at 4.9% headline and 3.8% trimmed mean, with a 0.5% monthly trimmed mean against 0.3% expected. Markets and most economists still lean to a hold on 8 December, but the chance of a further hike has not gone away. Bullock offered no forward guidance."
+  },
+  {
+   "topic": "Westpac",
+   "text": "Westpac slipped 1.89% to $35.26 on Monday as the ASX posted its eighth straight fall, and its economists see a December hold as the base case with February the risk. Miller told MPs that mortgage fraud is getting more sophisticated and that arrears are expected to rise gradually. The bank also priced US$750m of Tier 2 notes."
+  },
+  {
+   "topic": "Big four banks",
+   "text": "CBA's first-quarter cash profit rose 8% to $2.8bn even as arrears climbed, and ANZ's Matos called markets dangerous. NAB's bad debts nearly doubled in FY26 and it signed a record-size deal over underpaying staff. Investor lending posted its biggest quarterly fall on record."
+  },
+  {
+   "topic": "Regulation",
+   "text": "APRA finalised CPS 510, one governance standard for banks, insurers and super trustees from January 2028, and consulted on a practice guide. Its System Risk Outlook called banks resilient but flagged mortgage competition. ASIC set 2027 enforcement priorities on cost-of-living harm and technology failures."
+  },
+  {
+   "topic": "Wealth & super",
+   "text": "The intrafund advice bill was tabled on 26 November, letting funds give limited personal advice with costs shared across members. ASFA welcomed it while the planners and the FSC warned about conflicts. The super performance test is also being widened."
+  },
+  {
+   "topic": "Business banking",
+   "text": "NAB's survey showed conditions at their weakest since August 2020 as forward orders slumped, and NAB's Irvine said stress is building, hitting smaller firms hardest. The RBA noted business debt growth at a post-GFC high. Retail failures continued, including David Jones administrators getting a three-month extension."
+  },
+  {
+   "topic": "Australia–China",
+   "text": "Iron ore stayed near US$88–90 as Canberra warned that manipulating the trade would breach international rules and Fortescue kept negotiating with China's central buyer. China's October data was soft, with retail sales up just 0.4%, and Beijing set a much weaker yuan fix than forecast on Thursday."
+  },
+  {
+   "topic": "Hong Kong",
+   "text": "The Hang Seng fell seven days in a row to 21,966, its lowest close since April 2025, before rising 1.19% to 22,226.88 on Thursday. A record IPO year (about HK$410bn) continues despite a weak market."
+  },
+  {
+   "topic": "Citi",
+   "text": "Citi's wholly owned Shanghai securities firm is taking shape and Fraser urged continued engagement with China. Citi lined up Mark Bellofiore to run ANZ equity capital markets from 2027, and US chip curbs froze a US$480m Malaysian data-centre loan, a compliance test for regional lenders."
+  },
+  {
+   "topic": "Global",
+   "text": "A December Fed hike is priced near 98%, with Waller floating a half-point move after October PCE inflation rose to 3.8%. Wall Street had its best day since April 2025 on Monday, then gave much of it back. US markets were shut on Thursday for Thanksgiving."
+  }
+ ],
+ "dots": "First, inflation is stuck above target on both sides of the Pacific. A hot October CPI in Australia and 3.8% PCE in the US mean the RBA cannot rule out more tightening while the Fed is almost certain to hike, which keeps funding costs and the AUD under pressure and delays any relief for borrowers. For Westpac that supports margins in the short run but raises the chance of arrears, which CBA, NAB and Westpac all expect to rise through 2027. Second, stress shows first in business lending: NAB's survey, rising insolvencies and retail failures point to small firms as the weak point, and Westpac's 12% jump in business lending to $128bn means it has more exposure to that segment as conditions soften. Third, the AI trade is now a banking story. Capex into imported data-centre equipment helps global tech more than local activity, and swings in AI shares drove the ASX and the Hang Seng alike, so Westpac's share price is trading on global risk appetite as much as on its own results. Add regulation, with APRA's governance overhaul and ASIC's technology focus, and banks face higher resilience expectations just as the credit cycle turns.",
+ "next": [
+  {
+   "day": "Mon 30",
+   "text": "China's official manufacturing PMI for November (October was 49.3), a read on demand for Australian iron ore. Not a confirmed release time."
+  },
+  {
+   "day": "Wed 2",
+   "text": "ABS national accounts for the September quarter 2026, the main Australian data event before the RBA meets. Last quarter GDP rose 0.4%."
+  },
+  {
+   "day": "Fri 4",
+   "text": "US November jobs report at 8:30am New York time, the last major US labour reading before the Fed meets on 9 December."
+  },
+  {
+   "day": "Tue 8",
+   "text": "RBA decision at 2:30pm Sydney time after a two-day meeting. The cash rate is 4.85% and markets lean heavily to a hold, but the October CPI keeps hike risk alive."
+  }
+ ],
+ "sources": [
+  {
+   "title": "ABS: Consumer Price Index, Australia, October 2026",
+   "url": "https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/consumer-price-index-australia/latest-release"
+  },
+  {
+   "title": "investingLive: Australia trimmed mean CPI jumps to 3.8% in October",
+   "url": "https://investinglive.com/central-banks/australia-trimmed-mean-cpi-jumps-to-3-8-in-october-keeping-further-rba-hike-risk-alive/"
+  },
+  {
+   "title": "ABS: Data centre investment continues to drive new capital expenditure",
+   "url": "https://www.abs.gov.au/media-centre/media-releases/data-centre-investment-continues-drive-new-capital-expenditure"
+  },
+  {
+   "title": "APRA: Changes to governance",
+   "url": "https://www.apra.gov.au/consultations/changes-governance"
+  },
+  {
+   "title": "Financial Standard: Govt tables bill to expand scope of intrafund advice",
+   "url": "https://www.financialstandard.com.au/news/govt-tables-bill-to-expand-scope-of-intrafund-advice-179814733"
+  },
+  {
+   "title": "NAB: Monthly Business Survey",
+   "url": "https://www.nab.com.au/news/economy-markets/nab-monthly-business-survey--order-books-thin-as-business-sentim"
+  },
+  {
+   "title": "Sharetrader: Mining rebound falls short as ASX 200 extends losses",
+   "url": "https://sharetrader.com.au/news/2026-11-23-mining-rebound-falls-short-as-asx-200-extends-last-weeks-losses"
+  },
+  {
+   "title": "CNBC: Dow closes higher Wednesday, wiping out 1,100-point drop",
+   "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html"
+  },
+  {
+   "title": "The Standard (HK): Hang Seng Index closes below 22,000",
+   "url": "https://www.thestandard.com.hk/finance/article/349608/Hang-Seng-Index-closes-below-22000-marks"
+  },
+  {
+   "title": "Newsquawk: PBoC sets USD/CNY midpoint at 6.7096",
+   "url": "https://www.newsquawk.com/headlines/pboc-sets-usdcny-midpoint-at-67096-vs-exp-66655-prev-67088"
+  },
+  {
+   "title": "SCMP: Citigroup CEO Jane Fraser strikes bullish tone on China",
+   "url": "https://www.scmp.com/business/banking-finance/article/3373914/citigroup-ceo-jane-fraser-strikes-bullish-tone-china-expansion-after-brokerage-approval"
+  },
+  {
+   "title": "MPA: Fed rate hike odds hit 100% as Waller floats bigger December move",
+   "url": "https://www.mpamag.com/us/mortgage-industry/industry-trends/fed-rate-hike-odds-hit-100-as-waller-floats-bigger-december-move/596880"
+  }
+ ]
+}
